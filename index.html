@@ -1,0 +1,855 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RBT Big Data | Mapa Interativo do Brasil - Transplantes (ABTO)</title>
+  <meta name="description" content="Dashboard analítico de Big Data e mapa interativo do Registro Brasileiro de Transplantes (RBT ABTO 2015-2025). Visualização de doações, transplantes e filas por UF.">
+  
+  <!-- Google Fonts: Outfit & Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+  
+  <!-- Custom Stylesheet -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Top Navigation Header -->
+  <header class="app-header">
+    <div class="brand-wrapper">
+      <div class="brand-icon">
+        <!-- Heart / Vital Organ Icon -->
+        <svg viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+        </svg>
+      </div>
+      <div class="brand-title">
+        <h1>RBT Big Data | Observatório Nacional de Transplantes</h1>
+        <p>Dados Históricos Consolidados da ABTO (2015 a 2025) • 27 Unidades Federativas</p>
+      </div>
+    </div>
+    
+    <div class="header-actions">
+      <div class="badge-tag">
+        <span class="badge-dot"></span>
+        <span>Base Oficial 2015-2025</span>
+      </div>
+      <button class="btn-header" id="btn-open-carto" title="Configurar CARTO Basemaps API Key">
+        <span class="badge-dot" style="background:#10b981; box-shadow:0 0 6px #10b981;"></span>
+        <span id="header-carto-label">CARTO Key: cb1_4ytd...</span>
+      </button>
+      <button class="btn-header" id="btn-open-bigdata">
+        <svg width="16" height="16" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4"/></svg>
+        Central Big Data & Datasets
+      </button>
+      <button class="btn-header" id="btn-export-csv" title="Download da base tabular consolidada">
+        <svg width="16" height="16" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
+        Exportar CSV
+      </button>
+    </div>
+  </header>
+
+  <main class="dashboard-container">
+    <!-- Top KPI Banner (Updates dynamically with selected year) -->
+    <section class="kpi-grid" id="kpi-banner">
+      <!-- Card 1: Doadores Efetivos -->
+      <div class="kpi-card has-popover" style="--card-accent: #38bdf8; cursor: help;" id="kpi-card-doadores">
+        <div class="kpi-top">
+          <span class="kpi-label">Doadores Efetivos</span>
+          <div class="kpi-icon" title="Passe o mouse para entender">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/></svg>
+          </div>
+        </div>
+        <div class="kpi-value" id="kpi-doadores-val">0</div>
+        <div class="kpi-subtitle" id="kpi-doadores-sub">Nacional no ano selecionado</div>
+        <div style="font-size: 0.68rem; color: #38bdf8; margin-top: 4px; display: flex; align-items: center; gap: 4px;">
+          <span>ℹ️ Passe o mouse para entender a relação com transplantes</span>
+        </div>
+
+        <!-- Explainer Popover Doadores -->
+        <div class="kpi-explainer-popover">
+          <div class="popover-header">
+            <span>🫀</span>
+            <span>O que define um Doador Efetivo?</span>
+          </div>
+          <div class="popover-content">
+            <p><strong>Doador Efetivo:</strong> É o paciente com morte encefálica confirmada cujos órgãos foram cirurgicamente retirados para transplante.</p>
+            <p><strong>Multi-doação:</strong> Um único doador efetivo pode doar coração, fígado, 2 rins, 2 pulmões, pâncreas e 2 córneas, beneficiando até 8 pacientes diferentes!</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 2: Taxa Nacional PMP com Popover da Fórmula Exata -->
+      <div class="kpi-card has-popover" style="--card-accent: #10b981; cursor: help;" id="kpi-card-pmp">
+        <div class="kpi-top">
+          <span class="kpi-label" id="kpi-pmp-label">Taxa Nacional PMP</span>
+          <div class="kpi-icon" title="Passe o mouse para ver a fórmula e o cálculo">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"/></svg>
+          </div>
+        </div>
+        <div class="kpi-value" id="kpi-pmp-val">0.0</div>
+        <div class="kpi-subtitle" id="kpi-pmp-sub">Doadores por Milhão de População</div>
+        <div style="font-size: 0.68rem; color: #10b981; margin-top: 4px; display: flex; align-items: center; gap: 4px;">
+          <span>ℹ️ Passe o mouse: como é calculada a taxa PMP</span>
+        </div>
+
+        <!-- Popover Explicativo PMP -->
+        <div class="kpi-explainer-popover" id="popover-pmp-math">
+          <div class="popover-header">
+            <span>📐</span>
+            <span>Como é calculada a Taxa PMP?</span>
+          </div>
+          <div class="popover-content">
+            <p><strong>O que significa PMP?</strong><br>
+            Significa <strong>Por Milhão de População</strong> (<em>Per Million Population</em>). É o indicador epidemiológico padrão-ouro adotado internacionalmente pela Organização Mundial da Saúde (OMS) e pela ABTO para comparar a eficácia da doação de órgãos entre estados e países, neutralizando distorções no tamanho populacional.</p>
+
+            <div class="math-breakdown">
+              <div style="color: #38bdf8; font-weight: 700;">Fórmula Oficial da ABTO:</div>
+              <div>PMP = (Doadores Efetivos ÷ População Residente IBGE) × 1.000.000</div>
+              <div class="math-sum" id="popover-pmp-example">
+                Cálculo Brasil 2025: (4.335 ÷ 213.421.037) × 1.000.000 = 20,3 PMP
+              </div>
+            </div>
+
+            <p style="margin-top: 6px; font-size: 0.72rem; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 6px;">
+              <strong>Por que ela é crucial?</strong><br>
+              Permite enxergar que Santa Catarina (42,8 PMP) é o estado líder absoluto do Brasil em conversão de doadores, mesmo tendo menos população que São Paulo (23,6 PMP).
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 3: Transplantes Realizados com Explicação Matemática Completa -->
+      <div class="kpi-card has-popover" style="--card-accent: #818cf8; cursor: help;" id="kpi-card-transplantes">
+        <div class="kpi-top">
+          <span class="kpi-label">Transplantes Realizados</span>
+          <div class="kpi-icon" title="Passe o mouse para ver a matemática">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+          </div>
+        </div>
+        <div class="kpi-value" id="kpi-tx-val">0</div>
+        <div class="kpi-subtitle" id="kpi-tx-sub">Órgãos sólidos + Córneas</div>
+        <div style="font-size: 0.68rem; color: #818cf8; margin-top: 4px; display: flex; align-items: center; gap: 4px;">
+          <span>ℹ️ Passe o mouse: entenda de onde saíram os 9.935 órgãos</span>
+        </div>
+
+        <!-- Popover Explicativo Matemático -->
+        <div class="kpi-explainer-popover" id="popover-tx-math">
+          <div class="popover-header">
+            <span>🧬</span>
+            <span>Matemática: 4.335 Doadores &rarr; 9.935 Órgãos &rarr; 27.725 Transplantes</span>
+          </div>
+          <div class="popover-content">
+            <p><strong>1. Múltiplos Órgãos por Doador:</strong><br>
+            Cada ser humano possui <strong>2 rins</strong>. Em 2025, os 4.335 doadores falecidos geraram <strong>5.844 transplantes renais</strong>, <strong>2.573 fígados</strong>, <strong>427 corações</strong>, <strong>142 pâncreas</strong> e <strong>96 pulmões</strong>.</p>
+            
+            <p><strong>2. Doadores Vivos (Rim):</strong><br>
+            Houve <strong>853 transplantes de rim com doador vivo</strong> (parentes/cônjuges). Doadores vivos não contam como óbitos/doadores falecidos.</p>
+
+            <div class="math-breakdown">
+              <div>5.844 (Rim Doador Falecido) + 853 (Rim Doador Vivo) = 6.697 Rins</div>
+              <div>+ 2.573 (Fígado) + 427 (Coração) + 142 (Pâncreas) + 96 (Pulmão)</div>
+              <div class="math-sum">= 9.935 Órgãos Sólidos Transplantados</div>
+              <div>+ 17.790 Córneas (Tecidos oculares: cada doador gera até 2)</div>
+              <div class="math-total">= 27.725 Transplantes Realizados no Brasil em 2025</div>
+            </div>
+
+            <p style="margin-top: 6px; font-size: 0.72rem; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 6px;">
+              <strong>Por que alguns estados têm mais transplantes que doadores?</strong><br>
+              Grandes centros (SP, PR, RS, CE, MG, DF) realizam procedimentos de alta complexidade e recebem órgãos captados em outros estados via Sistema Nacional de Transplantes (SNT / FAB / Linhas Aéreas), operando pacientes de todo o território nacional.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 4: Fila de Espera Ativa com Popover Detalhado -->
+      <div class="kpi-card has-popover popover-align-right" style="--card-accent: #f59e0b; cursor: help;" id="kpi-card-fila">
+        <div class="kpi-top">
+          <span class="kpi-label" id="kpi-fila-label">Fila de Espera Ativa</span>
+          <div class="kpi-icon" title="Passe o mouse para entender a fila">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+          </div>
+        </div>
+        <div class="kpi-value" id="kpi-fila-val">0</div>
+        <div class="kpi-subtitle" id="kpi-fila-sub">Pacientes aguardando órgão</div>
+        <div style="font-size: 0.68rem; color: #f59e0b; margin-top: 4px; display: flex; align-items: center; gap: 4px;">
+          <span>ℹ️ Passe o mouse: veja quem está na fila</span>
+        </div>
+
+        <!-- Popover Explicativo Fila de Espera -->
+        <div class="kpi-explainer-popover" id="popover-fila-breakdown">
+          <div class="popover-header">
+            <span>⏳</span>
+            <span>O que é a Fila de Espera Ativa?</span>
+          </div>
+          <div class="popover-content">
+            <p><strong>Definição Oficial (SNT / ABTO):</strong><br>
+            Representa o contingente de pacientes cadastrados no Sistema Nacional de Transplantes que estão clinicamente ativos e compatibilizados aguardando a oferta de um órgão em 31 de dezembro.</p>
+
+            <div class="math-breakdown" id="popover-fila-details">
+              <div style="color: #f59e0b; font-weight: 700;">Distribuição por Órgão no Brasil (2025):</div>
+              <div>• Rim: 38.925 pacientes (52,7% da fila)</div>
+              <div>• Córnea: 32.639 pacientes (44,2% da fila)</div>
+              <div>• Fígado: 1.458 pacientes (2,0%)</div>
+              <div>• Coração: 372 pacientes (0,5%)</div>
+              <div>• Pulmão: 245 pacientes (0,3%)</div>
+              <div>• Pâncreas: 238 pacientes (0,3%)</div>
+              <div class="math-sum">• Fila Pediátrica: 1.033 crianças aguardando</div>
+              <div class="math-total">• Mortalidade na Fila: 4.102 óbitos no ano</div>
+            </div>
+
+            <p style="margin-top: 6px; font-size: 0.72rem; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 6px;">
+              <strong>Dinâmica da Fila:</strong> Em 2025, entraram <strong>51.868 novos inscritos</strong>. Como a oferta de doadores ainda é inferior à demanda de doenças crônicas renais e hepáticas, a fila cresce a cada ano.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 5: Recusa Familiar Média com Popover Explicativo Completo -->
+      <div class="kpi-card has-popover popover-align-right" style="--card-accent: #f43f5e; cursor: help;" id="kpi-card-recusa">
+        <div class="kpi-top">
+          <span class="kpi-label" id="kpi-recusa-label">Recusa Familiar Média</span>
+          <div class="kpi-icon" title="Passe o mouse para entender a recusa familiar">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18.364 18.364A9 9 0 005.636 5.636m12.728 12.728A9 9 0 015.636 5.636m12.728 12.728L5.636 5.636"/></svg>
+          </div>
+        </div>
+        <div class="kpi-value" id="kpi-recusa-val">0.0%</div>
+        <div class="kpi-subtitle" id="kpi-recusa-sub">Em entrevistas familiares realizadas</div>
+        <div style="font-size: 0.68rem; color: #f43f5e; margin-top: 4px; display: flex; align-items: center; gap: 4px;">
+          <span>ℹ️ Passe o mouse: entenda o maior gargalo</span>
+        </div>
+
+        <!-- Popover Explicativo Recusa Familiar -->
+        <div class="kpi-explainer-popover" id="popover-recusa-info">
+          <div class="popover-header">
+            <span>🛑</span>
+            <span>O que é a Taxa de Recusa Familiar?</span>
+          </div>
+          <div class="popover-content">
+            <p><strong>Definição e Cálculo:</strong><br>
+            É a porcentagem de famílias de potenciais doadores (com morte encefálica confirmada) que, durante a entrevista médica, <strong>não autorizam</strong> a doação dos órgãos do familiar falecido.</p>
+
+            <div class="math-breakdown" id="popover-recusa-details">
+              <div style="color: #f43f5e; font-weight: 700;">A Legislação Brasileira (Consentimento Familiar):</div>
+              <div>Pela Lei nº 9.434/97 e Decreto nº 9.175/17, a doação pós-morte depende exclusivamente do consentimento formal expresso da família (cônjuge ou parentes maiores de até 2º grau). Manifestações prévias da pessoa em vida não têm valor legal sem a anuência familiar.</div>
+              <div class="math-sum">Panorama no Brasil: Média Nacional de ~44% a 48%</div>
+              <div style="font-size: 0.72rem; color: #cbd5e1; margin-top: 4px; line-height: 1.5;">
+                • <strong>Região Sul:</strong> Menor taxa do país (36,6% em 2025; PR com 27,8% e SC com 30,2%).<br>
+                • <strong>Região Sudeste:</strong> Média de 42,9% (SP com 41,2%; RJ com 48,5%).<br>
+                • <strong>Norte e Nordeste:</strong> Taxas elevadas (Norte com 63,6%; vários estados acima de 65%).
+              </div>
+            </div>
+
+            <p style="margin-top: 6px; font-size: 0.72rem; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 6px;">
+              <strong>Por que é o maior obstáculo no país?</strong><br>
+              A recusa familiar supera todas as contraindicações médicas. Os principais motivos apontados pela ABTO são: desconhecimento da vontade do falecido em vida, medo de mutilação do corpo e desconfiança quanto à morte encefálica. Conversar com a família é essencial para salvar vidas!
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Interactive Control Bar (Filters, Metrics, Periods & Regions) -->
+    <section class="control-bar" style="flex-direction: column; align-items: stretch; gap: 0.85rem;">
+      <!-- Row 1: Periods (Pré/Pandemia/Pós) & Ischemia Button -->
+      <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 0.75rem; border-bottom: 1px solid var(--border-subtle); padding-bottom: 0.75rem;">
+        <div class="control-group">
+          <span class="control-label">Período Epidemiológico:</span>
+          <div class="period-pills" id="period-selector">
+            <button class="period-pill active" data-period="annual">📅 Ano a Ano</button>
+            <button class="period-pill" data-period="pre">🟢 Pré-Pandemia (2015-2019)</button>
+            <button class="period-pill" data-period="pandemic">🔴 Pandemia (2020-2021)</button>
+            <button class="period-pill" data-period="post">🔵 Pós-Pandemia (2022-2025)</button>
+          </div>
+        </div>
+
+        <button class="btn-header" id="btn-open-ischemia" style="background: rgba(244, 63, 94, 0.15); border-color: rgba(244, 63, 94, 0.35); color: #f43f5e; font-weight: 600;">
+          <svg width="15" height="15" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+          ⏱️ O Órgão Não Espera: Tempos de Isquemia
+        </button>
+      </div>
+
+      <!-- Row 2: Regions & Metrics & Time Slider -->
+      <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 0.85rem;">
+        <!-- Region Pills -->
+        <div class="control-group">
+          <span class="control-label">Região:</span>
+          <div class="region-pills" id="region-pills">
+            <button class="region-pill active" data-region="ALL">🇧🇷 Brasil (Nacional)</button>
+            <button class="region-pill" data-region="Norte">Norte</button>
+            <button class="region-pill" data-region="Nordeste">Nordeste</button>
+            <button class="region-pill" data-region="Centro-Oeste">Centro-Oeste</button>
+            <button class="region-pill" data-region="Sudeste">Sudeste</button>
+            <button class="region-pill" data-region="Sul">Sul</button>
+          </div>
+        </div>
+
+        <!-- Metric Selector -->
+        <div class="control-group">
+          <span class="control-label">Métrica:</span>
+          <div class="metric-pills" id="metric-selector">
+            <button class="metric-pill active" data-metric="Doadores_Efetivos_PMP">Doadores (PMP)</button>
+            <button class="metric-pill" data-metric="Notificacoes_PMP">Notificações (PMP)</button>
+            <button class="metric-pill" data-metric="Tx_Total_Geral_PMP">Transplantes (PMP)</button>
+            <button class="metric-pill" data-metric="Recusa_Familiar_Pct">Recusa Familiar (%)</button>
+            <button class="metric-pill" data-metric="Lista_Ativos_Total_Geral">Fila de Espera</button>
+          </div>
+        </div>
+
+        <!-- Year Slider (Active only in Annual mode) -->
+        <div class="timeline-control" id="timeline-control-wrapper">
+          <button class="btn-play" id="btn-play-timeline" title="Animar evolução no tempo (2015-2025)">
+            <svg id="play-icon" width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+            <svg id="pause-icon" width="16" height="16" fill="currentColor" viewBox="0 0 24 24" style="display: none;"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>
+          </button>
+          <div class="year-slider-wrapper">
+            <span class="control-label">Ano:</span>
+            <input type="range" min="2015" max="2025" step="1" value="2025" class="year-slider" id="year-slider">
+            <span class="year-display" id="year-display">2025</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Workspace Grid: Interactive Map + Side Analytics -->
+    <div class="workspace-grid">
+      <!-- Leaflet Choropleth Map Card -->
+      <section class="map-card">
+        <div class="map-header">
+          <div class="map-title">
+            <span>Mapa Temático dos Estados Brasileiros</span>
+            <span class="map-indicator-badge" id="map-active-metric-name">Taxa de Doadores Efetivos (PMP)</span>
+          </div>
+          <span style="font-size: 0.75rem; color: var(--text-muted);">
+            💡 Passe o mouse para detalhes ou clique para raio-x do estado
+          </span>
+        </div>
+
+        <div id="map"></div>
+
+        <!-- Dynamic Map Legend -->
+        <div class="map-legend" id="map-legend">
+          <div class="legend-title" id="legend-title">Doadores Efetivos PMP</div>
+          <div class="legend-scale-bar" id="legend-scale-bar"></div>
+          <div class="legend-labels">
+            <span id="legend-min">0.0</span>
+            <span id="legend-mid">20.0</span>
+            <span id="legend-max">45.0+</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Side Analytics: Ranking Leaderboard & Spotlight -->
+      <aside class="side-panel">
+        <div class="panel-card">
+          <div class="panel-header">
+            <div class="panel-title">
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"/></svg>
+              <span>Ranking dos Estados (<span id="ranking-year-label">2025</span>)</span>
+            </div>
+            <span style="font-size: 0.75rem; color: var(--text-muted);" id="ranking-metric-unit">PMP</span>
+          </div>
+          
+          <div class="ranking-list" id="ranking-list">
+            <!-- Dynamically populated -->
+          </div>
+        </div>
+
+        <div class="panel-card">
+          <div class="panel-header">
+            <div class="panel-title">
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+              <span>Destaque Rápido</span>
+            </div>
+          </div>
+          <div class="state-spotlight-box" id="state-spotlight">
+            Selecione ou clique em qualquer estado no mapa para ver indicadores específicos e comparativo com a média nacional.
+          </div>
+        </div>
+      </aside>
+    </div>
+
+    <!-- Secondary Charts Section: National Trend & Regional Matrix -->
+    <section class="bottom-analytics-grid">
+      <div class="chart-card">
+        <div class="panel-header">
+          <div class="panel-title">
+            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 12l3-3 3 3 4-4M8 21l4-4 4 4M3 4h18M4 4h16v12a1 1 0 01-1 1H5a1 1 0 01-1-1V4z"/></svg>
+            <span>Série Histórica Nacional (2008 a 2025): Doações e Transplantes</span>
+          </div>
+          <span style="font-size: 0.75rem; color: var(--text-muted);">Fonte: RBT ABTO</span>
+        </div>
+        <div class="chart-wrapper">
+          <canvas id="chart-national-series"></canvas>
+        </div>
+      </div>
+
+      <div class="chart-card">
+        <div class="panel-header" style="flex-wrap: wrap; gap: 0.5rem;">
+          <div class="panel-title">
+            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 3.055A9.001 9.001 0 1020.945 13H11V3.055z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.488 9H15V3.512A9.025 9.025 0 0120.488 9z"/></svg>
+            <span>Transplantes por Tipo de Órgão (<span id="organs-year-label">2025</span>)</span>
+          </div>
+
+          <!-- View Toggle: Horizontal Bars vs Doughnut -->
+          <div class="chart-view-toggle">
+            <button class="btn-chart-toggle active" id="btn-view-bars" title="Visualização em barras horizontais (mais legível para pequenos volumes)">📊 Barras</button>
+            <button class="btn-chart-toggle" id="btn-view-donut" title="Visualização proporcional em rosca">🍩 Rosca</button>
+          </div>
+        </div>
+        <div class="chart-wrapper">
+          <canvas id="chart-organ-breakdown"></canvas>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Modal 1: State Deep Dive Raio-X -->
+  <div class="modal-overlay" id="modal-state-deepdive">
+    <div class="state-modal-container">
+      <div class="modal-header">
+        <div class="modal-title-group">
+          <span class="modal-uf-badge" id="modal-uf-sigla">--</span>
+          <div class="modal-title-text">
+            <h2 id="modal-uf-nome">Selecione um Estado</h2>
+            <p id="modal-uf-meta">Dados Oficiais RBT ABTO</p>
+          </div>
+        </div>
+        <button class="btn-close-modal" id="btn-close-state-modal">&times;</button>
+      </div>
+
+      <div class="modal-body">
+        <!-- State 4 Key Indicators -->
+        <div class="modal-kpi-row">
+          <div class="modal-kpi-box">
+            <div class="modal-kpi-label">Doadores Efetivos (PMP)</div>
+            <div class="modal-kpi-val" id="modal-kpi-pmp">--</div>
+            <div style="font-size: 0.7rem; color: #34d399;" id="modal-kpi-pmp-compare">--</div>
+          </div>
+          <div class="modal-kpi-box">
+            <div class="modal-kpi-label">Transplantes Realizados</div>
+            <div class="modal-kpi-val" id="modal-kpi-tx">--</div>
+            <div style="font-size: 0.7rem; color: var(--text-muted);" id="modal-kpi-tx-sub">Órgãos e tecidos</div>
+          </div>
+          <div class="modal-kpi-box">
+            <div class="modal-kpi-label">Taxa de Recusa Familiar</div>
+            <div class="modal-kpi-val" id="modal-kpi-recusa">--</div>
+            <div style="font-size: 0.7rem; color: var(--text-muted);" id="modal-kpi-recusa-sub">Entrevistas realizadas</div>
+          </div>
+          <div class="modal-kpi-box">
+            <div class="modal-kpi-label">Fila de Espera Ativa</div>
+            <div class="modal-kpi-val" id="modal-kpi-fila">--</div>
+            <div style="font-size: 0.7rem; color: var(--accent-rose);" id="modal-kpi-fila-sub">Pacientes inscritos</div>
+          </div>
+        </div>
+
+        <!-- State Charts: 11-Year Evolution & Organ Distribution -->
+        <div class="modal-charts-grid">
+          <div class="chart-card" style="min-height: 280px;">
+            <div class="panel-title" style="margin-bottom: 0.5rem;">Evolução Histórica do Estado (2015 - 2025)</div>
+            <div class="chart-wrapper">
+              <canvas id="modal-chart-evolution"></canvas>
+            </div>
+          </div>
+
+          <div class="chart-card" style="min-height: 280px;">
+            <div class="panel-title" style="margin-bottom: 0.5rem;">Composição de Doações & Órgãos</div>
+            <div class="chart-wrapper">
+              <canvas id="modal-chart-pie"></canvas>
+            </div>
+          </div>
+        </div>
+
+        <!-- Demographic / Clinical Breakdown of Donors -->
+        <div class="panel-card" style="margin-top: -0.5rem;">
+          <div class="panel-title" style="margin-bottom: 0.75rem;">Perfil Clínico dos Doadores Efetivos no Estado (Dados Reais ABTO)</div>
+          <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1rem; font-size: 0.8rem;">
+            <div>
+              <span style="color: var(--text-muted);">Gênero:</span>
+              <p id="modal-donor-gender" style="font-weight: 600; color: #fff;">--</p>
+            </div>
+            <div>
+              <span style="color: var(--text-muted);">Causas de Morte Encefálica:</span>
+              <p id="modal-donor-causes" style="font-weight: 600; color: #fff;">--</p>
+            </div>
+            <div>
+              <span style="color: var(--text-muted);">Tipos Sanguíneos:</span>
+              <p id="modal-donor-blood" style="font-weight: 600; color: #fff;">--</p>
+            </div>
+            <div>
+              <span style="color: var(--text-muted);">Mortalidade Anual na Fila:</span>
+              <p id="modal-donor-mortality" style="font-weight: 600; color: #f43f5e;">--</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal 2: Central e Estúdio de Big Data -->
+  <div class="modal-overlay" id="modal-bigdata-hub">
+    <div class="state-modal-container" style="max-width: 960px;">
+      <div class="modal-header">
+        <div class="modal-title-group">
+          <div class="brand-icon" style="width: 40px; height: 40px;">
+            <svg width="22" height="22" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"/></svg>
+          </div>
+          <div class="modal-title-text">
+            <h2>Central de Engenharia & Big Data Analytics</h2>
+            <p>Datasets Consolidados (2015-2025) • Formatos Colunares de Alta Velocidade • Esquema Estruturado</p>
+          </div>
+        </div>
+        <button class="btn-close-modal" id="btn-close-bigdata-modal">&times;</button>
+      </div>
+
+      <div class="modal-body">
+        <!-- 4 Datasets Ready to Download -->
+        <div class="panel-title" style="margin-bottom: 0.75rem;">1. Datasets Consolidados Prontos para Uso</div>
+        <div class="datasets-grid">
+          <!-- Parquet -->
+          <div class="dataset-card">
+            <div>
+              <div class="dataset-card-top">
+                <span class="format-badge parquet">Apache Parquet</span>
+                <span class="dataset-meta">55 KB</span>
+              </div>
+              <div class="dataset-title" style="margin-top: 0.5rem;">rbt_painel_uf.parquet</div>
+              <p class="dataset-desc">Armazenamento colunar binário com compressão Snappy. Ideal para Polars, DuckDB, Apache Spark e Databricks.</p>
+            </div>
+            <a href="rbt_painel_uf_consolidado.parquet" download class="btn-download-dataset">
+              <svg width="14" height="14" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/></svg>
+              Baixar Parquet
+            </a>
+          </div>
+
+          <!-- CSV -->
+          <div class="dataset-card">
+            <div>
+              <div class="dataset-card-top">
+                <span class="format-badge csv">CSV Consolidado</span>
+                <span class="dataset-meta">67 KB</span>
+              </div>
+              <div class="dataset-title" style="margin-top: 0.5rem;">rbt_painel_uf.csv</div>
+              <p class="dataset-desc">Tabela relacional limpa em UTF-8 com tipos normalizados. Pronto para Power BI, Tableau, Excel e bancos SQL.</p>
+            </div>
+            <a href="rbt_painel_uf_consolidado.csv" download class="btn-download-dataset">
+              <svg width="14" height="14" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/></svg>
+              Baixar CSV
+            </a>
+          </div>
+
+          <!-- GeoJSON -->
+          <div class="dataset-card">
+            <div>
+              <div class="dataset-card-top">
+                <span class="format-badge geojson">GeoJSON Espacial</span>
+                <span class="dataset-meta">110 KB</span>
+              </div>
+              <div class="dataset-title" style="margin-top: 0.5rem;">brazil_states.geojson</div>
+              <p class="dataset-desc">Malha vetorial oficial do IBGE com 27 Unidades Federativas enriquecidas com códigos e siglas de estado.</p>
+            </div>
+            <a href="brazil_states.geojson" download class="btn-download-dataset">
+              <svg width="14" height="14" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/></svg>
+              Baixar GeoJSON
+            </a>
+          </div>
+
+          <!-- JSON Store -->
+          <div class="dataset-card">
+            <div>
+              <div class="dataset-card-top">
+                <span class="format-badge json">JSON Analítico</span>
+                <span class="dataset-meta">493 KB</span>
+              </div>
+              <div class="dataset-title" style="margin-top: 0.5rem;">rbt_dashboard_data.json</div>
+              <p class="dataset-desc">Estrutura completa em JSON com séries nacionais 2008-2025, séries regionais e infraestrutura hospitalar.</p>
+            </div>
+            <a href="rbt_dashboard_data.json" download class="btn-download-dataset">
+              <svg width="14" height="14" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/></svg>
+              Baixar JSON
+            </a>
+          </div>
+        </div>
+
+        <!-- Pipeline Stats & Summary -->
+        <div class="schema-summary-box">
+          <div class="schema-summary-item">
+            <span>Dimensão Temporal:</span>
+            <span>2015 a 2025 (11 Anos)</span>
+          </div>
+          <div class="schema-summary-item">
+            <span>Volume Total:</span>
+            <span>308 Registros (27 UFs + Brasil)</span>
+          </div>
+          <div class="schema-summary-item">
+            <span>Colunas Estruturadas:</span>
+            <span>56 Variáveis Numéricas e Categóricas</span>
+          </div>
+          <div class="schema-summary-item">
+            <span>Taxa PMP Recalculada:</span>
+            <span>100% Exata (Fórmula Oficial ABTO)</span>
+          </div>
+          <div class="schema-summary-item">
+            <span>Qualidade dos Dados:</span>
+            <span>0 Inconsistências de Data do Excel</span>
+          </div>
+        </div>
+
+        <!-- Interactive Variable Dictionary -->
+        <div class="panel-title" style="margin-bottom: 0.5rem;">2. Dicionário de Variáveis & Esquema de Dados</div>
+        <div class="schema-table-container">
+          <table class="schema-table">
+            <thead>
+              <tr>
+                <th>Nome da Coluna</th>
+                <th>Tipo de Dado</th>
+                <th>Origem / Fórmula</th>
+                <th>Descrição Analítica</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td style="color: #38bdf8; font-weight: 600;">Ano</td>
+                <td>Int64</td>
+                <td>RBT ABTO</td>
+                <td>Ano de referência do registro epidemiológico (2015 a 2025).</td>
+              </tr>
+              <tr>
+                <td style="color: #38bdf8; font-weight: 600;">UF_Sigla</td>
+                <td>String</td>
+                <td>IBGE</td>
+                <td>Sigla de 2 caracteres da Unidade da Federação ou 'BR' para total nacional.</td>
+              </tr>
+              <tr>
+                <td style="color: #38bdf8; font-weight: 600;">Populacao_IBGE</td>
+                <td>Int64</td>
+                <td>IBGE Censo / Projeção</td>
+                <td>População residente oficial utilizada para cálculo das taxas demográficas.</td>
+              </tr>
+              <tr>
+                <td style="color: #38bdf8; font-weight: 600;">Doadores_Efetivos_N</td>
+                <td>Int64</td>
+                <td>RBT ABTO</td>
+                <td>Total absoluto de doadores com órgãos efetivamente retirados para transplante.</td>
+              </tr>
+              <tr>
+                <td style="color: #38bdf8; font-weight: 600;">Doadores_Efetivos_PMP</td>
+                <td>Float64</td>
+                <td>(Doadores_N / Pop) * 1.000.000</td>
+                <td>Taxa padronizada de doadores efetivos por milhão de população.</td>
+              </tr>
+              <tr>
+                <td style="color: #38bdf8; font-weight: 600;">Recusa_Familiar_Pct</td>
+                <td>Float64</td>
+                <td>(Recusa_N / Entrevistas_N) * 100</td>
+                <td>Percentual de recusa da doação durante entrevistas familiares.</td>
+              </tr>
+              <tr>
+                <td style="color: #38bdf8; font-weight: 600;">Tx_Total_Geral_N</td>
+                <td>Int64</td>
+                <td>Órgãos Sólidos + Córneas</td>
+                <td>Total consolidado de transplantes realizados no ano no estado.</td>
+              </tr>
+              <tr>
+                <td style="color: #38bdf8; font-weight: 600;">Lista_Ativos_Total_Geral</td>
+                <td>Int64</td>
+                <td>SNT / ABTO</td>
+                <td>Número de pacientes aguardando ativamente por um órgão em 31 de dezembro.</td>
+              </tr>
+              <tr>
+                <td style="color: #38bdf8; font-weight: 600;">Lista_Mortalidade_Anual_Total</td>
+                <td>Int64</td>
+                <td>SNT / ABTO</td>
+                <td>Total anual de pacientes que foram a óbito aguardando transplante na fila.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <!-- Big Data Queries Tabs -->
+        <div class="panel-title" style="margin-bottom: 0.5rem;">3. Scripts de Extração e Consultas de Alto Desempenho</div>
+        <div class="code-tabs-nav">
+          <button class="code-tab-btn active" id="tab-polars">Python (Polars / DuckDB)</button>
+          <button class="code-tab-btn" id="tab-pyspark">PySpark / Databricks</button>
+          <button class="code-tab-btn" id="tab-sql">SQL Analytics (DuckDB / BigQuery)</button>
+          <button class="code-tab-btn" id="tab-powerbi">Power BI (M Script)</button>
+        </div>
+
+        <div class="code-preview-box" id="code-snippet-box">
+<span style="color: #64748b;"># Exemplo de consulta analítica em alta performance com Polars</span>
+<span style="color: #f43f5e;">import</span> polars <span style="color: #f43f5e;">as</span> pl
+
+<span style="color: #64748b;"># 1. Carregamento instantâneo do arquivo colunar Parquet</span>
+df = pl.read_parquet(<span style="color: #a855f7;">"rbt_painel_uf_consolidado.parquet"</span>)
+
+<span style="color: #64748b;"># 2. Ranking de UFs com maior conversão de doadores no ano de 2025</span>
+top_eficiencia = (
+    df.filter(pl.col(<span style="color: #a855f7;">"Ano"</span>) == 2025)
+      .select([
+          <span style="color: #a855f7;">"UF_Sigla"</span>, <span style="color: #a855f7;">"Regiao"</span>, 
+          <span style="color: #a855f7;">"Doadores_Efetivos_PMP"</span>, 
+          <span style="color: #a855f7;">"Recusa_Familiar_Pct"</span>,
+          <span style="color: #a855f7;">"Tx_Total_Geral_PMP"</span>
+      ])
+      .sort(<span style="color: #a855f7;">"Doadores_Efetivos_PMP"</span>, descending=<span style="color: #38bdf8;">True</span>)
+)
+print(top_eficiencia.head(10))
+        </div>
+
+        <div style="display: flex; justify-content: flex-end; gap: 0.75rem; margin-top: 0.75rem;">
+          <button class="btn-header" id="btn-copy-code">
+            <svg width="14" height="14" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"/></svg>
+            Copiar Código
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal 3: Gerenciador de Chave de API CARTO -->
+  <div class="modal-overlay" id="modal-carto-settings">
+    <div class="state-modal-container" style="max-width: 640px;">
+      <div class="modal-header">
+        <div class="modal-title-group">
+          <div class="brand-icon" style="width: 36px; height: 36px; background: linear-gradient(135deg, #059669, #10b981);">
+            <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 7a2 2 0 012 2m4 0a6 6 0 01-7.743 5.743L11 17H9v2H7v2H4a1 1 0 01-1-1v-2.586a1 1 0 01.293-.707l5.964-5.964A6 6 0 1121 9z"/></svg>
+          </div>
+          <div class="modal-title-text">
+            <h2>Configuração da API Key CARTO</h2>
+            <p>Gerencie sua chave oficial para sair das limitações da versão gratuita</p>
+          </div>
+        </div>
+        <button class="btn-close-modal" id="btn-close-carto-modal">&times;</button>
+      </div>
+
+      <div class="modal-body">
+        <div class="carto-status-banner">
+          <span class="badge-dot" style="background: #10b981; box-shadow: 0 0 8px #10b981;"></span>
+          <div>
+            <div style="font-weight: 700; color: #34d399; font-size: 0.85rem;">Status: CARTO Basemaps Autenticado</div>
+            <div style="font-size: 0.75rem; color: #94a3b8;">As requisições de mapas Raster e Vector agora usam sua chave registrada.</div>
+          </div>
+        </div>
+
+        <div style="margin-bottom: 1.25rem;">
+          <label style="font-size: 0.8rem; font-weight: 600; color: #cbd5e1; display: block; margin-bottom: 0.4rem;">Sua API Key do CARTO:</label>
+          <input type="text" id="carto-api-key-input" class="carto-input-field" value="cb1_4ytd_1_f3e2a2f72e115d6b20429838" placeholder="Cole sua chave aqui...">
+        </div>
+
+        <div style="background: rgba(0, 0, 0, 0.35); border: 1px solid var(--border-subtle); border-radius: var(--radius-sm); padding: 0.85rem; font-size: 0.75rem; color: var(--text-muted); margin-bottom: 1.25rem;">
+          <div style="font-weight: 600; color: #ffffff; margin-bottom: 0.25rem;">URL de Tile Raster em Uso:</div>
+          <div style="word-break: break-all; color: #38bdf8; font-family: monospace;" id="carto-tile-url-preview">
+            https://basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png?key=cb1_4ytd_1_f3e2a2f72e115d6b20429838
+          </div>
+        </div>
+
+        <div style="display: flex; justify-content: flex-end; gap: 0.75rem;">
+          <button class="btn-header" id="btn-save-carto-key" style="background: #10b981; color: #000; font-weight: 700; border-color: #10b981;">
+            Salvar e Atualizar Mapa
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal 4: O Órgão Não Espera: Tempos de Isquemia e Logística Crítica -->
+  <div class="modal-overlay" id="modal-ischemia">
+    <div class="state-modal-container" style="max-width: 860px;">
+      <div class="modal-header">
+        <div class="modal-title-group">
+          <div class="brand-icon" style="width: 38px; height: 38px; background: linear-gradient(135deg, #e11d48, #f43f5e);">
+            <svg width="22" height="22" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+          </div>
+          <div class="modal-title-text">
+            <h2>O Órgão Não Espera: Tempo de Isquemia Fria e Logística Vital</h2>
+            <p>Limites biológicos de preservação e o impacto logístico entre Pré-Pandemia, Pandemia e Pós-Pandemia</p>
+          </div>
+        </div>
+        <button class="btn-close-modal" id="btn-close-ischemia-modal">&times;</button>
+      </div>
+
+      <div class="modal-body">
+        <!-- 6 Organ Preservation Cards -->
+        <div class="ischemia-grid">
+          <div class="ischemia-card">
+            <div class="ischemia-organ-icon">🫀</div>
+            <div class="ischemia-organ-name">Coração</div>
+            <div class="ischemia-time-val">4 Horas</div>
+            <div class="ischemia-time-sub">Máxima urgência (Voo FAB)</div>
+          </div>
+          <div class="ischemia-card">
+            <div class="ischemia-organ-icon">🫁</div>
+            <div class="ischemia-organ-name">Pulmão</div>
+            <div class="ischemia-time-val">4 a 6 Horas</div>
+            <div class="ischemia-time-sub">Altíssima sensibilidade</div>
+          </div>
+          <div class="ischemia-card">
+            <div class="ischemia-organ-icon">🩺</div>
+            <div class="ischemia-organ-name">Fígado</div>
+            <div class="ischemia-time-val">12 Horas</div>
+            <div class="ischemia-time-sub">Transporte interestadual</div>
+          </div>
+          <div class="ischemia-card">
+            <div class="ischemia-organ-icon">🥞</div>
+            <div class="ischemia-organ-name">Pâncreas</div>
+            <div class="ischemia-time-val">12 Horas</div>
+            <div class="ischemia-time-sub">Geralmente duplo c/ Rim</div>
+          </div>
+          <div class="ischemia-card">
+            <div class="ischemia-organ-icon">🫘</div>
+            <div class="ischemia-organ-name">Rim</div>
+            <div class="ischemia-time-val">24 a 36h</div>
+            <div class="ischemia-time-sub">Maior tolerância térmica</div>
+          </div>
+          <div class="ischemia-card">
+            <div class="ischemia-organ-icon">👁️</div>
+            <div class="ischemia-organ-name">Córnea</div>
+            <div class="ischemia-time-val">Até 14 Dias</div>
+            <div class="ischemia-time-sub">Preservação em Banco de Olhos</div>
+          </div>
+        </div>
+
+        <!-- Explanatory Analysis: Why the Pandemic Hurt and Post-Pandemic Recovered -->
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; font-size: 0.8rem; margin-bottom: 1rem;">
+          <div class="panel-card" style="background: rgba(244, 63, 94, 0.06); border-color: rgba(244, 63, 94, 0.25);">
+            <div style="font-weight: 700; color: #f43f5e; margin-bottom: 0.4rem; display: flex; align-items: center; gap: 0.4rem;">
+              <span>🔴 O Impacto Crítico da Pandemia (2020-2021)</span>
+            </div>
+            <p style="color: #cbd5e1; line-height: 1.5;">
+              Como o órgão tem poucas horas de sobrevivência fora do corpo humano, o cancelamento de mais de <strong>90% da malha aérea comercial</strong> e o colapso de UTIs impediram que órgãos captados chegassem a tempo a receptores em outros estados. Isso causou uma queda imediata de <strong>-24% nos transplantes</strong> e elevou a <strong>mortalidade na fila para mais de 3.400 óbitos por ano</strong>.
+            </p>
+          </div>
+
+          <div class="panel-card" style="background: rgba(16, 185, 129, 0.06); border-color: rgba(16, 185, 129, 0.25);">
+            <div style="font-weight: 700; color: #34d399; margin-bottom: 0.4rem; display: flex; align-items: center; gap: 0.4rem;">
+              <span>🔵 A Retomada no Pós-Pandemia (2022-2025)</span>
+            </div>
+            <p style="color: #cbd5e1; line-height: 1.5;">
+              Com a reativação dos protocolos de segurança, parceria prioritária com a <strong>Força Aérea Brasileira (FAB)</strong> e voos comerciais, o Brasil bateu seu recorde histórico em 2025: <strong>4.335 doadores efetivos</strong> e <strong>27.725 transplantes</strong>, salvando vidas de norte a sul do país.
+            </p>
+          </div>
+        </div>
+
+        <div style="background: rgba(0, 0, 0, 0.35); border: 1px solid var(--border-subtle); border-radius: var(--radius-sm); padding: 0.85rem; font-size: 0.75rem; color: var(--text-muted);">
+          <strong>💡 Como a Logística Resolve as Diferenças Regionais:</strong><br>
+          Estados com menor capacidade cirúrgica avançada geram doadores que salvam pacientes em grandes centros (SP, PR, RS, CE, MG). Cada minuto conta: a Central Nacional de Transplantes (CNNCDO) aciona aeronaves em tempo recorde assim que o protocolo de morte encefálica é validado.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Leaflet Library -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <!-- Chart.js Library -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <!-- Data Bundle (GeoJSON + Full RBT Database) -->
+  <script src="data_store.js"></script>
+  <!-- Application Logic -->
+  <script src="app.js"></script>
+</body>
+</html>
