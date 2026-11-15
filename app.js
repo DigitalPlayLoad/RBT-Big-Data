@@ -1,6 +1,6 @@
 /**
  * RBT Big Data Analytics - Interactive Map & Dashboard
- * 100% DADOS REAIS: Associação Brasileira de Transplante de Órgãos (ABTO) / IBGE (2015-2025)
+ * 100% DADOS REAIS: Associação Brasileira de Transplante de Órgãos (ABTO) / IBGE (2015-2026)
  * Chave Oficial CARTO Basemaps: cb1_4ytd_1_f3e2a2f72e115d6b20429838
  */
 
@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const storedCartoKey = localStorage.getItem('carto_api_key') || 'cb1_4ytd_1_f3e2a2f72e115d6b20429838';
 
   const state = {
-    year: 2025,
+    year: 2026,
     period: 'annual', // 'annual', 'pre', 'pandemic', 'post'
     metric: 'Doadores_Efetivos_PMP',
     region: 'ALL', // 'ALL', 'Norte', 'Nordeste', 'Centro-Oeste', 'Sudeste', 'Sul'
@@ -17,16 +17,16 @@ document.addEventListener('DOMContentLoaded', () => {
     isPlaying: false,
     playTimer: null,
     minYear: 2015,
-    maxYear: 2025,
+    maxYear: 2026,
     cartoKey: storedCartoKey,
     organChartType: 'bar' // 'bar' (horizontal bar) or 'doughnut'
   };
 
   const PERIODS = {
-    'annual': { label: 'Ano Específico', years: [2025] },
+    'annual': { label: 'Ano Específico', years: [2026] },
     'pre': { label: 'Pré-Pandemia (2015-2019)', years: [2015, 2016, 2017, 2018, 2019] },
     'pandemic': { label: 'Pandemia (2020-2021)', years: [2020, 2021] },
-    'post': { label: 'Pós-Pandemia (2022-2025)', years: [2022, 2023, 2024, 2025] }
+    'post': { label: 'Pós-Pandemia (2022-2026)', years: [2022, 2023, 2024, 2025, 2026] }
   };
 
   // Metrics Configuration
@@ -1347,7 +1347,7 @@ regional_agg.show()`,
     <span style="color: #f43f5e;">CASE</span> 
         <span style="color: #f43f5e;">WHEN</span> Ano < 2020 <span style="color: #f43f5e;">THEN</span> <span style="color: #a855f7;">'1. Pre-Pandemia (2015-2019)'</span>
         <span style="color: #f43f5e;">WHEN</span> Ano <span style="color: #f43f5e;">BETWEEN</span> 2020 <span style="color: #f43f5e;">AND</span> 2021 <span style="color: #f43f5e;">THEN</span> <span style="color: #a855f7;">'2. Pandemia (2020-2021)'</span>
-        <span style="color: #f43f5e;">ELSE</span> <span style="color: #a855f7;">'3. Pos-Pandemia (2022-2025)'</span>
+        <span style="color: #f43f5e;">ELSE</span> <span style="color: #a855f7;">'3. Pos-Pandemia (2022-2026)'</span>
     <span style="color: #f43f5e;">END</span> <span style="color: #f43f5e;">AS</span> fase_epidemiologica,
     <span style="color: #38bdf8;">ROUND</span>(<span style="color: #38bdf8;">AVG</span>(Doadores_Efetivos_N), 0) <span style="color: #f43f5e;">AS</span> media_anual_doadores,
     <span style="color: #38bdf8;">ROUND</span>(<span style="color: #38bdf8;">AVG</span>(Tx_Total_Geral_N), 0) <span style="color: #f43f5e;">AS</span> media_anual_transplantes,

@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>RBT Big Data | Mapa Interativo do Brasil - Transplantes (ABTO)</title>
-  <meta name="description" content="Dashboard analítico de Big Data e mapa interativo do Registro Brasileiro de Transplantes (RBT ABTO 2015-2025). Visualização de doações, transplantes e filas por UF.">
+  <meta name="description" content="Dashboard analítico de Big Data e mapa interativo do Registro Brasileiro de Transplantes (RBT ABTO 2015-2026). Visualização de doações, transplantes e filas por UF.">
   
   <!-- Google Fonts: Outfit & Inter -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -30,14 +30,14 @@
       </div>
       <div class="brand-title">
         <h1>RBT Big Data | Observatório Nacional de Transplantes</h1>
-        <p>Dados Históricos Consolidados da ABTO (2015 a 2025) • 27 Unidades Federativas</p>
+        <p>Dados Históricos Consolidados da ABTO (2015 a 2026) • 27 Unidades Federativas</p>
       </div>
     </div>
     
     <div class="header-actions">
       <div class="badge-tag">
         <span class="badge-dot"></span>
-        <span>Base Oficial 2015-2025</span>
+        <span>Base Oficial 2015-2026</span>
       </div>
       <button class="btn-header" id="btn-open-carto" title="Configurar CARTO Basemaps API Key">
         <span class="badge-dot" style="background:#10b981; box-shadow:0 0 6px #10b981;"></span>
@@ -264,7 +264,7 @@
             <button class="period-pill active" data-period="annual">📅 Ano a Ano</button>
             <button class="period-pill" data-period="pre">🟢 Pré-Pandemia (2015-2019)</button>
             <button class="period-pill" data-period="pandemic">🔴 Pandemia (2020-2021)</button>
-            <button class="period-pill" data-period="post">🔵 Pós-Pandemia (2022-2025)</button>
+            <button class="period-pill" data-period="post">🔵 Pós-Pandemia (2022-2026)</button>
           </div>
         </div>
 
@@ -303,14 +303,14 @@
 
         <!-- Year Slider (Active only in Annual mode) -->
         <div class="timeline-control" id="timeline-control-wrapper">
-          <button class="btn-play" id="btn-play-timeline" title="Animar evolução no tempo (2015-2025)">
+          <button class="btn-play" id="btn-play-timeline" title="Animar evolução no tempo (2015-2026)">
             <svg id="play-icon" width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
             <svg id="pause-icon" width="16" height="16" fill="currentColor" viewBox="0 0 24 24" style="display: none;"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>
           </button>
           <div class="year-slider-wrapper">
             <span class="control-label">Ano:</span>
-            <input type="range" min="2015" max="2025" step="1" value="2025" class="year-slider" id="year-slider">
-            <span class="year-display" id="year-display">2025</span>
+            <input type="range" min="2015" max="2026" step="1" value="2026" class="year-slider" id="year-slider">
+            <span class="year-display" id="year-display">2026</span>
           </div>
         </div>
       </div>
@@ -350,7 +350,7 @@
           <div class="panel-header">
             <div class="panel-title">
               <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"/></svg>
-              <span>Ranking dos Estados (<span id="ranking-year-label">2025</span>)</span>
+              <span>Ranking dos Estados (<span id="ranking-year-label">2026</span>)</span>
             </div>
             <span style="font-size: 0.75rem; color: var(--text-muted);" id="ranking-metric-unit">PMP</span>
           </div>
@@ -393,7 +393,7 @@
         <div class="panel-header" style="flex-wrap: wrap; gap: 0.5rem;">
           <div class="panel-title">
             <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 3.055A9.001 9.001 0 1020.945 13H11V3.055z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.488 9H15V3.512A9.025 9.025 0 0120.488 9z"/></svg>
-            <span>Transplantes por Tipo de Órgão (<span id="organs-year-label">2025</span>)</span>
+            <span>Transplantes por Tipo de Órgão (<span id="organs-year-label">2026</span>)</span>
           </div>
 
           <!-- View Toggle: Horizontal Bars vs Doughnut -->
@@ -580,11 +580,11 @@
         <div class="schema-summary-box">
           <div class="schema-summary-item">
             <span>Dimensão Temporal:</span>
-            <span>2015 a 2025 (11 Anos)</span>
+            <span>2015 a 2026 (12 Anos)</span>
           </div>
           <div class="schema-summary-item">
             <span>Volume Total:</span>
-            <span>308 Registros (27 UFs + Brasil)</span>
+            <span>336 Registros (27 UFs + Brasil)</span>
           </div>
           <div class="schema-summary-item">
             <span>Colunas Estruturadas:</span>

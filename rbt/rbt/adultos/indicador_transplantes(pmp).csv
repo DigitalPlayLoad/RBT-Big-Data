@@ -1,0 +1,5833 @@
+UF,Anos,Numero_Tx,Orgaos,Valor_PPM,Tipo
+AC,2015,2,Rim,2.42,vivos
+AC,2015,13,Rim,15.72,falecidos
+AC,2015,0,Fígado,0,vivos
+AC,2015,5,Fígado,6.05,falecidos
+AC,2015,0,Coração,0,vivos
+AC,2015,0,Coração,0,falecidos
+AC,2015,0,Pulmão,0,vivos
+AC,2015,0,Pulmão,0,falecidos
+AC,2015,0,Pancreas,0,vivos
+AC,2015,0,Pancreas,0,falecidos
+AC,2015,0,Córnea,0,vivos
+AC,2015,19,Córnea,22.97,falecidos
+AC,2015,0,Medula,0,Autologos
+AC,2015,0,Medula,0,Alogenicos aparentado
+AC,2015,0,Medula,0,Alogenicos desconhecido
+AC,2015,0,Medula,0,Alogenicos não aparentado
+AC,2015,0,Medula,0,Sem modalidade
+AC,2015,0,Medula,0,vivos
+AC,2016,0,Rim,0,vivos
+AC,2016,6,Rim,7.18,falecidos
+AC,2016,0,Fígado,0,vivos
+AC,2016,7,Fígado,8.37,falecidos
+AC,2016,0,Coração,0,vivos
+AC,2016,0,Coração,0,falecidos
+AC,2016,0,Pulmão,0,vivos
+AC,2016,0,Pulmão,0,falecidos
+AC,2016,0,Pancreas,0,vivos
+AC,2016,0,Pancreas,0,falecidos
+AC,2016,0,Córnea,0,vivos
+AC,2016,19,Córnea,22.73,falecidos
+AC,2016,0,Medula,0,Autologos
+AC,2016,0,Medula,0,Alogenicos aparentado
+AC,2016,0,Medula,0,Alogenicos desconhecido
+AC,2016,0,Medula,0,Alogenicos não aparentado
+AC,2016,0,Medula,0,Sem modalidade
+AC,2016,0,Medula,0,vivos
+AC,2017,0,Rim,0,vivos
+AC,2017,7,Rim,8.29,falecidos
+AC,2017,0,Fígado,0,vivos
+AC,2017,14,Fígado,16.59,falecidos
+AC,2017,0,Coração,0,vivos
+AC,2017,0,Coração,0,falecidos
+AC,2017,0,Pulmão,0,vivos
+AC,2017,0,Pulmão,0,falecidos
+AC,2017,0,Pancreas,0,vivos
+AC,2017,0,Pancreas,0,falecidos
+AC,2017,0,Córnea,0,vivos
+AC,2017,24,Córnea,28.44,falecidos
+AC,2017,0,Medula,0,Autologos
+AC,2017,0,Medula,0,Alogenicos aparentado
+AC,2017,0,Medula,0,Alogenicos desconhecido
+AC,2017,0,Medula,0,Alogenicos não aparentado
+AC,2017,0,Medula,0,Sem modalidade
+AC,2017,0,Medula,0,vivos
+AC,2018,0,Rim,0,vivos
+AC,2018,3,Rim,3.52,falecidos
+AC,2018,0,Fígado,0,vivos
+AC,2018,14,Fígado,16.43,falecidos
+AC,2018,0,Coração,0,vivos
+AC,2018,0,Coração,0,falecidos
+AC,2018,0,Pulmão,0,vivos
+AC,2018,0,Pulmão,0,falecidos
+AC,2018,0,Pancreas,0,vivos
+AC,2018,0,Pancreas,0,falecidos
+AC,2018,0,Córnea,0,vivos
+AC,2018,19,Córnea,22.3,falecidos
+AC,2018,0,Medula,0,Autologos
+AC,2018,0,Medula,0,Alogenicos aparentado
+AC,2018,0,Medula,0,Alogenicos desconhecido
+AC,2018,0,Medula,0,Alogenicos não aparentado
+AC,2018,0,Medula,0,Sem modalidade
+AC,2018,0,Medula,0,vivos
+AC,2019,0,Rim,0,vivos
+AC,2019,4,Rim,4.66,falecidos
+AC,2019,0,Fígado,0,vivos
+AC,2019,10,Fígado,11.66,falecidos
+AC,2019,0,Coração,0,vivos
+AC,2019,0,Coração,0,falecidos
+AC,2019,0,Pulmão,0,vivos
+AC,2019,0,Pulmão,0,falecidos
+AC,2019,0,Pancreas,0,vivos
+AC,2019,0,Pancreas,0,falecidos
+AC,2019,0,Córnea,0,vivos
+AC,2019,24,Córnea,27.97,falecidos
+AC,2019,0,Medula,0,Autologos
+AC,2019,0,Medula,0,Alogenicos aparentado
+AC,2019,0,Medula,0,Alogenicos desconhecido
+AC,2019,0,Medula,0,Alogenicos não aparentado
+AC,2019,0,Medula,0,Sem modalidade
+AC,2019,0,Medula,0,vivos
+AC,2020,0,Rim,0,vivos
+AC,2020,0,Rim,0,falecidos
+AC,2020,0,Fígado,0,vivos
+AC,2020,4,Fígado,4.63,falecidos
+AC,2020,0,Coração,0,vivos
+AC,2020,0,Coração,0,falecidos
+AC,2020,0,Pulmão,0,vivos
+AC,2020,0,Pulmão,0,falecidos
+AC,2020,0,Pancreas,0,vivos
+AC,2020,0,Pancreas,0,falecidos
+AC,2020,0,Córnea,0,vivos
+AC,2020,17,Córnea,19.68,falecidos
+AC,2020,0,Medula,0,Autologos
+AC,2020,0,Medula,0,Alogenicos aparentado
+AC,2020,0,Medula,0,Alogenicos desconhecido
+AC,2020,0,Medula,0,Alogenicos não aparentado
+AC,2020,0,Medula,0,Sem modalidade
+AC,2020,0,Medula,0,vivos
+AC,2021,0,Rim,0,vivos
+AC,2021,0,Rim,0,falecidos
+AC,2021,0,Fígado,0,vivos
+AC,2021,0,Fígado,0,falecidos
+AC,2021,0,Coração,0,vivos
+AC,2021,0,Coração,0,falecidos
+AC,2021,0,Pulmão,0,vivos
+AC,2021,0,Pulmão,0,falecidos
+AC,2021,0,Pancreas,0,vivos
+AC,2021,0,Pancreas,0,falecidos
+AC,2021,0,Córnea,0,vivos
+AC,2021,15,Córnea,17.28,falecidos
+AC,2021,0,Medula,0,Autologos
+AC,2021,0,Medula,0,Alogenicos aparentado
+AC,2021,0,Medula,0,Alogenicos desconhecido
+AC,2021,0,Medula,0,Alogenicos não aparentado
+AC,2021,0,Medula,0,Sem modalidade
+AC,2021,0,Medula,0,vivos
+AC,2022,0,Rim,0,vivos
+AC,2022,0,Rim,0,falecidos
+AC,2022,0,Fígado,0,vivos
+AC,2022,4,Fígado,4.58,falecidos
+AC,2022,0,Coração,0,vivos
+AC,2022,0,Coração,0,falecidos
+AC,2022,0,Pulmão,0,vivos
+AC,2022,0,Pulmão,0,falecidos
+AC,2022,0,Pancreas,0,vivos
+AC,2022,0,Pancreas,0,falecidos
+AC,2022,0,Córnea,0,vivos
+AC,2022,26,Córnea,29.78,falecidos
+AC,2022,0,Medula,0,Autologos
+AC,2022,0,Medula,0,Alogenicos aparentado
+AC,2022,0,Medula,0,Alogenicos desconhecido
+AC,2022,0,Medula,0,Alogenicos não aparentado
+AC,2022,0,Medula,0,Sem modalidade
+AC,2022,0,Medula,0,vivos
+AC,2023,0,Rim,0,vivos
+AC,2023,0,Rim,0,falecidos
+AC,2023,0,Fígado,0,vivos
+AC,2023,18,Fígado,20.52,falecidos
+AC,2023,0,Coração,0,vivos
+AC,2023,0,Coração,0,falecidos
+AC,2023,0,Pulmão,0,vivos
+AC,2023,0,Pulmão,0,falecidos
+AC,2023,0,Pancreas,0,vivos
+AC,2023,0,Pancreas,0,falecidos
+AC,2023,0,Córnea,0,vivos
+AC,2023,6,Córnea,6.84,falecidos
+AC,2023,0,Medula,0,Autologos
+AC,2023,0,Medula,0,Alogenicos aparentado
+AC,2023,0,Medula,0,Alogenicos desconhecido
+AC,2023,0,Medula,0,Alogenicos não aparentado
+AC,2023,0,Medula,0,Sem modalidade
+AC,2023,0,Medula,0,vivos
+AC,2024,0,Rim,0,vivos
+AC,2024,4,Rim,4.54,falecidos
+AC,2024,0,Fígado,0,vivos
+AC,2024,16,Fígado,18.16,falecidos
+AC,2024,0,Coração,0,vivos
+AC,2024,0,Coração,0,falecidos
+AC,2024,0,Pulmão,0,vivos
+AC,2024,0,Pulmão,0,falecidos
+AC,2024,0,Pancreas,0,vivos
+AC,2024,0,Pancreas,0,falecidos
+AC,2024,0,Córnea,0,vivos
+AC,2024,42,Córnea,47.67,falecidos
+AC,2024,0,Medula,0,Autologos
+AC,2024,0,Medula,0,Alogenicos aparentado
+AC,2024,0,Medula,0,Alogenicos desconhecido
+AC,2024,0,Medula,0,Alogenicos não aparentado
+AC,2024,0,Medula,0,Sem modalidade
+AC,2024,0,Medula,0,vivos
+AC,2025,0,Rim,0,vivos
+AC,2025,11,Rim,12.44,falecidos
+AC,2025,0,Fígado,0,vivos
+AC,2025,18,Fígado,20.36,falecidos
+AC,2025,0,Coração,0,vivos
+AC,2025,0,Coração,0,falecidos
+AC,2025,0,Pulmão,0,vivos
+AC,2025,0,Pulmão,0,falecidos
+AC,2025,0,Pancreas,0,vivos
+AC,2025,0,Pancreas,0,falecidos
+AC,2025,0,Córnea,0,vivos
+AC,2025,18,Córnea,20.36,falecidos
+AC,2025,0,Medula,0,Autologos
+AC,2025,0,Medula,0,Alogenicos aparentado
+AC,2025,0,Medula,0,Alogenicos desconhecido
+AC,2025,0,Medula,0,Alogenicos não aparentado
+AC,2025,0,Medula,0,Sem modalidade
+AC,2025,0,Medula,0,vivos
+AC,2026,1,Rim,1.13,vivos
+AC,2026,4,Rim,4.5,falecidos
+AC,2026,0,Fígado,0,vivos
+AC,2026,11,Fígado,12.39,falecidos
+AC,2026,0,Coração,0,vivos
+AC,2026,0,Coração,0,falecidos
+AC,2026,0,Pulmão,0,vivos
+AC,2026,0,Pulmão,0,falecidos
+AC,2026,0,Pancreas,0,vivos
+AC,2026,0,Pancreas,0,falecidos
+AC,2026,0,Córnea,0,vivos
+AC,2026,20,Córnea,22.52,falecidos
+AC,2026,0,Medula,0,Autologos
+AC,2026,0,Medula,0,Alogenicos aparentado
+AC,2026,0,Medula,0,Alogenicos desconhecido
+AC,2026,0,Medula,0,Alogenicos não aparentado
+AC,2026,0,Medula,0,Sem modalidade
+AC,2026,0,Medula,0,vivos
+AL,2015,0,Rim,0,vivos
+AL,2015,9,Rim,2.83,falecidos
+AL,2015,0,Fígado,0,vivos
+AL,2015,0,Fígado,0,falecidos
+AL,2015,0,Coração,0,vivos
+AL,2015,2,Coração,0.63,falecidos
+AL,2015,0,Pulmão,0,vivos
+AL,2015,0,Pulmão,0,falecidos
+AL,2015,0,Pancreas,0,vivos
+AL,2015,0,Pancreas,0,falecidos
+AL,2015,0,Córnea,0,vivos
+AL,2015,87,Córnea,27.35,falecidos
+AL,2015,0,Medula,0,Autologos
+AL,2015,0,Medula,0,Alogenicos aparentado
+AL,2015,0,Medula,0,Alogenicos desconhecido
+AL,2015,0,Medula,0,Alogenicos não aparentado
+AL,2015,0,Medula,0,Sem modalidade
+AL,2015,0,Medula,0,vivos
+AL,2016,0,Rim,0,vivos
+AL,2016,5,Rim,1.57,falecidos
+AL,2016,0,Fígado,0,vivos
+AL,2016,0,Fígado,0,falecidos
+AL,2016,0,Coração,0,vivos
+AL,2016,2,Coração,0.63,falecidos
+AL,2016,0,Pulmão,0,vivos
+AL,2016,0,Pulmão,0,falecidos
+AL,2016,0,Pancreas,0,vivos
+AL,2016,0,Pancreas,0,falecidos
+AL,2016,0,Córnea,0,vivos
+AL,2016,82,Córnea,25.72,falecidos
+AL,2016,0,Medula,0,Autologos
+AL,2016,0,Medula,0,Alogenicos aparentado
+AL,2016,0,Medula,0,Alogenicos desconhecido
+AL,2016,0,Medula,0,Alogenicos não aparentado
+AL,2016,0,Medula,0,Sem modalidade
+AL,2016,0,Medula,0,vivos
+AL,2017,3,Rim,0.94,vivos
+AL,2017,16,Rim,5.01,falecidos
+AL,2017,0,Fígado,0,vivos
+AL,2017,0,Fígado,0,falecidos
+AL,2017,0,Coração,0,vivos
+AL,2017,6,Coração,1.88,falecidos
+AL,2017,0,Pulmão,0,vivos
+AL,2017,0,Pulmão,0,falecidos
+AL,2017,0,Pancreas,0,vivos
+AL,2017,0,Pancreas,0,falecidos
+AL,2017,0,Córnea,0,vivos
+AL,2017,111,Córnea,34.76,falecidos
+AL,2017,0,Medula,0,Autologos
+AL,2017,0,Medula,0,Alogenicos aparentado
+AL,2017,0,Medula,0,Alogenicos desconhecido
+AL,2017,0,Medula,0,Alogenicos não aparentado
+AL,2017,0,Medula,0,Sem modalidade
+AL,2017,0,Medula,0,vivos
+AL,2018,3,Rim,0.94,vivos
+AL,2018,19,Rim,5.94,falecidos
+AL,2018,0,Fígado,0,vivos
+AL,2018,0,Fígado,0,falecidos
+AL,2018,0,Coração,0,vivos
+AL,2018,4,Coração,1.25,falecidos
+AL,2018,0,Pulmão,0,vivos
+AL,2018,0,Pulmão,0,falecidos
+AL,2018,0,Pancreas,0,vivos
+AL,2018,0,Pancreas,0,falecidos
+AL,2018,0,Córnea,0,vivos
+AL,2018,80,Córnea,25,falecidos
+AL,2018,0,Medula,0,Autologos
+AL,2018,0,Medula,0,Alogenicos aparentado
+AL,2018,0,Medula,0,Alogenicos desconhecido
+AL,2018,0,Medula,0,Alogenicos não aparentado
+AL,2018,0,Medula,0,Sem modalidade
+AL,2018,0,Medula,0,vivos
+AL,2019,0,Rim,0,vivos
+AL,2019,7,Rim,2.18,falecidos
+AL,2019,0,Fígado,0,vivos
+AL,2019,0,Fígado,0,falecidos
+AL,2019,0,Coração,0,vivos
+AL,2019,5,Coração,1.56,falecidos
+AL,2019,0,Pulmão,0,vivos
+AL,2019,0,Pulmão,0,falecidos
+AL,2019,0,Pancreas,0,vivos
+AL,2019,0,Pancreas,0,falecidos
+AL,2019,0,Córnea,0,vivos
+AL,2019,69,Córnea,21.5,falecidos
+AL,2019,0,Medula,0,Autologos
+AL,2019,0,Medula,0,Alogenicos aparentado
+AL,2019,0,Medula,0,Alogenicos desconhecido
+AL,2019,0,Medula,0,Alogenicos não aparentado
+AL,2019,0,Medula,0,Sem modalidade
+AL,2019,0,Medula,0,vivos
+AL,2020,0,Rim,0,vivos
+AL,2020,0,Rim,0,falecidos
+AL,2020,0,Fígado,0,vivos
+AL,2020,0,Fígado,0,falecidos
+AL,2020,0,Coração,0,vivos
+AL,2020,0,Coração,0,falecidos
+AL,2020,0,Pulmão,0,vivos
+AL,2020,0,Pulmão,0,falecidos
+AL,2020,0,Pancreas,0,vivos
+AL,2020,0,Pancreas,0,falecidos
+AL,2020,0,Córnea,0,vivos
+AL,2020,34,Córnea,10.58,falecidos
+AL,2020,0,Medula,0,Autologos
+AL,2020,0,Medula,0,Alogenicos aparentado
+AL,2020,0,Medula,0,Alogenicos desconhecido
+AL,2020,0,Medula,0,Alogenicos não aparentado
+AL,2020,0,Medula,0,Sem modalidade
+AL,2020,0,Medula,0,vivos
+AL,2021,0,Rim,0,vivos
+AL,2021,0,Rim,0,falecidos
+AL,2021,0,Fígado,0,vivos
+AL,2021,3,Fígado,0.93,falecidos
+AL,2021,0,Coração,0,vivos
+AL,2021,0,Coração,0,falecidos
+AL,2021,0,Pulmão,0,vivos
+AL,2021,0,Pulmão,0,falecidos
+AL,2021,0,Pancreas,0,vivos
+AL,2021,0,Pancreas,0,falecidos
+AL,2021,0,Córnea,0,vivos
+AL,2021,56,Córnea,17.4,falecidos
+AL,2021,0,Medula,0,Autologos
+AL,2021,0,Medula,0,Alogenicos aparentado
+AL,2021,0,Medula,0,Alogenicos desconhecido
+AL,2021,0,Medula,0,Alogenicos não aparentado
+AL,2021,0,Medula,0,Sem modalidade
+AL,2021,0,Medula,0,vivos
+AL,2022,0,Rim,0,vivos
+AL,2022,10,Rim,3.11,falecidos
+AL,2022,0,Fígado,0,vivos
+AL,2022,6,Fígado,1.86,falecidos
+AL,2022,0,Coração,0,vivos
+AL,2022,1,Coração,0.31,falecidos
+AL,2022,0,Pulmão,0,vivos
+AL,2022,0,Pulmão,0,falecidos
+AL,2022,0,Pancreas,0,vivos
+AL,2022,0,Pancreas,0,falecidos
+AL,2022,0,Córnea,0,vivos
+AL,2022,84,Córnea,26.1,falecidos
+AL,2022,0,Medula,0,Autologos
+AL,2022,0,Medula,0,Alogenicos aparentado
+AL,2022,0,Medula,0,Alogenicos desconhecido
+AL,2022,0,Medula,0,Alogenicos não aparentado
+AL,2022,0,Medula,0,Sem modalidade
+AL,2022,0,Medula,0,vivos
+AL,2023,0,Rim,0,vivos
+AL,2023,3,Rim,0.93,falecidos
+AL,2023,0,Fígado,0,vivos
+AL,2023,7,Fígado,2.17,falecidos
+AL,2023,0,Coração,0,vivos
+AL,2023,0,Coração,0,falecidos
+AL,2023,0,Pulmão,0,vivos
+AL,2023,0,Pulmão,0,falecidos
+AL,2023,0,Pancreas,0,vivos
+AL,2023,0,Pancreas,0,falecidos
+AL,2023,0,Córnea,0,vivos
+AL,2023,86,Córnea,26.72,falecidos
+AL,2023,0,Medula,0,Autologos
+AL,2023,0,Medula,0,Alogenicos aparentado
+AL,2023,0,Medula,0,Alogenicos desconhecido
+AL,2023,0,Medula,0,Alogenicos não aparentado
+AL,2023,0,Medula,0,Sem modalidade
+AL,2023,0,Medula,0,vivos
+AL,2024,0,Rim,0,vivos
+AL,2024,14,Rim,4.35,falecidos
+AL,2024,0,Fígado,0,vivos
+AL,2024,14,Fígado,4.35,falecidos
+AL,2024,0,Coração,0,vivos
+AL,2024,2,Coração,0.62,falecidos
+AL,2024,0,Pulmão,0,vivos
+AL,2024,0,Pulmão,0,falecidos
+AL,2024,0,Pancreas,0,vivos
+AL,2024,0,Pancreas,0,falecidos
+AL,2024,0,Córnea,0,vivos
+AL,2024,139,Córnea,43.17,falecidos
+AL,2024,0,Medula,0,Autologos
+AL,2024,0,Medula,0,Alogenicos aparentado
+AL,2024,0,Medula,0,Alogenicos desconhecido
+AL,2024,0,Medula,0,Alogenicos não aparentado
+AL,2024,0,Medula,0,Sem modalidade
+AL,2024,0,Medula,0,vivos
+AL,2025,0,Rim,0,vivos
+AL,2025,29,Rim,9,falecidos
+AL,2025,0,Fígado,0,vivos
+AL,2025,20,Fígado,6.21,falecidos
+AL,2025,0,Coração,0,vivos
+AL,2025,7,Coração,2.17,falecidos
+AL,2025,0,Pulmão,0,vivos
+AL,2025,0,Pulmão,0,falecidos
+AL,2025,0,Pancreas,0,vivos
+AL,2025,0,Pancreas,0,falecidos
+AL,2025,0,Córnea,0,vivos
+AL,2025,112,Córnea,34.77,falecidos
+AL,2025,0,Medula,0,Autologos
+AL,2025,0,Medula,0,Alogenicos aparentado
+AL,2025,0,Medula,0,Alogenicos desconhecido
+AL,2025,0,Medula,0,Alogenicos não aparentado
+AL,2025,0,Medula,0,Sem modalidade
+AL,2025,0,Medula,0,vivos
+AL,2026,0,Rim,0,vivos
+AL,2026,9,Rim,2.79,falecidos
+AL,2026,0,Fígado,0,vivos
+AL,2026,9,Fígado,2.79,falecidos
+AL,2026,0,Coração,0,vivos
+AL,2026,1,Coração,0.31,falecidos
+AL,2026,0,Pulmão,0,vivos
+AL,2026,0,Pulmão,0,falecidos
+AL,2026,0,Pancreas,0,vivos
+AL,2026,0,Pancreas,0,falecidos
+AL,2026,0,Córnea,0,vivos
+AL,2026,79,Córnea,24.53,falecidos
+AL,2026,0,Medula,0,Autologos
+AL,2026,0,Medula,0,Alogenicos aparentado
+AL,2026,0,Medula,0,Alogenicos desconhecido
+AL,2026,0,Medula,0,Alogenicos não aparentado
+AL,2026,0,Medula,0,Sem modalidade
+AL,2026,0,Medula,0,vivos
+AM,2015,9,Rim,2.33,vivos
+AM,2015,41,Rim,10.62,falecidos
+AM,2015,0,Fígado,0,vivos
+AM,2015,4,Fígado,1.04,falecidos
+AM,2015,0,Coração,0,vivos
+AM,2015,0,Coração,0,falecidos
+AM,2015,0,Pulmão,0,vivos
+AM,2015,0,Pulmão,0,falecidos
+AM,2015,0,Pancreas,0,vivos
+AM,2015,0,Pancreas,0,falecidos
+AM,2015,0,Córnea,0,vivos
+AM,2015,208,Córnea,53.9,falecidos
+AM,2015,0,Medula,0,Autologos
+AM,2015,0,Medula,0,Alogenicos aparentado
+AM,2015,0,Medula,0,Alogenicos desconhecido
+AM,2015,0,Medula,0,Alogenicos não aparentado
+AM,2015,0,Medula,0,Sem modalidade
+AM,2015,0,Medula,0,vivos
+AM,2016,7,Rim,1.79,vivos
+AM,2016,9,Rim,2.3,falecidos
+AM,2016,0,Fígado,0,vivos
+AM,2016,0,Fígado,0,falecidos
+AM,2016,0,Coração,0,vivos
+AM,2016,0,Coração,0,falecidos
+AM,2016,0,Pulmão,0,vivos
+AM,2016,0,Pulmão,0,falecidos
+AM,2016,0,Pancreas,0,vivos
+AM,2016,0,Pancreas,0,falecidos
+AM,2016,0,Córnea,0,vivos
+AM,2016,266,Córnea,67.94,falecidos
+AM,2016,0,Medula,0,Autologos
+AM,2016,0,Medula,0,Alogenicos aparentado
+AM,2016,0,Medula,0,Alogenicos desconhecido
+AM,2016,0,Medula,0,Alogenicos não aparentado
+AM,2016,0,Medula,0,Sem modalidade
+AM,2016,0,Medula,0,vivos
+AM,2017,0,Rim,0,vivos
+AM,2017,0,Rim,0,falecidos
+AM,2017,0,Fígado,0,vivos
+AM,2017,0,Fígado,0,falecidos
+AM,2017,0,Coração,0,vivos
+AM,2017,0,Coração,0,falecidos
+AM,2017,0,Pulmão,0,vivos
+AM,2017,0,Pulmão,0,falecidos
+AM,2017,0,Pancreas,0,vivos
+AM,2017,0,Pancreas,0,falecidos
+AM,2017,0,Córnea,0,vivos
+AM,2017,179,Córnea,45.13,falecidos
+AM,2017,0,Medula,0,Autologos
+AM,2017,0,Medula,0,Alogenicos aparentado
+AM,2017,0,Medula,0,Alogenicos desconhecido
+AM,2017,0,Medula,0,Alogenicos não aparentado
+AM,2017,0,Medula,0,Sem modalidade
+AM,2017,0,Medula,0,vivos
+AM,2018,1,Rim,0.25,vivos
+AM,2018,0,Rim,0,falecidos
+AM,2018,0,Fígado,0,vivos
+AM,2018,0,Fígado,0,falecidos
+AM,2018,0,Coração,0,vivos
+AM,2018,0,Coração,0,falecidos
+AM,2018,0,Pulmão,0,vivos
+AM,2018,0,Pulmão,0,falecidos
+AM,2018,0,Pancreas,0,vivos
+AM,2018,0,Pancreas,0,falecidos
+AM,2018,0,Córnea,0,vivos
+AM,2018,177,Córnea,44.05,falecidos
+AM,2018,0,Medula,0,Autologos
+AM,2018,0,Medula,0,Alogenicos aparentado
+AM,2018,0,Medula,0,Alogenicos desconhecido
+AM,2018,0,Medula,0,Alogenicos não aparentado
+AM,2018,0,Medula,0,Sem modalidade
+AM,2018,0,Medula,0,vivos
+AM,2019,0,Rim,0,vivos
+AM,2019,0,Rim,0,falecidos
+AM,2019,0,Fígado,0,vivos
+AM,2019,0,Fígado,0,falecidos
+AM,2019,0,Coração,0,vivos
+AM,2019,0,Coração,0,falecidos
+AM,2019,0,Pulmão,0,vivos
+AM,2019,0,Pulmão,0,falecidos
+AM,2019,0,Pancreas,0,vivos
+AM,2019,0,Pancreas,0,falecidos
+AM,2019,0,Córnea,0,vivos
+AM,2019,153,Córnea,37.56,falecidos
+AM,2019,0,Medula,0,Autologos
+AM,2019,0,Medula,0,Alogenicos aparentado
+AM,2019,0,Medula,0,Alogenicos desconhecido
+AM,2019,0,Medula,0,Alogenicos não aparentado
+AM,2019,0,Medula,0,Sem modalidade
+AM,2019,0,Medula,0,vivos
+AM,2020,0,Rim,0,vivos
+AM,2020,0,Rim,0,falecidos
+AM,2020,0,Fígado,0,vivos
+AM,2020,0,Fígado,0,falecidos
+AM,2020,0,Coração,0,vivos
+AM,2020,0,Coração,0,falecidos
+AM,2020,0,Pulmão,0,vivos
+AM,2020,0,Pulmão,0,falecidos
+AM,2020,0,Pancreas,0,vivos
+AM,2020,0,Pancreas,0,falecidos
+AM,2020,0,Córnea,0,vivos
+AM,2020,59,Córnea,14.32,falecidos
+AM,2020,0,Medula,0,Autologos
+AM,2020,0,Medula,0,Alogenicos aparentado
+AM,2020,0,Medula,0,Alogenicos desconhecido
+AM,2020,0,Medula,0,Alogenicos não aparentado
+AM,2020,0,Medula,0,Sem modalidade
+AM,2020,0,Medula,0,vivos
+AM,2021,0,Rim,0,vivos
+AM,2021,0,Rim,0,falecidos
+AM,2021,0,Fígado,0,vivos
+AM,2021,0,Fígado,0,falecidos
+AM,2021,0,Coração,0,vivos
+AM,2021,0,Coração,0,falecidos
+AM,2021,0,Pulmão,0,vivos
+AM,2021,0,Pulmão,0,falecidos
+AM,2021,0,Pancreas,0,vivos
+AM,2021,0,Pancreas,0,falecidos
+AM,2021,0,Córnea,0,vivos
+AM,2021,113,Córnea,27.16,falecidos
+AM,2021,0,Medula,0,Autologos
+AM,2021,0,Medula,0,Alogenicos aparentado
+AM,2021,0,Medula,0,Alogenicos desconhecido
+AM,2021,0,Medula,0,Alogenicos não aparentado
+AM,2021,0,Medula,0,Sem modalidade
+AM,2021,0,Medula,0,vivos
+AM,2022,0,Rim,0,vivos
+AM,2022,0,Rim,0,falecidos
+AM,2022,0,Fígado,0,vivos
+AM,2022,0,Fígado,0,falecidos
+AM,2022,0,Coração,0,vivos
+AM,2022,0,Coração,0,falecidos
+AM,2022,0,Pulmão,0,vivos
+AM,2022,0,Pulmão,0,falecidos
+AM,2022,0,Pancreas,0,vivos
+AM,2022,0,Pancreas,0,falecidos
+AM,2022,0,Córnea,0,vivos
+AM,2022,106,Córnea,25.24,falecidos
+AM,2022,0,Medula,0,Autologos
+AM,2022,0,Medula,0,Alogenicos aparentado
+AM,2022,0,Medula,0,Alogenicos desconhecido
+AM,2022,0,Medula,0,Alogenicos não aparentado
+AM,2022,0,Medula,0,Sem modalidade
+AM,2022,0,Medula,0,vivos
+AM,2023,45,Rim,10.61,vivos
+AM,2023,0,Rim,0,falecidos
+AM,2023,0,Fígado,0,vivos
+AM,2023,0,Fígado,0,falecidos
+AM,2023,0,Coração,0,vivos
+AM,2023,0,Coração,0,falecidos
+AM,2023,0,Pulmão,0,vivos
+AM,2023,0,Pulmão,0,falecidos
+AM,2023,0,Pancreas,0,vivos
+AM,2023,0,Pancreas,0,falecidos
+AM,2023,0,Córnea,0,vivos
+AM,2023,86,Córnea,20.28,falecidos
+AM,2023,0,Medula,0,Autologos
+AM,2023,0,Medula,0,Alogenicos aparentado
+AM,2023,0,Medula,0,Alogenicos desconhecido
+AM,2023,0,Medula,0,Alogenicos não aparentado
+AM,2023,0,Medula,0,Sem modalidade
+AM,2023,0,Medula,0,vivos
+AM,2024,51,Rim,11.91,vivos
+AM,2024,50,Rim,11.68,falecidos
+AM,2024,0,Fígado,0,vivos
+AM,2024,0,Fígado,0,falecidos
+AM,2024,0,Coração,0,vivos
+AM,2024,0,Coração,0,falecidos
+AM,2024,0,Pulmão,0,vivos
+AM,2024,0,Pulmão,0,falecidos
+AM,2024,0,Pancreas,0,vivos
+AM,2024,0,Pancreas,0,falecidos
+AM,2024,0,Córnea,0,vivos
+AM,2024,77,Córnea,17.99,falecidos
+AM,2024,0,Medula,0,Autologos
+AM,2024,0,Medula,0,Alogenicos aparentado
+AM,2024,0,Medula,0,Alogenicos desconhecido
+AM,2024,0,Medula,0,Alogenicos não aparentado
+AM,2024,0,Medula,0,Sem modalidade
+AM,2024,0,Medula,0,vivos
+AM,2025,17,Rim,3.93,vivos
+AM,2025,101,Rim,23.37,falecidos
+AM,2025,0,Fígado,0,vivos
+AM,2025,8,Fígado,1.85,falecidos
+AM,2025,0,Coração,0,vivos
+AM,2025,0,Coração,0,falecidos
+AM,2025,0,Pulmão,0,vivos
+AM,2025,0,Pulmão,0,falecidos
+AM,2025,0,Pancreas,0,vivos
+AM,2025,0,Pancreas,0,falecidos
+AM,2025,0,Córnea,0,vivos
+AM,2025,113,Córnea,26.15,falecidos
+AM,2025,0,Medula,0,Autologos
+AM,2025,0,Medula,0,Alogenicos aparentado
+AM,2025,0,Medula,0,Alogenicos desconhecido
+AM,2025,0,Medula,0,Alogenicos não aparentado
+AM,2025,0,Medula,0,Sem modalidade
+AM,2025,0,Medula,0,vivos
+AM,2026,11,Rim,2.52,vivos
+AM,2026,66,Rim,15.13,falecidos
+AM,2026,0,Fígado,0,vivos
+AM,2026,33,Fígado,7.57,falecidos
+AM,2026,0,Coração,0,vivos
+AM,2026,0,Coração,0,falecidos
+AM,2026,0,Pulmão,0,vivos
+AM,2026,0,Pulmão,0,falecidos
+AM,2026,0,Pancreas,0,vivos
+AM,2026,0,Pancreas,0,falecidos
+AM,2026,0,Córnea,0,vivos
+AM,2026,69,Córnea,15.82,falecidos
+AM,2026,0,Medula,0,Autologos
+AM,2026,0,Medula,0,Alogenicos aparentado
+AM,2026,0,Medula,0,Alogenicos desconhecido
+AM,2026,0,Medula,0,Alogenicos não aparentado
+AM,2026,0,Medula,0,Sem modalidade
+AM,2026,0,Medula,0,vivos
+AP,2015,0,Rim,0,vivos
+AP,2015,0,Rim,0,falecidos
+AP,2015,0,Fígado,0,vivos
+AP,2015,0,Fígado,0,falecidos
+AP,2015,0,Coração,0,vivos
+AP,2015,0,Coração,0,falecidos
+AP,2015,0,Pulmão,0,vivos
+AP,2015,0,Pulmão,0,falecidos
+AP,2015,0,Pancreas,0,vivos
+AP,2015,0,Pancreas,0,falecidos
+AP,2015,0,Córnea,0,vivos
+AP,2015,0,Córnea,0,falecidos
+AP,2015,0,Medula,0,Autologos
+AP,2015,0,Medula,0,Alogenicos aparentado
+AP,2015,0,Medula,0,Alogenicos desconhecido
+AP,2015,0,Medula,0,Alogenicos não aparentado
+AP,2015,0,Medula,0,Sem modalidade
+AP,2015,0,Medula,0,vivos
+AP,2016,0,Rim,0,vivos
+AP,2016,0,Rim,0,falecidos
+AP,2016,0,Fígado,0,vivos
+AP,2016,0,Fígado,0,falecidos
+AP,2016,0,Coração,0,vivos
+AP,2016,0,Coração,0,falecidos
+AP,2016,0,Pulmão,0,vivos
+AP,2016,0,Pulmão,0,falecidos
+AP,2016,0,Pancreas,0,vivos
+AP,2016,0,Pancreas,0,falecidos
+AP,2016,0,Córnea,0,vivos
+AP,2016,0,Córnea,0,falecidos
+AP,2016,0,Medula,0,Autologos
+AP,2016,0,Medula,0,Alogenicos aparentado
+AP,2016,0,Medula,0,Alogenicos desconhecido
+AP,2016,0,Medula,0,Alogenicos não aparentado
+AP,2016,0,Medula,0,Sem modalidade
+AP,2016,0,Medula,0,vivos
+AP,2017,0,Rim,0,vivos
+AP,2017,0,Rim,0,falecidos
+AP,2017,0,Fígado,0,vivos
+AP,2017,0,Fígado,0,falecidos
+AP,2017,0,Coração,0,vivos
+AP,2017,0,Coração,0,falecidos
+AP,2017,0,Pulmão,0,vivos
+AP,2017,0,Pulmão,0,falecidos
+AP,2017,0,Pancreas,0,vivos
+AP,2017,0,Pancreas,0,falecidos
+AP,2017,0,Córnea,0,vivos
+AP,2017,0,Córnea,0,falecidos
+AP,2017,0,Medula,0,Autologos
+AP,2017,0,Medula,0,Alogenicos aparentado
+AP,2017,0,Medula,0,Alogenicos desconhecido
+AP,2017,0,Medula,0,Alogenicos não aparentado
+AP,2017,0,Medula,0,Sem modalidade
+AP,2017,0,Medula,0,vivos
+AP,2018,0,Rim,0,vivos
+AP,2018,0,Rim,0,falecidos
+AP,2018,0,Fígado,0,vivos
+AP,2018,0,Fígado,0,falecidos
+AP,2018,0,Coração,0,vivos
+AP,2018,0,Coração,0,falecidos
+AP,2018,0,Pulmão,0,vivos
+AP,2018,0,Pulmão,0,falecidos
+AP,2018,0,Pancreas,0,vivos
+AP,2018,0,Pancreas,0,falecidos
+AP,2018,0,Córnea,0,vivos
+AP,2018,0,Córnea,0,falecidos
+AP,2018,0,Medula,0,Autologos
+AP,2018,0,Medula,0,Alogenicos aparentado
+AP,2018,0,Medula,0,Alogenicos desconhecido
+AP,2018,0,Medula,0,Alogenicos não aparentado
+AP,2018,0,Medula,0,Sem modalidade
+AP,2018,0,Medula,0,vivos
+AP,2019,0,Rim,0,vivos
+AP,2019,0,Rim,0,falecidos
+AP,2019,0,Fígado,0,vivos
+AP,2019,0,Fígado,0,falecidos
+AP,2019,0,Coração,0,vivos
+AP,2019,0,Coração,0,falecidos
+AP,2019,0,Pulmão,0,vivos
+AP,2019,0,Pulmão,0,falecidos
+AP,2019,0,Pancreas,0,vivos
+AP,2019,0,Pancreas,0,falecidos
+AP,2019,0,Córnea,0,vivos
+AP,2019,0,Córnea,0,falecidos
+AP,2019,0,Medula,0,Autologos
+AP,2019,0,Medula,0,Alogenicos aparentado
+AP,2019,0,Medula,0,Alogenicos desconhecido
+AP,2019,0,Medula,0,Alogenicos não aparentado
+AP,2019,0,Medula,0,Sem modalidade
+AP,2019,0,Medula,0,vivos
+AP,2020,0,Rim,0,vivos
+AP,2020,0,Rim,0,falecidos
+AP,2020,0,Fígado,0,vivos
+AP,2020,0,Fígado,0,falecidos
+AP,2020,0,Coração,0,vivos
+AP,2020,0,Coração,0,falecidos
+AP,2020,0,Pulmão,0,vivos
+AP,2020,0,Pulmão,0,falecidos
+AP,2020,0,Pancreas,0,vivos
+AP,2020,0,Pancreas,0,falecidos
+AP,2020,0,Córnea,0,vivos
+AP,2020,0,Córnea,0,falecidos
+AP,2020,0,Medula,0,Autologos
+AP,2020,0,Medula,0,Alogenicos aparentado
+AP,2020,0,Medula,0,Alogenicos desconhecido
+AP,2020,0,Medula,0,Alogenicos não aparentado
+AP,2020,0,Medula,0,Sem modalidade
+AP,2020,0,Medula,0,vivos
+AP,2021,0,Rim,0,vivos
+AP,2021,0,Rim,0,falecidos
+AP,2021,0,Fígado,0,vivos
+AP,2021,0,Fígado,0,falecidos
+AP,2021,0,Coração,0,vivos
+AP,2021,0,Coração,0,falecidos
+AP,2021,0,Pulmão,0,vivos
+AP,2021,0,Pulmão,0,falecidos
+AP,2021,0,Pancreas,0,vivos
+AP,2021,0,Pancreas,0,falecidos
+AP,2021,0,Córnea,0,vivos
+AP,2021,0,Córnea,0,falecidos
+AP,2021,0,Medula,0,Autologos
+AP,2021,0,Medula,0,Alogenicos aparentado
+AP,2021,0,Medula,0,Alogenicos desconhecido
+AP,2021,0,Medula,0,Alogenicos não aparentado
+AP,2021,0,Medula,0,Sem modalidade
+AP,2021,0,Medula,0,vivos
+AP,2022,0,Rim,0,vivos
+AP,2022,0,Rim,0,falecidos
+AP,2022,0,Fígado,0,vivos
+AP,2022,0,Fígado,0,falecidos
+AP,2022,0,Coração,0,vivos
+AP,2022,0,Coração,0,falecidos
+AP,2022,0,Pulmão,0,vivos
+AP,2022,0,Pulmão,0,falecidos
+AP,2022,0,Pancreas,0,vivos
+AP,2022,0,Pancreas,0,falecidos
+AP,2022,0,Córnea,0,vivos
+AP,2022,0,Córnea,0,falecidos
+AP,2022,0,Medula,0,Autologos
+AP,2022,0,Medula,0,Alogenicos aparentado
+AP,2022,0,Medula,0,Alogenicos desconhecido
+AP,2022,0,Medula,0,Alogenicos não aparentado
+AP,2022,0,Medula,0,Sem modalidade
+AP,2022,0,Medula,0,vivos
+AP,2023,0,Rim,0,vivos
+AP,2023,0,Rim,0,falecidos
+AP,2023,0,Fígado,0,vivos
+AP,2023,0,Fígado,0,falecidos
+AP,2023,0,Coração,0,vivos
+AP,2023,0,Coração,0,falecidos
+AP,2023,0,Pulmão,0,vivos
+AP,2023,0,Pulmão,0,falecidos
+AP,2023,0,Pancreas,0,vivos
+AP,2023,0,Pancreas,0,falecidos
+AP,2023,0,Córnea,0,vivos
+AP,2023,0,Córnea,0,falecidos
+AP,2023,0,Medula,0,Autologos
+AP,2023,0,Medula,0,Alogenicos aparentado
+AP,2023,0,Medula,0,Alogenicos desconhecido
+AP,2023,0,Medula,0,Alogenicos não aparentado
+AP,2023,0,Medula,0,Sem modalidade
+AP,2023,0,Medula,0,vivos
+AP,2024,0,Rim,0,vivos
+AP,2024,0,Rim,0,falecidos
+AP,2024,0,Fígado,0,vivos
+AP,2024,0,Fígado,0,falecidos
+AP,2024,0,Coração,0,vivos
+AP,2024,0,Coração,0,falecidos
+AP,2024,0,Pulmão,0,vivos
+AP,2024,0,Pulmão,0,falecidos
+AP,2024,0,Pancreas,0,vivos
+AP,2024,0,Pancreas,0,falecidos
+AP,2024,0,Córnea,0,vivos
+AP,2024,0,Córnea,0,falecidos
+AP,2024,0,Medula,0,Autologos
+AP,2024,0,Medula,0,Alogenicos aparentado
+AP,2024,0,Medula,0,Alogenicos desconhecido
+AP,2024,0,Medula,0,Alogenicos não aparentado
+AP,2024,0,Medula,0,Sem modalidade
+AP,2024,0,Medula,0,vivos
+AP,2025,0,Rim,0,vivos
+AP,2025,0,Rim,0,falecidos
+AP,2025,0,Fígado,0,vivos
+AP,2025,0,Fígado,0,falecidos
+AP,2025,0,Coração,0,vivos
+AP,2025,0,Coração,0,falecidos
+AP,2025,0,Pulmão,0,vivos
+AP,2025,0,Pulmão,0,falecidos
+AP,2025,0,Pancreas,0,vivos
+AP,2025,0,Pancreas,0,falecidos
+AP,2025,0,Córnea,0,vivos
+AP,2025,0,Córnea,0,falecidos
+AP,2025,0,Medula,0,Autologos
+AP,2025,0,Medula,0,Alogenicos aparentado
+AP,2025,0,Medula,0,Alogenicos desconhecido
+AP,2025,0,Medula,0,Alogenicos não aparentado
+AP,2025,0,Medula,0,Sem modalidade
+AP,2025,0,Medula,0,vivos
+AP,2026,0,Rim,0,vivos
+AP,2026,0,Rim,0,falecidos
+AP,2026,0,Fígado,0,vivos
+AP,2026,0,Fígado,0,falecidos
+AP,2026,0,Coração,0,vivos
+AP,2026,0,Coração,0,falecidos
+AP,2026,0,Pulmão,0,vivos
+AP,2026,0,Pulmão,0,falecidos
+AP,2026,0,Pancreas,0,vivos
+AP,2026,0,Pancreas,0,falecidos
+AP,2026,0,Córnea,0,vivos
+AP,2026,0,Córnea,0,falecidos
+AP,2026,0,Medula,0,Autologos
+AP,2026,0,Medula,0,Alogenicos aparentado
+AP,2026,0,Medula,0,Alogenicos desconhecido
+AP,2026,0,Medula,0,Alogenicos não aparentado
+AP,2026,0,Medula,0,Sem modalidade
+AP,2026,0,Medula,0,vivos
+BA,2015,25,Rim,1.73,vivos
+BA,2015,61,Rim,4.22,falecidos
+BA,2015,0,Fígado,0,vivos
+BA,2015,33,Fígado,2.28,falecidos
+BA,2015,0,Coração,0,vivos
+BA,2015,1,Coração,0.07,falecidos
+BA,2015,0,Pulmão,0,vivos
+BA,2015,1,Pulmão,0.07,falecidos
+BA,2015,0,Pancreas,0,vivos
+BA,2015,0,Pancreas,0,falecidos
+BA,2015,0,Córnea,0,vivos
+BA,2015,414,Córnea,28.61,falecidos
+BA,2015,0,Medula,0,Autologos
+BA,2015,0,Medula,0,Alogenicos aparentado
+BA,2015,0,Medula,0,Alogenicos desconhecido
+BA,2015,0,Medula,0,Alogenicos não aparentado
+BA,2015,0,Medula,0,Sem modalidade
+BA,2015,0,Medula,0,vivos
+BA,2016,18,Rim,1.24,vivos
+BA,2016,91,Rim,6.26,falecidos
+BA,2016,0,Fígado,0,vivos
+BA,2016,38,Fígado,2.62,falecidos
+BA,2016,0,Coração,0,vivos
+BA,2016,0,Coração,0,falecidos
+BA,2016,0,Pulmão,0,vivos
+BA,2016,0,Pulmão,0,falecidos
+BA,2016,0,Pancreas,0,vivos
+BA,2016,0,Pancreas,0,falecidos
+BA,2016,0,Córnea,0,vivos
+BA,2016,463,Córnea,31.87,falecidos
+BA,2016,125,Medula,8.6,Autologos
+BA,2016,25,Medula,1.72,Alogenicos aparentado
+BA,2016,0,Medula,0,Alogenicos desconhecido
+BA,2016,2,Medula,0.14,Alogenicos não aparentado
+BA,2016,10,Medula,0.69,Sem modalidade
+BA,2016,162,Medula,11.15,vivos
+BA,2017,18,Rim,1.23,vivos
+BA,2017,120,Rim,8.23,falecidos
+BA,2017,0,Fígado,0,vivos
+BA,2017,48,Fígado,3.29,falecidos
+BA,2017,0,Coração,0,vivos
+BA,2017,0,Coração,0,falecidos
+BA,2017,0,Pulmão,0,vivos
+BA,2017,1,Pulmão,0.07,falecidos
+BA,2017,0,Pancreas,0,vivos
+BA,2017,0,Pancreas,0,falecidos
+BA,2017,0,Córnea,0,vivos
+BA,2017,634,Córnea,43.49,falecidos
+BA,2017,24,Medula,1.65,Autologos
+BA,2017,2,Medula,0.14,Alogenicos aparentado
+BA,2017,0,Medula,0,Alogenicos desconhecido
+BA,2017,6,Medula,0.41,Alogenicos não aparentado
+BA,2017,1,Medula,0.07,Sem modalidade
+BA,2017,33,Medula,2.26,vivos
+BA,2018,20,Rim,1.37,vivos
+BA,2018,184,Rim,12.57,falecidos
+BA,2018,0,Fígado,0,vivos
+BA,2018,49,Fígado,3.35,falecidos
+BA,2018,0,Coração,0,vivos
+BA,2018,2,Coração,0.14,falecidos
+BA,2018,0,Pulmão,0,vivos
+BA,2018,0,Pulmão,0,falecidos
+BA,2018,0,Pancreas,0,vivos
+BA,2018,0,Pancreas,0,falecidos
+BA,2018,0,Córnea,0,vivos
+BA,2018,520,Córnea,35.54,falecidos
+BA,2018,0,Medula,0,Autologos
+BA,2018,0,Medula,0,Alogenicos aparentado
+BA,2018,0,Medula,0,Alogenicos desconhecido
+BA,2018,0,Medula,0,Alogenicos não aparentado
+BA,2018,0,Medula,0,Sem modalidade
+BA,2018,0,Medula,0,vivos
+BA,2019,19,Rim,1.29,vivos
+BA,2019,286,Rim,19.47,falecidos
+BA,2019,0,Fígado,0,vivos
+BA,2019,41,Fígado,2.79,falecidos
+BA,2019,0,Coração,0,vivos
+BA,2019,0,Coração,0,falecidos
+BA,2019,0,Pulmão,0,vivos
+BA,2019,0,Pulmão,0,falecidos
+BA,2019,0,Pancreas,0,vivos
+BA,2019,0,Pancreas,0,falecidos
+BA,2019,0,Córnea,0,vivos
+BA,2019,743,Córnea,50.57,falecidos
+BA,2019,104,Medula,7.08,Autologos
+BA,2019,22,Medula,1.5,Alogenicos aparentado
+BA,2019,0,Medula,0,Alogenicos desconhecido
+BA,2019,0,Medula,0,Alogenicos não aparentado
+BA,2019,30,Medula,2.04,Sem modalidade
+BA,2019,156,Medula,10.62,vivos
+BA,2020,9,Rim,0.61,vivos
+BA,2020,229,Rim,15.53,falecidos
+BA,2020,0,Fígado,0,vivos
+BA,2020,28,Fígado,1.9,falecidos
+BA,2020,0,Coração,0,vivos
+BA,2020,0,Coração,0,falecidos
+BA,2020,0,Pulmão,0,vivos
+BA,2020,0,Pulmão,0,falecidos
+BA,2020,0,Pancreas,0,vivos
+BA,2020,0,Pancreas,0,falecidos
+BA,2020,0,Córnea,0,vivos
+BA,2020,280,Córnea,18.98,falecidos
+BA,2020,47,Medula,3.19,Autologos
+BA,2020,14,Medula,0.95,Alogenicos aparentado
+BA,2020,0,Medula,0,Alogenicos desconhecido
+BA,2020,0,Medula,0,Alogenicos não aparentado
+BA,2020,2,Medula,0.14,Sem modalidade
+BA,2020,63,Medula,4.27,vivos
+BA,2021,17,Rim,1.15,vivos
+BA,2021,243,Rim,16.43,falecidos
+BA,2021,0,Fígado,0,vivos
+BA,2021,44,Fígado,2.98,falecidos
+BA,2021,0,Coração,0,vivos
+BA,2021,0,Coração,0,falecidos
+BA,2021,0,Pulmão,0,vivos
+BA,2021,0,Pulmão,0,falecidos
+BA,2021,0,Pancreas,0,vivos
+BA,2021,0,Pancreas,0,falecidos
+BA,2021,0,Córnea,0,vivos
+BA,2021,485,Córnea,32.8,falecidos
+BA,2021,68,Medula,4.6,Autologos
+BA,2021,28,Medula,1.89,Alogenicos aparentado
+BA,2021,0,Medula,0,Alogenicos desconhecido
+BA,2021,0,Medula,0,Alogenicos não aparentado
+BA,2021,0,Medula,0,Sem modalidade
+BA,2021,96,Medula,6.49,vivos
+BA,2022,26,Rim,1.76,vivos
+BA,2022,230,Rim,15.53,falecidos
+BA,2022,1,Fígado,0.07,vivos
+BA,2022,34,Fígado,2.3,falecidos
+BA,2022,0,Coração,0,vivos
+BA,2022,1,Coração,0.07,falecidos
+BA,2022,0,Pulmão,0,vivos
+BA,2022,0,Pulmão,0,falecidos
+BA,2022,0,Pancreas,0,vivos
+BA,2022,0,Pancreas,0,falecidos
+BA,2022,0,Córnea,0,vivos
+BA,2022,493,Córnea,33.29,falecidos
+BA,2022,80,Medula,5.4,Autologos
+BA,2022,27,Medula,1.82,Alogenicos aparentado
+BA,2022,0,Medula,0,Alogenicos desconhecido
+BA,2022,0,Medula,0,Alogenicos não aparentado
+BA,2022,3,Medula,0.2,Sem modalidade
+BA,2022,110,Medula,7.43,vivos
+BA,2023,21,Rim,1.42,vivos
+BA,2023,307,Rim,20.7,falecidos
+BA,2023,1,Fígado,0.07,vivos
+BA,2023,45,Fígado,3.03,falecidos
+BA,2023,0,Coração,0,vivos
+BA,2023,2,Coração,0.13,falecidos
+BA,2023,0,Pulmão,0,vivos
+BA,2023,0,Pulmão,0,falecidos
+BA,2023,0,Pancreas,0,vivos
+BA,2023,0,Pancreas,0,falecidos
+BA,2023,0,Córnea,0,vivos
+BA,2023,582,Córnea,39.25,falecidos
+BA,2023,52,Medula,3.51,Autologos
+BA,2023,27,Medula,1.82,Alogenicos aparentado
+BA,2023,0,Medula,0,Alogenicos desconhecido
+BA,2023,0,Medula,0,Alogenicos não aparentado
+BA,2023,2,Medula,0.13,Sem modalidade
+BA,2023,81,Medula,5.46,vivos
+BA,2024,34,Rim,2.29,vivos
+BA,2024,261,Rim,17.57,falecidos
+BA,2024,0,Fígado,0,vivos
+BA,2024,61,Fígado,4.11,falecidos
+BA,2024,0,Coração,0,vivos
+BA,2024,7,Coração,0.47,falecidos
+BA,2024,0,Pulmão,0,vivos
+BA,2024,0,Pulmão,0,falecidos
+BA,2024,0,Pancreas,0,vivos
+BA,2024,0,Pancreas,0,falecidos
+BA,2024,0,Córnea,0,vivos
+BA,2024,556,Córnea,37.44,falecidos
+BA,2024,9,Medula,0.61,Autologos
+BA,2024,5,Medula,0.34,Alogenicos aparentado
+BA,2024,0,Medula,0,Alogenicos desconhecido
+BA,2024,0,Medula,0,Alogenicos não aparentado
+BA,2024,0,Medula,0,Sem modalidade
+BA,2024,14,Medula,0.94,vivos
+BA,2025,29,Rim,1.95,vivos
+BA,2025,306,Rim,20.58,falecidos
+BA,2025,0,Fígado,0,vivos
+BA,2025,64,Fígado,4.3,falecidos
+BA,2025,0,Coração,0,vivos
+BA,2025,9,Coração,0.61,falecidos
+BA,2025,0,Pulmão,0,vivos
+BA,2025,0,Pulmão,0,falecidos
+BA,2025,0,Pancreas,0,vivos
+BA,2025,0,Pancreas,0,falecidos
+BA,2025,0,Córnea,0,vivos
+BA,2025,834,Córnea,56.08,falecidos
+BA,2025,0,Medula,0,Autologos
+BA,2025,0,Medula,0,Alogenicos aparentado
+BA,2025,0,Medula,0,Alogenicos desconhecido
+BA,2025,0,Medula,0,Alogenicos não aparentado
+BA,2025,0,Medula,0,Sem modalidade
+BA,2025,0,Medula,0,vivos
+BA,2026,20,Rim,1.34,vivos
+BA,2026,152,Rim,10.21,falecidos
+BA,2026,0,Fígado,0,vivos
+BA,2026,45,Fígado,3.02,falecidos
+BA,2026,0,Coração,0,vivos
+BA,2026,11,Coração,0.74,falecidos
+BA,2026,0,Pulmão,0,vivos
+BA,2026,0,Pulmão,0,falecidos
+BA,2026,0,Pancreas,0,vivos
+BA,2026,0,Pancreas,0,falecidos
+BA,2026,0,Córnea,0,vivos
+BA,2026,478,Córnea,32.1,falecidos
+BA,2026,0,Medula,0,Autologos
+BA,2026,0,Medula,0,Alogenicos aparentado
+BA,2026,0,Medula,0,Alogenicos desconhecido
+BA,2026,0,Medula,0,Alogenicos não aparentado
+BA,2026,0,Medula,0,Sem modalidade
+BA,2026,0,Medula,0,vivos
+CE,2015,6,Rim,0.68,vivos
+CE,2015,251,Rim,28.47,falecidos
+CE,2015,0,Fígado,0,vivos
+CE,2015,195,Fígado,22.12,falecidos
+CE,2015,0,Coração,0,vivos
+CE,2015,24,Coração,2.72,falecidos
+CE,2015,0,Pulmão,0,vivos
+CE,2015,4,Pulmão,0.45,falecidos
+CE,2015,0,Pancreas,0,vivos
+CE,2015,6,Pancreas,0.68,falecidos
+CE,2015,0,Córnea,0,vivos
+CE,2015,832,Córnea,94.37,falecidos
+CE,2015,76,Medula,8.62,Autologos
+CE,2015,14,Medula,1.59,Alogenicos aparentado
+CE,2015,0,Medula,0,Alogenicos desconhecido
+CE,2015,0,Medula,0,Alogenicos não aparentado
+CE,2015,0,Medula,0,Sem modalidade
+CE,2015,90,Medula,10.21,vivos
+CE,2016,14,Rim,1.58,vivos
+CE,2016,238,Rim,26.82,falecidos
+CE,2016,0,Fígado,0,vivos
+CE,2016,195,Fígado,21.98,falecidos
+CE,2016,0,Coração,0,vivos
+CE,2016,32,Coração,3.61,falecidos
+CE,2016,0,Pulmão,0,vivos
+CE,2016,6,Pulmão,0.68,falecidos
+CE,2016,0,Pancreas,0,vivos
+CE,2016,0,Pancreas,0,falecidos
+CE,2016,0,Córnea,0,vivos
+CE,2016,1265,Córnea,142.57,falecidos
+CE,2016,73,Medula,8.23,Autologos
+CE,2016,26,Medula,2.93,Alogenicos aparentado
+CE,2016,0,Medula,0,Alogenicos desconhecido
+CE,2016,6,Medula,0.68,Alogenicos não aparentado
+CE,2016,2,Medula,0.23,Sem modalidade
+CE,2016,107,Medula,12.06,vivos
+CE,2017,9,Rim,1.01,vivos
+CE,2017,214,Rim,23.98,falecidos
+CE,2017,0,Fígado,0,vivos
+CE,2017,201,Fígado,22.52,falecidos
+CE,2017,0,Coração,0,vivos
+CE,2017,27,Coração,3.03,falecidos
+CE,2017,0,Pulmão,0,vivos
+CE,2017,3,Pulmão,0.34,falecidos
+CE,2017,0,Pancreas,0,vivos
+CE,2017,1,Pancreas,0.11,falecidos
+CE,2017,0,Córnea,0,vivos
+CE,2017,960,Córnea,107.58,falecidos
+CE,2017,79,Medula,8.85,Autologos
+CE,2017,20,Medula,2.24,Alogenicos aparentado
+CE,2017,0,Medula,0,Alogenicos desconhecido
+CE,2017,6,Medula,0.67,Alogenicos não aparentado
+CE,2017,0,Medula,0,Sem modalidade
+CE,2017,105,Medula,11.77,vivos
+CE,2018,11,Rim,1.23,vivos
+CE,2018,209,Rim,23.28,falecidos
+CE,2018,0,Fígado,0,vivos
+CE,2018,211,Fígado,23.5,falecidos
+CE,2018,0,Coração,0,vivos
+CE,2018,31,Coração,3.45,falecidos
+CE,2018,0,Pulmão,0,vivos
+CE,2018,3,Pulmão,0.33,falecidos
+CE,2018,0,Pancreas,0,vivos
+CE,2018,4,Pancreas,0.45,falecidos
+CE,2018,0,Córnea,0,vivos
+CE,2018,938,Córnea,104.49,falecidos
+CE,2018,82,Medula,9.13,Autologos
+CE,2018,30,Medula,3.34,Alogenicos aparentado
+CE,2018,0,Medula,0,Alogenicos desconhecido
+CE,2018,5,Medula,0.56,Alogenicos não aparentado
+CE,2018,0,Medula,0,Sem modalidade
+CE,2018,117,Medula,13.03,vivos
+CE,2019,22,Rim,2.43,vivos
+CE,2019,271,Rim,29.99,falecidos
+CE,2019,0,Fígado,0,vivos
+CE,2019,229,Fígado,25.34,falecidos
+CE,2019,0,Coração,0,vivos
+CE,2019,25,Coração,2.77,falecidos
+CE,2019,0,Pulmão,0,vivos
+CE,2019,4,Pulmão,0.44,falecidos
+CE,2019,0,Pancreas,0,vivos
+CE,2019,5,Pancreas,0.55,falecidos
+CE,2019,0,Córnea,0,vivos
+CE,2019,900,Córnea,99.6,falecidos
+CE,2019,121,Medula,13.39,Autologos
+CE,2019,23,Medula,2.55,Alogenicos aparentado
+CE,2019,0,Medula,0,Alogenicos desconhecido
+CE,2019,6,Medula,0.66,Alogenicos não aparentado
+CE,2019,2,Medula,0.22,Sem modalidade
+CE,2019,152,Medula,16.82,vivos
+CE,2020,2,Rim,0.22,vivos
+CE,2020,178,Rim,19.58,falecidos
+CE,2020,0,Fígado,0,vivos
+CE,2020,179,Fígado,19.69,falecidos
+CE,2020,0,Coração,0,vivos
+CE,2020,14,Coração,1.54,falecidos
+CE,2020,0,Pulmão,0,vivos
+CE,2020,1,Pulmão,0.11,falecidos
+CE,2020,0,Pancreas,0,vivos
+CE,2020,1,Pancreas,0.11,falecidos
+CE,2020,0,Córnea,0,vivos
+CE,2020,633,Córnea,69.64,falecidos
+CE,2020,80,Medula,8.8,Autologos
+CE,2020,19,Medula,2.09,Alogenicos aparentado
+CE,2020,0,Medula,0,Alogenicos desconhecido
+CE,2020,1,Medula,0.11,Alogenicos não aparentado
+CE,2020,1,Medula,0.11,Sem modalidade
+CE,2020,101,Medula,11.11,vivos
+CE,2021,3,Rim,0.33,vivos
+CE,2021,188,Rim,20.59,falecidos
+CE,2021,0,Fígado,0,vivos
+CE,2021,183,Fígado,20.04,falecidos
+CE,2021,0,Coração,0,vivos
+CE,2021,11,Coração,1.2,falecidos
+CE,2021,0,Pulmão,0,vivos
+CE,2021,0,Pulmão,0,falecidos
+CE,2021,0,Pancreas,0,vivos
+CE,2021,2,Pancreas,0.22,falecidos
+CE,2021,0,Córnea,0,vivos
+CE,2021,967,Córnea,105.91,falecidos
+CE,2021,98,Medula,10.73,Autologos
+CE,2021,33,Medula,3.61,Alogenicos aparentado
+CE,2021,0,Medula,0,Alogenicos desconhecido
+CE,2021,6,Medula,0.66,Alogenicos não aparentado
+CE,2021,0,Medula,0,Sem modalidade
+CE,2021,137,Medula,15.01,vivos
+CE,2022,10,Rim,1.09,vivos
+CE,2022,193,Rim,21.06,falecidos
+CE,2022,0,Fígado,0,vivos
+CE,2022,209,Fígado,22.81,falecidos
+CE,2022,0,Coração,0,vivos
+CE,2022,16,Coração,1.75,falecidos
+CE,2022,0,Pulmão,0,vivos
+CE,2022,2,Pulmão,0.22,falecidos
+CE,2022,0,Pancreas,0,vivos
+CE,2022,3,Pancreas,0.33,falecidos
+CE,2022,0,Córnea,0,vivos
+CE,2022,1091,Córnea,119.07,falecidos
+CE,2022,87,Medula,9.49,Autologos
+CE,2022,30,Medula,3.27,Alogenicos aparentado
+CE,2022,0,Medula,0,Alogenicos desconhecido
+CE,2022,12,Medula,1.31,Alogenicos não aparentado
+CE,2022,2,Medula,0.22,Sem modalidade
+CE,2022,131,Medula,14.3,vivos
+CE,2023,16,Rim,1.74,vivos
+CE,2023,190,Rim,20.66,falecidos
+CE,2023,1,Fígado,0.11,vivos
+CE,2023,217,Fígado,23.59,falecidos
+CE,2023,0,Coração,0,vivos
+CE,2023,26,Coração,2.83,falecidos
+CE,2023,0,Pulmão,0,vivos
+CE,2023,2,Pulmão,0.22,falecidos
+CE,2023,0,Pancreas,0,vivos
+CE,2023,6,Pancreas,0.65,falecidos
+CE,2023,0,Córnea,0,vivos
+CE,2023,1100,Córnea,119.6,falecidos
+CE,2023,99,Medula,10.76,Autologos
+CE,2023,42,Medula,4.57,Alogenicos aparentado
+CE,2023,0,Medula,0,Alogenicos desconhecido
+CE,2023,13,Medula,1.41,Alogenicos não aparentado
+CE,2023,0,Medula,0,Sem modalidade
+CE,2023,154,Medula,16.74,vivos
+CE,2024,23,Rim,2.49,vivos
+CE,2024,231,Rim,25.02,falecidos
+CE,2024,0,Fígado,0,vivos
+CE,2024,251,Fígado,27.18,falecidos
+CE,2024,0,Coração,0,vivos
+CE,2024,35,Coração,3.79,falecidos
+CE,2024,0,Pulmão,0,vivos
+CE,2024,3,Pulmão,0.32,falecidos
+CE,2024,0,Pancreas,0,vivos
+CE,2024,3,Pancreas,0.32,falecidos
+CE,2024,0,Córnea,0,vivos
+CE,2024,1330,Córnea,144.03,falecidos
+CE,2024,14,Medula,1.52,Autologos
+CE,2024,7,Medula,0.76,Alogenicos aparentado
+CE,2024,2,Medula,0.22,Alogenicos desconhecido
+CE,2024,1,Medula,0.11,Alogenicos não aparentado
+CE,2024,0,Medula,0,Sem modalidade
+CE,2024,24,Medula,2.6,vivos
+CE,2025,20,Rim,2.16,vivos
+CE,2025,245,Rim,26.43,falecidos
+CE,2025,0,Fígado,0,vivos
+CE,2025,242,Fígado,26.11,falecidos
+CE,2025,0,Coração,0,vivos
+CE,2025,23,Coração,2.48,falecidos
+CE,2025,0,Pulmão,0,vivos
+CE,2025,3,Pulmão,0.32,falecidos
+CE,2025,0,Pancreas,0,vivos
+CE,2025,0,Pancreas,0,falecidos
+CE,2025,0,Córnea,0,vivos
+CE,2025,1371,Córnea,147.91,falecidos
+CE,2025,89,Medula,9.6,Autologos
+CE,2025,49,Medula,5.29,Alogenicos aparentado
+CE,2025,0,Medula,0,Alogenicos desconhecido
+CE,2025,6,Medula,0.65,Alogenicos não aparentado
+CE,2025,2,Medula,0.22,Sem modalidade
+CE,2025,146,Medula,15.75,vivos
+CE,2026,13,Rim,1.4,vivos
+CE,2026,168,Rim,18.06,falecidos
+CE,2026,0,Fígado,0,vivos
+CE,2026,184,Fígado,19.78,falecidos
+CE,2026,0,Coração,0,vivos
+CE,2026,25,Coração,2.69,falecidos
+CE,2026,0,Pulmão,0,vivos
+CE,2026,4,Pulmão,0.43,falecidos
+CE,2026,0,Pancreas,0,vivos
+CE,2026,0,Pancreas,0,falecidos
+CE,2026,0,Córnea,0,vivos
+CE,2026,922,Córnea,99.12,falecidos
+CE,2026,18,Medula,1.94,Autologos
+CE,2026,10,Medula,1.08,Alogenicos aparentado
+CE,2026,0,Medula,0,Alogenicos desconhecido
+CE,2026,1,Medula,0.11,Alogenicos não aparentado
+CE,2026,0,Medula,0,Sem modalidade
+CE,2026,29,Medula,3.12,vivos
+DF,2015,5,Rim,1.79,vivos
+DF,2015,81,Rim,28.98,falecidos
+DF,2015,0,Fígado,0,vivos
+DF,2015,62,Fígado,22.18,falecidos
+DF,2015,0,Coração,0,vivos
+DF,2015,30,Coração,10.73,falecidos
+DF,2015,0,Pulmão,0,vivos
+DF,2015,0,Pulmão,0,falecidos
+DF,2015,0,Pancreas,0,vivos
+DF,2015,0,Pancreas,0,falecidos
+DF,2015,0,Córnea,0,vivos
+DF,2015,487,Córnea,174.24,falecidos
+DF,2015,58,Medula,20.75,Autologos
+DF,2015,9,Medula,3.22,Alogenicos aparentado
+DF,2015,0,Medula,0,Alogenicos desconhecido
+DF,2015,4,Medula,1.43,Alogenicos não aparentado
+DF,2015,1,Medula,0.36,Sem modalidade
+DF,2015,72,Medula,25.76,vivos
+DF,2016,11,Rim,3.9,vivos
+DF,2016,101,Rim,35.76,falecidos
+DF,2016,0,Fígado,0,vivos
+DF,2016,76,Fígado,26.91,falecidos
+DF,2016,0,Coração,0,vivos
+DF,2016,43,Coração,15.23,falecidos
+DF,2016,0,Pulmão,0,vivos
+DF,2016,0,Pulmão,0,falecidos
+DF,2016,0,Pancreas,0,vivos
+DF,2016,0,Pancreas,0,falecidos
+DF,2016,0,Córnea,0,vivos
+DF,2016,403,Córnea,142.71,falecidos
+DF,2016,90,Medula,31.87,Autologos
+DF,2016,20,Medula,7.08,Alogenicos aparentado
+DF,2016,0,Medula,0,Alogenicos desconhecido
+DF,2016,9,Medula,3.19,Alogenicos não aparentado
+DF,2016,0,Medula,0,Sem modalidade
+DF,2016,119,Medula,42.14,vivos
+DF,2017,7,Rim,2.46,vivos
+DF,2017,64,Rim,22.46,falecidos
+DF,2017,0,Fígado,0,vivos
+DF,2017,86,Fígado,30.18,falecidos
+DF,2017,0,Coração,0,vivos
+DF,2017,37,Coração,12.98,falecidos
+DF,2017,0,Pulmão,0,vivos
+DF,2017,0,Pulmão,0,falecidos
+DF,2017,0,Pancreas,0,vivos
+DF,2017,0,Pancreas,0,falecidos
+DF,2017,0,Córnea,0,vivos
+DF,2017,333,Córnea,116.84,falecidos
+DF,2017,83,Medula,29.12,Autologos
+DF,2017,19,Medula,6.67,Alogenicos aparentado
+DF,2017,0,Medula,0,Alogenicos desconhecido
+DF,2017,9,Medula,3.16,Alogenicos não aparentado
+DF,2017,0,Medula,0,Sem modalidade
+DF,2017,111,Medula,38.95,vivos
+DF,2018,8,Rim,2.78,vivos
+DF,2018,61,Rim,21.22,falecidos
+DF,2018,0,Fígado,0,vivos
+DF,2018,86,Fígado,29.91,falecidos
+DF,2018,0,Coração,0,vivos
+DF,2018,34,Coração,11.83,falecidos
+DF,2018,0,Pulmão,0,vivos
+DF,2018,0,Pulmão,0,falecidos
+DF,2018,0,Pancreas,0,vivos
+DF,2018,0,Pancreas,0,falecidos
+DF,2018,0,Córnea,0,vivos
+DF,2018,308,Córnea,107.13,falecidos
+DF,2018,92,Medula,32,Autologos
+DF,2018,24,Medula,8.35,Alogenicos aparentado
+DF,2018,1,Medula,0.35,Alogenicos desconhecido
+DF,2018,16,Medula,5.57,Alogenicos não aparentado
+DF,2018,0,Medula,0,Sem modalidade
+DF,2018,133,Medula,46.26,vivos
+DF,2019,19,Rim,6.55,vivos
+DF,2019,63,Rim,21.72,falecidos
+DF,2019,0,Fígado,0,vivos
+DF,2019,91,Fígado,31.38,falecidos
+DF,2019,0,Coração,0,vivos
+DF,2019,29,Coração,10,falecidos
+DF,2019,0,Pulmão,0,vivos
+DF,2019,0,Pulmão,0,falecidos
+DF,2019,0,Pancreas,0,vivos
+DF,2019,0,Pancreas,0,falecidos
+DF,2019,0,Córnea,0,vivos
+DF,2019,409,Córnea,141.03,falecidos
+DF,2019,91,Medula,31.38,Autologos
+DF,2019,25,Medula,8.62,Alogenicos aparentado
+DF,2019,0,Medula,0,Alogenicos desconhecido
+DF,2019,0,Medula,0,Alogenicos não aparentado
+DF,2019,4,Medula,1.38,Sem modalidade
+DF,2019,120,Medula,41.38,vivos
+DF,2020,13,Rim,4.45,vivos
+DF,2020,65,Rim,22.25,falecidos
+DF,2020,0,Fígado,0,vivos
+DF,2020,100,Fígado,34.23,falecidos
+DF,2020,0,Coração,0,vivos
+DF,2020,22,Coração,7.53,falecidos
+DF,2020,0,Pulmão,0,vivos
+DF,2020,0,Pulmão,0,falecidos
+DF,2020,0,Pancreas,0,vivos
+DF,2020,0,Pancreas,0,falecidos
+DF,2020,0,Córnea,0,vivos
+DF,2020,222,Córnea,76,falecidos
+DF,2020,85,Medula,29.1,Autologos
+DF,2020,19,Medula,6.5,Alogenicos aparentado
+DF,2020,0,Medula,0,Alogenicos desconhecido
+DF,2020,0,Medula,0,Alogenicos não aparentado
+DF,2020,2,Medula,0.68,Sem modalidade
+DF,2020,106,Medula,36.29,vivos
+DF,2021,36,Rim,12.25,vivos
+DF,2021,70,Rim,23.83,falecidos
+DF,2021,0,Fígado,0,vivos
+DF,2021,100,Fígado,34.04,falecidos
+DF,2021,0,Coração,0,vivos
+DF,2021,25,Coração,8.51,falecidos
+DF,2021,0,Pulmão,0,vivos
+DF,2021,0,Pulmão,0,falecidos
+DF,2021,0,Pancreas,0,vivos
+DF,2021,0,Pancreas,0,falecidos
+DF,2021,0,Córnea,0,vivos
+DF,2021,360,Córnea,122.53,falecidos
+DF,2021,103,Medula,35.06,Autologos
+DF,2021,23,Medula,7.83,Alogenicos aparentado
+DF,2021,0,Medula,0,Alogenicos desconhecido
+DF,2021,3,Medula,1.02,Alogenicos não aparentado
+DF,2021,0,Medula,0,Sem modalidade
+DF,2021,129,Medula,43.91,vivos
+DF,2022,35,Rim,11.86,vivos
+DF,2022,67,Rim,22.7,falecidos
+DF,2022,0,Fígado,0,vivos
+DF,2022,108,Fígado,36.59,falecidos
+DF,2022,0,Coração,0,vivos
+DF,2022,32,Coração,10.84,falecidos
+DF,2022,0,Pulmão,0,vivos
+DF,2022,0,Pulmão,0,falecidos
+DF,2022,0,Pancreas,0,vivos
+DF,2022,0,Pancreas,0,falecidos
+DF,2022,0,Córnea,0,vivos
+DF,2022,311,Córnea,105.35,falecidos
+DF,2022,148,Medula,50.14,Autologos
+DF,2022,56,Medula,18.97,Alogenicos aparentado
+DF,2022,0,Medula,0,Alogenicos desconhecido
+DF,2022,1,Medula,0.34,Alogenicos não aparentado
+DF,2022,2,Medula,0.68,Sem modalidade
+DF,2022,207,Medula,70.12,vivos
+DF,2023,40,Rim,13.48,vivos
+DF,2023,104,Rim,35.04,falecidos
+DF,2023,0,Fígado,0,vivos
+DF,2023,121,Fígado,40.77,falecidos
+DF,2023,0,Coração,0,vivos
+DF,2023,34,Coração,11.46,falecidos
+DF,2023,0,Pulmão,0,vivos
+DF,2023,0,Pulmão,0,falecidos
+DF,2023,0,Pancreas,0,vivos
+DF,2023,0,Pancreas,0,falecidos
+DF,2023,0,Córnea,0,vivos
+DF,2023,338,Córnea,113.88,falecidos
+DF,2023,163,Medula,54.92,Autologos
+DF,2023,34,Medula,11.46,Alogenicos aparentado
+DF,2023,4,Medula,1.35,Alogenicos desconhecido
+DF,2023,4,Medula,1.35,Alogenicos não aparentado
+DF,2023,0,Medula,0,Sem modalidade
+DF,2023,205,Medula,69.07,vivos
+DF,2024,21,Rim,7.04,vivos
+DF,2024,95,Rim,31.85,falecidos
+DF,2024,0,Fígado,0,vivos
+DF,2024,128,Fígado,42.91,falecidos
+DF,2024,0,Coração,0,vivos
+DF,2024,35,Coração,11.73,falecidos
+DF,2024,0,Pulmão,0,vivos
+DF,2024,0,Pulmão,0,falecidos
+DF,2024,0,Pancreas,0,vivos
+DF,2024,0,Pancreas,0,falecidos
+DF,2024,0,Córnea,0,vivos
+DF,2024,315,Córnea,105.6,falecidos
+DF,2024,154,Medula,51.63,Autologos
+DF,2024,18,Medula,6.03,Alogenicos aparentado
+DF,2024,34,Medula,11.4,Alogenicos desconhecido
+DF,2024,3,Medula,1.01,Alogenicos não aparentado
+DF,2024,1,Medula,0.34,Sem modalidade
+DF,2024,210,Medula,70.4,vivos
+DF,2025,20,Rim,6.67,vivos
+DF,2025,98,Rim,32.7,falecidos
+DF,2025,0,Fígado,0,vivos
+DF,2025,146,Fígado,48.72,falecidos
+DF,2025,0,Coração,0,vivos
+DF,2025,38,Coração,12.68,falecidos
+DF,2025,0,Pulmão,0,vivos
+DF,2025,0,Pulmão,0,falecidos
+DF,2025,0,Pancreas,0,vivos
+DF,2025,0,Pancreas,0,falecidos
+DF,2025,0,Córnea,0,vivos
+DF,2025,313,Córnea,104.44,falecidos
+DF,2025,113,Medula,37.7,Autologos
+DF,2025,47,Medula,15.68,Alogenicos aparentado
+DF,2025,24,Medula,8.01,Alogenicos desconhecido
+DF,2025,9,Medula,3,Alogenicos não aparentado
+DF,2025,1,Medula,0.33,Sem modalidade
+DF,2025,194,Medula,64.73,vivos
+DF,2026,15,Rim,4.98,vivos
+DF,2026,67,Rim,22.26,falecidos
+DF,2026,0,Fígado,0,vivos
+DF,2026,107,Fígado,35.55,falecidos
+DF,2026,0,Coração,0,vivos
+DF,2026,27,Coração,8.97,falecidos
+DF,2026,0,Pulmão,0,vivos
+DF,2026,0,Pulmão,0,falecidos
+DF,2026,0,Pancreas,0,vivos
+DF,2026,0,Pancreas,0,falecidos
+DF,2026,0,Córnea,0,vivos
+DF,2026,178,Córnea,59.14,falecidos
+DF,2026,18,Medula,5.98,Autologos
+DF,2026,43,Medula,14.29,Alogenicos aparentado
+DF,2026,0,Medula,0,Alogenicos desconhecido
+DF,2026,10,Medula,3.32,Alogenicos não aparentado
+DF,2026,0,Medula,0,Sem modalidade
+DF,2026,71,Medula,23.59,vivos
+ES,2015,22,Rim,5.74,vivos
+ES,2015,50,Rim,13.04,falecidos
+ES,2015,0,Fígado,0,vivos
+ES,2015,29,Fígado,7.56,falecidos
+ES,2015,0,Coração,0,vivos
+ES,2015,1,Coração,0.26,falecidos
+ES,2015,0,Pulmão,0,vivos
+ES,2015,0,Pulmão,0,falecidos
+ES,2015,0,Pancreas,0,vivos
+ES,2015,0,Pancreas,0,falecidos
+ES,2015,0,Córnea,0,vivos
+ES,2015,317,Córnea,82.68,falecidos
+ES,2015,0,Medula,0,Autologos
+ES,2015,0,Medula,0,Alogenicos aparentado
+ES,2015,0,Medula,0,Alogenicos desconhecido
+ES,2015,0,Medula,0,Alogenicos não aparentado
+ES,2015,0,Medula,0,Sem modalidade
+ES,2015,0,Medula,0,vivos
+ES,2016,24,Rim,6.2,vivos
+ES,2016,58,Rim,14.98,falecidos
+ES,2016,0,Fígado,0,vivos
+ES,2016,27,Fígado,6.97,falecidos
+ES,2016,0,Coração,0,vivos
+ES,2016,8,Coração,2.07,falecidos
+ES,2016,0,Pulmão,0,vivos
+ES,2016,0,Pulmão,0,falecidos
+ES,2016,0,Pancreas,0,vivos
+ES,2016,0,Pancreas,0,falecidos
+ES,2016,0,Córnea,0,vivos
+ES,2016,322,Córnea,83.18,falecidos
+ES,2016,0,Medula,0,Autologos
+ES,2016,0,Medula,0,Alogenicos aparentado
+ES,2016,0,Medula,0,Alogenicos desconhecido
+ES,2016,0,Medula,0,Alogenicos não aparentado
+ES,2016,0,Medula,0,Sem modalidade
+ES,2016,0,Medula,0,vivos
+ES,2017,31,Rim,7.94,vivos
+ES,2017,77,Rim,19.72,falecidos
+ES,2017,0,Fígado,0,vivos
+ES,2017,23,Fígado,5.89,falecidos
+ES,2017,0,Coração,0,vivos
+ES,2017,10,Coração,2.56,falecidos
+ES,2017,0,Pulmão,0,vivos
+ES,2017,0,Pulmão,0,falecidos
+ES,2017,0,Pancreas,0,vivos
+ES,2017,0,Pancreas,0,falecidos
+ES,2017,0,Córnea,0,vivos
+ES,2017,306,Córnea,78.36,falecidos
+ES,2017,16,Medula,4.1,Autologos
+ES,2017,0,Medula,0,Alogenicos aparentado
+ES,2017,0,Medula,0,Alogenicos desconhecido
+ES,2017,0,Medula,0,Alogenicos não aparentado
+ES,2017,0,Medula,0,Sem modalidade
+ES,2017,16,Medula,4.1,vivos
+ES,2018,22,Rim,5.59,vivos
+ES,2018,50,Rim,12.7,falecidos
+ES,2018,0,Fígado,0,vivos
+ES,2018,25,Fígado,6.35,falecidos
+ES,2018,0,Coração,0,vivos
+ES,2018,10,Coração,2.54,falecidos
+ES,2018,0,Pulmão,0,vivos
+ES,2018,0,Pulmão,0,falecidos
+ES,2018,0,Pancreas,0,vivos
+ES,2018,0,Pancreas,0,falecidos
+ES,2018,0,Córnea,0,vivos
+ES,2018,262,Córnea,66.55,falecidos
+ES,2018,0,Medula,0,Autologos
+ES,2018,0,Medula,0,Alogenicos aparentado
+ES,2018,0,Medula,0,Alogenicos desconhecido
+ES,2018,0,Medula,0,Alogenicos não aparentado
+ES,2018,0,Medula,0,Sem modalidade
+ES,2018,0,Medula,0,vivos
+ES,2019,30,Rim,7.56,vivos
+ES,2019,71,Rim,17.88,falecidos
+ES,2019,0,Fígado,0,vivos
+ES,2019,25,Fígado,6.3,falecidos
+ES,2019,0,Coração,0,vivos
+ES,2019,11,Coração,2.77,falecidos
+ES,2019,0,Pulmão,0,vivos
+ES,2019,0,Pulmão,0,falecidos
+ES,2019,0,Pancreas,0,vivos
+ES,2019,0,Pancreas,0,falecidos
+ES,2019,0,Córnea,0,vivos
+ES,2019,238,Córnea,59.95,falecidos
+ES,2019,0,Medula,0,Autologos
+ES,2019,0,Medula,0,Alogenicos aparentado
+ES,2019,0,Medula,0,Alogenicos desconhecido
+ES,2019,0,Medula,0,Alogenicos não aparentado
+ES,2019,0,Medula,0,Sem modalidade
+ES,2019,0,Medula,0,vivos
+ES,2020,6,Rim,1.5,vivos
+ES,2020,42,Rim,10.5,falecidos
+ES,2020,0,Fígado,0,vivos
+ES,2020,27,Fígado,6.75,falecidos
+ES,2020,0,Coração,0,vivos
+ES,2020,10,Coração,2.5,falecidos
+ES,2020,0,Pulmão,0,vivos
+ES,2020,0,Pulmão,0,falecidos
+ES,2020,0,Pancreas,0,vivos
+ES,2020,0,Pancreas,0,falecidos
+ES,2020,0,Córnea,0,vivos
+ES,2020,130,Córnea,32.49,falecidos
+ES,2020,0,Medula,0,Autologos
+ES,2020,0,Medula,0,Alogenicos aparentado
+ES,2020,0,Medula,0,Alogenicos desconhecido
+ES,2020,0,Medula,0,Alogenicos não aparentado
+ES,2020,0,Medula,0,Sem modalidade
+ES,2020,0,Medula,0,vivos
+ES,2021,7,Rim,1.74,vivos
+ES,2021,62,Rim,15.39,falecidos
+ES,2021,0,Fígado,0,vivos
+ES,2021,35,Fígado,8.69,falecidos
+ES,2021,0,Coração,0,vivos
+ES,2021,5,Coração,1.24,falecidos
+ES,2021,0,Pulmão,0,vivos
+ES,2021,0,Pulmão,0,falecidos
+ES,2021,0,Pancreas,0,vivos
+ES,2021,0,Pancreas,0,falecidos
+ES,2021,0,Córnea,0,vivos
+ES,2021,272,Córnea,67.53,falecidos
+ES,2021,0,Medula,0,Autologos
+ES,2021,0,Medula,0,Alogenicos aparentado
+ES,2021,0,Medula,0,Alogenicos desconhecido
+ES,2021,0,Medula,0,Alogenicos não aparentado
+ES,2021,0,Medula,0,Sem modalidade
+ES,2021,0,Medula,0,vivos
+ES,2022,19,Rim,4.69,vivos
+ES,2022,59,Rim,14.56,falecidos
+ES,2022,0,Fígado,0,vivos
+ES,2022,23,Fígado,5.68,falecidos
+ES,2022,0,Coração,0,vivos
+ES,2022,3,Coração,0.74,falecidos
+ES,2022,0,Pulmão,0,vivos
+ES,2022,0,Pulmão,0,falecidos
+ES,2022,0,Pancreas,0,vivos
+ES,2022,0,Pancreas,0,falecidos
+ES,2022,0,Córnea,0,vivos
+ES,2022,228,Córnea,56.28,falecidos
+ES,2022,0,Medula,0,Autologos
+ES,2022,0,Medula,0,Alogenicos aparentado
+ES,2022,0,Medula,0,Alogenicos desconhecido
+ES,2022,0,Medula,0,Alogenicos não aparentado
+ES,2022,0,Medula,0,Sem modalidade
+ES,2022,0,Medula,0,vivos
+ES,2023,31,Rim,7.61,vivos
+ES,2023,59,Rim,14.47,falecidos
+ES,2023,0,Fígado,0,vivos
+ES,2023,48,Fígado,11.78,falecidos
+ES,2023,0,Coração,0,vivos
+ES,2023,4,Coração,0.98,falecidos
+ES,2023,0,Pulmão,0,vivos
+ES,2023,0,Pulmão,0,falecidos
+ES,2023,0,Pancreas,0,vivos
+ES,2023,0,Pancreas,0,falecidos
+ES,2023,0,Córnea,0,vivos
+ES,2023,240,Córnea,58.88,falecidos
+ES,2023,0,Medula,0,Autologos
+ES,2023,0,Medula,0,Alogenicos aparentado
+ES,2023,0,Medula,0,Alogenicos desconhecido
+ES,2023,0,Medula,0,Alogenicos não aparentado
+ES,2023,0,Medula,0,Sem modalidade
+ES,2023,0,Medula,0,vivos
+ES,2024,20,Rim,4.88,vivos
+ES,2024,82,Rim,19.99,falecidos
+ES,2024,0,Fígado,0,vivos
+ES,2024,61,Fígado,14.87,falecidos
+ES,2024,0,Coração,0,vivos
+ES,2024,10,Coração,2.44,falecidos
+ES,2024,0,Pulmão,0,vivos
+ES,2024,0,Pulmão,0,falecidos
+ES,2024,0,Pancreas,0,vivos
+ES,2024,0,Pancreas,0,falecidos
+ES,2024,0,Córnea,0,vivos
+ES,2024,323,Córnea,78.74,falecidos
+ES,2024,0,Medula,0,Autologos
+ES,2024,0,Medula,0,Alogenicos aparentado
+ES,2024,0,Medula,0,Alogenicos desconhecido
+ES,2024,0,Medula,0,Alogenicos não aparentado
+ES,2024,0,Medula,0,Sem modalidade
+ES,2024,0,Medula,0,vivos
+ES,2025,27,Rim,6.54,vivos
+ES,2025,77,Rim,18.66,falecidos
+ES,2025,0,Fígado,0,vivos
+ES,2025,65,Fígado,15.75,falecidos
+ES,2025,0,Coração,0,vivos
+ES,2025,11,Coração,2.67,falecidos
+ES,2025,0,Pulmão,0,vivos
+ES,2025,0,Pulmão,0,falecidos
+ES,2025,0,Pancreas,0,vivos
+ES,2025,0,Pancreas,0,falecidos
+ES,2025,0,Córnea,0,vivos
+ES,2025,464,Córnea,112.43,falecidos
+ES,2025,0,Medula,0,Autologos
+ES,2025,0,Medula,0,Alogenicos aparentado
+ES,2025,0,Medula,0,Alogenicos desconhecido
+ES,2025,0,Medula,0,Alogenicos não aparentado
+ES,2025,0,Medula,0,Sem modalidade
+ES,2025,0,Medula,0,vivos
+ES,2026,22,Rim,5.3,vivos
+ES,2026,70,Rim,16.86,falecidos
+ES,2026,0,Fígado,0,vivos
+ES,2026,42,Fígado,10.12,falecidos
+ES,2026,0,Coração,0,vivos
+ES,2026,6,Coração,1.45,falecidos
+ES,2026,0,Pulmão,0,vivos
+ES,2026,0,Pulmão,0,falecidos
+ES,2026,0,Pancreas,0,vivos
+ES,2026,0,Pancreas,0,falecidos
+ES,2026,0,Córnea,0,vivos
+ES,2026,246,Córnea,59.26,falecidos
+ES,2026,0,Medula,0,Autologos
+ES,2026,0,Medula,0,Alogenicos aparentado
+ES,2026,0,Medula,0,Alogenicos desconhecido
+ES,2026,0,Medula,0,Alogenicos não aparentado
+ES,2026,0,Medula,0,Sem modalidade
+ES,2026,0,Medula,0,vivos
+GO,2015,24,Rim,3.62,vivos
+GO,2015,61,Rim,9.2,falecidos
+GO,2015,0,Fígado,0,vivos
+GO,2015,0,Fígado,0,falecidos
+GO,2015,0,Coração,0,vivos
+GO,2015,0,Coração,0,falecidos
+GO,2015,0,Pulmão,0,vivos
+GO,2015,0,Pulmão,0,falecidos
+GO,2015,0,Pancreas,0,vivos
+GO,2015,2,Pancreas,0.3,falecidos
+GO,2015,0,Córnea,0,vivos
+GO,2015,768,Córnea,115.84,falecidos
+GO,2015,69,Medula,10.41,Autologos
+GO,2015,17,Medula,2.56,Alogenicos aparentado
+GO,2015,0,Medula,0,Alogenicos desconhecido
+GO,2015,0,Medula,0,Alogenicos não aparentado
+GO,2015,19,Medula,2.87,Sem modalidade
+GO,2015,105,Medula,15.84,vivos
+GO,2016,17,Rim,2.53,vivos
+GO,2016,68,Rim,10.12,falecidos
+GO,2016,0,Fígado,0,vivos
+GO,2016,0,Fígado,0,falecidos
+GO,2016,0,Coração,0,vivos
+GO,2016,4,Coração,0.6,falecidos
+GO,2016,0,Pulmão,0,vivos
+GO,2016,0,Pulmão,0,falecidos
+GO,2016,0,Pancreas,0,vivos
+GO,2016,0,Pancreas,0,falecidos
+GO,2016,0,Córnea,0,vivos
+GO,2016,764,Córnea,113.67,falecidos
+GO,2016,39,Medula,5.8,Autologos
+GO,2016,11,Medula,1.64,Alogenicos aparentado
+GO,2016,0,Medula,0,Alogenicos desconhecido
+GO,2016,0,Medula,0,Alogenicos não aparentado
+GO,2016,38,Medula,5.65,Sem modalidade
+GO,2016,88,Medula,13.09,vivos
+GO,2017,23,Rim,3.38,vivos
+GO,2017,90,Rim,13.22,falecidos
+GO,2017,0,Fígado,0,vivos
+GO,2017,0,Fígado,0,falecidos
+GO,2017,0,Coração,0,vivos
+GO,2017,1,Coração,0.15,falecidos
+GO,2017,0,Pulmão,0,vivos
+GO,2017,0,Pulmão,0,falecidos
+GO,2017,0,Pancreas,0,vivos
+GO,2017,0,Pancreas,0,falecidos
+GO,2017,0,Córnea,0,vivos
+GO,2017,1037,Córnea,152.37,falecidos
+GO,2017,44,Medula,6.46,Autologos
+GO,2017,9,Medula,1.32,Alogenicos aparentado
+GO,2017,0,Medula,0,Alogenicos desconhecido
+GO,2017,0,Medula,0,Alogenicos não aparentado
+GO,2017,21,Medula,3.09,Sem modalidade
+GO,2017,74,Medula,10.87,vivos
+GO,2018,26,Rim,3.77,vivos
+GO,2018,137,Rim,19.89,falecidos
+GO,2018,0,Fígado,0,vivos
+GO,2018,5,Fígado,0.73,falecidos
+GO,2018,0,Coração,0,vivos
+GO,2018,0,Coração,0,falecidos
+GO,2018,0,Pulmão,0,vivos
+GO,2018,0,Pulmão,0,falecidos
+GO,2018,0,Pancreas,0,vivos
+GO,2018,0,Pancreas,0,falecidos
+GO,2018,0,Córnea,0,vivos
+GO,2018,789,Córnea,114.55,falecidos
+GO,2018,61,Medula,8.86,Autologos
+GO,2018,10,Medula,1.45,Alogenicos aparentado
+GO,2018,0,Medula,0,Alogenicos desconhecido
+GO,2018,0,Medula,0,Alogenicos não aparentado
+GO,2018,9,Medula,1.31,Sem modalidade
+GO,2018,80,Medula,11.61,vivos
+GO,2019,19,Rim,2.72,vivos
+GO,2019,202,Rim,28.96,falecidos
+GO,2019,0,Fígado,0,vivos
+GO,2019,6,Fígado,0.86,falecidos
+GO,2019,0,Coração,0,vivos
+GO,2019,0,Coração,0,falecidos
+GO,2019,0,Pulmão,0,vivos
+GO,2019,0,Pulmão,0,falecidos
+GO,2019,0,Pancreas,0,vivos
+GO,2019,0,Pancreas,0,falecidos
+GO,2019,0,Córnea,0,vivos
+GO,2019,531,Córnea,76.13,falecidos
+GO,2019,82,Medula,11.76,Autologos
+GO,2019,4,Medula,0.57,Alogenicos aparentado
+GO,2019,0,Medula,0,Alogenicos desconhecido
+GO,2019,0,Medula,0,Alogenicos não aparentado
+GO,2019,14,Medula,2.01,Sem modalidade
+GO,2019,100,Medula,14.34,vivos
+GO,2020,11,Rim,1.56,vivos
+GO,2020,188,Rim,26.63,falecidos
+GO,2020,0,Fígado,0,vivos
+GO,2020,10,Fígado,1.42,falecidos
+GO,2020,0,Coração,0,vivos
+GO,2020,0,Coração,0,falecidos
+GO,2020,0,Pulmão,0,vivos
+GO,2020,0,Pulmão,0,falecidos
+GO,2020,0,Pancreas,0,vivos
+GO,2020,0,Pancreas,0,falecidos
+GO,2020,0,Córnea,0,vivos
+GO,2020,282,Córnea,39.94,falecidos
+GO,2020,28,Medula,3.97,Autologos
+GO,2020,9,Medula,1.27,Alogenicos aparentado
+GO,2020,0,Medula,0,Alogenicos desconhecido
+GO,2020,0,Medula,0,Alogenicos não aparentado
+GO,2020,0,Medula,0,Sem modalidade
+GO,2020,37,Medula,5.24,vivos
+GO,2021,6,Rim,0.84,vivos
+GO,2021,114,Rim,15.98,falecidos
+GO,2021,0,Fígado,0,vivos
+GO,2021,12,Fígado,1.68,falecidos
+GO,2021,0,Coração,0,vivos
+GO,2021,0,Coração,0,falecidos
+GO,2021,0,Pulmão,0,vivos
+GO,2021,0,Pulmão,0,falecidos
+GO,2021,0,Pancreas,0,vivos
+GO,2021,0,Pancreas,0,falecidos
+GO,2021,0,Córnea,0,vivos
+GO,2021,419,Córnea,58.73,falecidos
+GO,2021,4,Medula,0.56,Autologos
+GO,2021,0,Medula,0,Alogenicos aparentado
+GO,2021,0,Medula,0,Alogenicos desconhecido
+GO,2021,0,Medula,0,Alogenicos não aparentado
+GO,2021,0,Medula,0,Sem modalidade
+GO,2021,4,Medula,0.56,vivos
+GO,2022,14,Rim,1.94,vivos
+GO,2022,99,Rim,13.75,falecidos
+GO,2022,0,Fígado,0,vivos
+GO,2022,7,Fígado,0.97,falecidos
+GO,2022,0,Coração,0,vivos
+GO,2022,0,Coração,0,falecidos
+GO,2022,0,Pulmão,0,vivos
+GO,2022,0,Pulmão,0,falecidos
+GO,2022,0,Pancreas,0,vivos
+GO,2022,0,Pancreas,0,falecidos
+GO,2022,0,Córnea,0,vivos
+GO,2022,391,Córnea,54.3,falecidos
+GO,2022,26,Medula,3.61,Autologos
+GO,2022,6,Medula,0.83,Alogenicos aparentado
+GO,2022,0,Medula,0,Alogenicos desconhecido
+GO,2022,0,Medula,0,Alogenicos não aparentado
+GO,2022,0,Medula,0,Sem modalidade
+GO,2022,32,Medula,4.44,vivos
+GO,2023,25,Rim,3.44,vivos
+GO,2023,128,Rim,17.6,falecidos
+GO,2023,0,Fígado,0,vivos
+GO,2023,9,Fígado,1.24,falecidos
+GO,2023,0,Coração,0,vivos
+GO,2023,0,Coração,0,falecidos
+GO,2023,0,Pulmão,0,vivos
+GO,2023,0,Pulmão,0,falecidos
+GO,2023,0,Pancreas,0,vivos
+GO,2023,0,Pancreas,0,falecidos
+GO,2023,0,Córnea,0,vivos
+GO,2023,620,Córnea,85.24,falecidos
+GO,2023,22,Medula,3.02,Autologos
+GO,2023,12,Medula,1.65,Alogenicos aparentado
+GO,2023,0,Medula,0,Alogenicos desconhecido
+GO,2023,0,Medula,0,Alogenicos não aparentado
+GO,2023,0,Medula,0,Sem modalidade
+GO,2023,34,Medula,4.67,vivos
+GO,2024,31,Rim,4.22,vivos
+GO,2024,116,Rim,15.78,falecidos
+GO,2024,0,Fígado,0,vivos
+GO,2024,10,Fígado,1.36,falecidos
+GO,2024,0,Coração,0,vivos
+GO,2024,0,Coração,0,falecidos
+GO,2024,0,Pulmão,0,vivos
+GO,2024,0,Pulmão,0,falecidos
+GO,2024,0,Pancreas,0,vivos
+GO,2024,5,Pancreas,0.68,falecidos
+GO,2024,0,Córnea,0,vivos
+GO,2024,641,Córnea,87.21,falecidos
+GO,2024,3,Medula,0.41,Autologos
+GO,2024,0,Medula,0,Alogenicos aparentado
+GO,2024,0,Medula,0,Alogenicos desconhecido
+GO,2024,0,Medula,0,Alogenicos não aparentado
+GO,2024,0,Medula,0,Sem modalidade
+GO,2024,3,Medula,0.41,vivos
+GO,2025,22,Rim,2.96,vivos
+GO,2025,154,Rim,20.74,falecidos
+GO,2025,0,Fígado,0,vivos
+GO,2025,9,Fígado,1.21,falecidos
+GO,2025,0,Coração,0,vivos
+GO,2025,0,Coração,0,falecidos
+GO,2025,0,Pulmão,0,vivos
+GO,2025,0,Pulmão,0,falecidos
+GO,2025,0,Pancreas,0,vivos
+GO,2025,6,Pancreas,0.81,falecidos
+GO,2025,0,Córnea,0,vivos
+GO,2025,557,Córnea,75.03,falecidos
+GO,2025,0,Medula,0,Autologos
+GO,2025,0,Medula,0,Alogenicos aparentado
+GO,2025,0,Medula,0,Alogenicos desconhecido
+GO,2025,0,Medula,0,Alogenicos não aparentado
+GO,2025,0,Medula,0,Sem modalidade
+GO,2025,0,Medula,0,vivos
+GO,2026,15,Rim,2,vivos
+GO,2026,110,Rim,14.68,falecidos
+GO,2026,0,Fígado,0,vivos
+GO,2026,6,Fígado,0.8,falecidos
+GO,2026,0,Coração,0,vivos
+GO,2026,0,Coração,0,falecidos
+GO,2026,0,Pulmão,0,vivos
+GO,2026,0,Pulmão,0,falecidos
+GO,2026,0,Pancreas,0,vivos
+GO,2026,4,Pancreas,0.53,falecidos
+GO,2026,0,Córnea,0,vivos
+GO,2026,547,Córnea,72.98,falecidos
+GO,2026,0,Medula,0,Autologos
+GO,2026,0,Medula,0,Alogenicos aparentado
+GO,2026,0,Medula,0,Alogenicos desconhecido
+GO,2026,0,Medula,0,Alogenicos não aparentado
+GO,2026,0,Medula,0,Sem modalidade
+GO,2026,0,Medula,0,vivos
+MA,2015,6,Rim,0.88,vivos
+MA,2015,55,Rim,8.05,falecidos
+MA,2015,0,Fígado,0,vivos
+MA,2015,0,Fígado,0,falecidos
+MA,2015,0,Coração,0,vivos
+MA,2015,0,Coração,0,falecidos
+MA,2015,0,Pulmão,0,vivos
+MA,2015,0,Pulmão,0,falecidos
+MA,2015,0,Pancreas,0,vivos
+MA,2015,0,Pancreas,0,falecidos
+MA,2015,0,Córnea,0,vivos
+MA,2015,145,Córnea,21.23,falecidos
+MA,2015,0,Medula,0,Autologos
+MA,2015,0,Medula,0,Alogenicos aparentado
+MA,2015,0,Medula,0,Alogenicos desconhecido
+MA,2015,0,Medula,0,Alogenicos não aparentado
+MA,2015,0,Medula,0,Sem modalidade
+MA,2015,0,Medula,0,vivos
+MA,2016,4,Rim,0.58,vivos
+MA,2016,27,Rim,3.93,falecidos
+MA,2016,0,Fígado,0,vivos
+MA,2016,0,Fígado,0,falecidos
+MA,2016,0,Coração,0,vivos
+MA,2016,0,Coração,0,falecidos
+MA,2016,0,Pulmão,0,vivos
+MA,2016,0,Pulmão,0,falecidos
+MA,2016,0,Pancreas,0,vivos
+MA,2016,0,Pancreas,0,falecidos
+MA,2016,0,Córnea,0,vivos
+MA,2016,178,Córnea,25.93,falecidos
+MA,2016,0,Medula,0,Autologos
+MA,2016,0,Medula,0,Alogenicos aparentado
+MA,2016,0,Medula,0,Alogenicos desconhecido
+MA,2016,0,Medula,0,Alogenicos não aparentado
+MA,2016,0,Medula,0,Sem modalidade
+MA,2016,0,Medula,0,vivos
+MA,2017,12,Rim,1.74,vivos
+MA,2017,35,Rim,5.08,falecidos
+MA,2017,0,Fígado,0,vivos
+MA,2017,0,Fígado,0,falecidos
+MA,2017,0,Coração,0,vivos
+MA,2017,0,Coração,0,falecidos
+MA,2017,0,Pulmão,0,vivos
+MA,2017,0,Pulmão,0,falecidos
+MA,2017,0,Pancreas,0,vivos
+MA,2017,0,Pancreas,0,falecidos
+MA,2017,0,Córnea,0,vivos
+MA,2017,246,Córnea,35.7,falecidos
+MA,2017,0,Medula,0,Autologos
+MA,2017,0,Medula,0,Alogenicos aparentado
+MA,2017,0,Medula,0,Alogenicos desconhecido
+MA,2017,0,Medula,0,Alogenicos não aparentado
+MA,2017,0,Medula,0,Sem modalidade
+MA,2017,0,Medula,0,vivos
+MA,2018,7,Rim,1.01,vivos
+MA,2018,24,Rim,3.47,falecidos
+MA,2018,0,Fígado,0,vivos
+MA,2018,3,Fígado,0.43,falecidos
+MA,2018,0,Coração,0,vivos
+MA,2018,0,Coração,0,falecidos
+MA,2018,0,Pulmão,0,vivos
+MA,2018,0,Pulmão,0,falecidos
+MA,2018,0,Pancreas,0,vivos
+MA,2018,0,Pancreas,0,falecidos
+MA,2018,0,Córnea,0,vivos
+MA,2018,273,Córnea,39.47,falecidos
+MA,2018,0,Medula,0,Autologos
+MA,2018,0,Medula,0,Alogenicos aparentado
+MA,2018,0,Medula,0,Alogenicos desconhecido
+MA,2018,0,Medula,0,Alogenicos não aparentado
+MA,2018,0,Medula,0,Sem modalidade
+MA,2018,0,Medula,0,vivos
+MA,2019,8,Rim,1.15,vivos
+MA,2019,17,Rim,2.45,falecidos
+MA,2019,0,Fígado,0,vivos
+MA,2019,2,Fígado,0.29,falecidos
+MA,2019,0,Coração,0,vivos
+MA,2019,0,Coração,0,falecidos
+MA,2019,0,Pulmão,0,vivos
+MA,2019,0,Pulmão,0,falecidos
+MA,2019,0,Pancreas,0,vivos
+MA,2019,0,Pancreas,0,falecidos
+MA,2019,0,Córnea,0,vivos
+MA,2019,200,Córnea,28.79,falecidos
+MA,2019,0,Medula,0,Autologos
+MA,2019,0,Medula,0,Alogenicos aparentado
+MA,2019,0,Medula,0,Alogenicos desconhecido
+MA,2019,0,Medula,0,Alogenicos não aparentado
+MA,2019,0,Medula,0,Sem modalidade
+MA,2019,0,Medula,0,vivos
+MA,2020,4,Rim,0.57,vivos
+MA,2020,7,Rim,1,falecidos
+MA,2020,0,Fígado,0,vivos
+MA,2020,2,Fígado,0.29,falecidos
+MA,2020,0,Coração,0,vivos
+MA,2020,0,Coração,0,falecidos
+MA,2020,0,Pulmão,0,vivos
+MA,2020,0,Pulmão,0,falecidos
+MA,2020,0,Pancreas,0,vivos
+MA,2020,0,Pancreas,0,falecidos
+MA,2020,0,Córnea,0,vivos
+MA,2020,162,Córnea,23.24,falecidos
+MA,2020,0,Medula,0,Autologos
+MA,2020,0,Medula,0,Alogenicos aparentado
+MA,2020,0,Medula,0,Alogenicos desconhecido
+MA,2020,0,Medula,0,Alogenicos não aparentado
+MA,2020,0,Medula,0,Sem modalidade
+MA,2020,0,Medula,0,vivos
+MA,2021,7,Rim,1,vivos
+MA,2021,13,Rim,1.86,falecidos
+MA,2021,0,Fígado,0,vivos
+MA,2021,2,Fígado,0.29,falecidos
+MA,2021,0,Coração,0,vivos
+MA,2021,0,Coração,0,falecidos
+MA,2021,0,Pulmão,0,vivos
+MA,2021,0,Pulmão,0,falecidos
+MA,2021,0,Pancreas,0,vivos
+MA,2021,0,Pancreas,0,falecidos
+MA,2021,0,Córnea,0,vivos
+MA,2021,168,Córnea,24.04,falecidos
+MA,2021,0,Medula,0,Autologos
+MA,2021,0,Medula,0,Alogenicos aparentado
+MA,2021,0,Medula,0,Alogenicos desconhecido
+MA,2021,0,Medula,0,Alogenicos não aparentado
+MA,2021,0,Medula,0,Sem modalidade
+MA,2021,0,Medula,0,vivos
+MA,2022,7,Rim,1,vivos
+MA,2022,16,Rim,2.29,falecidos
+MA,2022,0,Fígado,0,vivos
+MA,2022,5,Fígado,0.71,falecidos
+MA,2022,0,Coração,0,vivos
+MA,2022,0,Coração,0,falecidos
+MA,2022,0,Pulmão,0,vivos
+MA,2022,0,Pulmão,0,falecidos
+MA,2022,0,Pancreas,0,vivos
+MA,2022,0,Pancreas,0,falecidos
+MA,2022,0,Córnea,0,vivos
+MA,2022,133,Córnea,19.01,falecidos
+MA,2022,0,Medula,0,Autologos
+MA,2022,0,Medula,0,Alogenicos aparentado
+MA,2022,0,Medula,0,Alogenicos desconhecido
+MA,2022,0,Medula,0,Alogenicos não aparentado
+MA,2022,0,Medula,0,Sem modalidade
+MA,2022,0,Medula,0,vivos
+MA,2023,3,Rim,0.43,vivos
+MA,2023,41,Rim,5.85,falecidos
+MA,2023,0,Fígado,0,vivos
+MA,2023,3,Fígado,0.43,falecidos
+MA,2023,0,Coração,0,vivos
+MA,2023,0,Coração,0,falecidos
+MA,2023,0,Pulmão,0,vivos
+MA,2023,0,Pulmão,0,falecidos
+MA,2023,0,Pancreas,0,vivos
+MA,2023,0,Pancreas,0,falecidos
+MA,2023,0,Córnea,0,vivos
+MA,2023,255,Córnea,36.41,falecidos
+MA,2023,0,Medula,0,Autologos
+MA,2023,0,Medula,0,Alogenicos aparentado
+MA,2023,0,Medula,0,Alogenicos desconhecido
+MA,2023,0,Medula,0,Alogenicos não aparentado
+MA,2023,0,Medula,0,Sem modalidade
+MA,2023,0,Medula,0,vivos
+MA,2024,2,Rim,0.29,vivos
+MA,2024,61,Rim,8.7,falecidos
+MA,2024,0,Fígado,0,vivos
+MA,2024,16,Fígado,2.28,falecidos
+MA,2024,0,Coração,0,vivos
+MA,2024,0,Coração,0,falecidos
+MA,2024,0,Pulmão,0,vivos
+MA,2024,0,Pulmão,0,falecidos
+MA,2024,0,Pancreas,0,vivos
+MA,2024,0,Pancreas,0,falecidos
+MA,2024,0,Córnea,0,vivos
+MA,2024,461,Córnea,65.75,falecidos
+MA,2024,0,Medula,0,Autologos
+MA,2024,0,Medula,0,Alogenicos aparentado
+MA,2024,0,Medula,0,Alogenicos desconhecido
+MA,2024,0,Medula,0,Alogenicos não aparentado
+MA,2024,0,Medula,0,Sem modalidade
+MA,2024,0,Medula,0,vivos
+MA,2025,8,Rim,1.14,vivos
+MA,2025,88,Rim,12.54,falecidos
+MA,2025,0,Fígado,0,vivos
+MA,2025,32,Fígado,4.56,falecidos
+MA,2025,0,Coração,0,vivos
+MA,2025,1,Coração,0.14,falecidos
+MA,2025,0,Pulmão,0,vivos
+MA,2025,0,Pulmão,0,falecidos
+MA,2025,0,Pancreas,0,vivos
+MA,2025,0,Pancreas,0,falecidos
+MA,2025,0,Córnea,0,vivos
+MA,2025,524,Córnea,74.67,falecidos
+MA,2025,0,Medula,0,Autologos
+MA,2025,0,Medula,0,Alogenicos aparentado
+MA,2025,0,Medula,0,Alogenicos desconhecido
+MA,2025,0,Medula,0,Alogenicos não aparentado
+MA,2025,0,Medula,0,Sem modalidade
+MA,2025,0,Medula,0,vivos
+MA,2026,1,Rim,0.14,vivos
+MA,2026,68,Rim,9.68,falecidos
+MA,2026,1,Fígado,0.14,vivos
+MA,2026,14,Fígado,1.99,falecidos
+MA,2026,0,Coração,0,vivos
+MA,2026,0,Coração,0,falecidos
+MA,2026,0,Pulmão,0,vivos
+MA,2026,0,Pulmão,0,falecidos
+MA,2026,0,Pancreas,0,vivos
+MA,2026,0,Pancreas,0,falecidos
+MA,2026,0,Córnea,0,vivos
+MA,2026,406,Córnea,57.79,falecidos
+MA,2026,0,Medula,0,Autologos
+MA,2026,0,Medula,0,Alogenicos aparentado
+MA,2026,0,Medula,0,Alogenicos desconhecido
+MA,2026,0,Medula,0,Alogenicos não aparentado
+MA,2026,0,Medula,0,Sem modalidade
+MA,2026,0,Medula,0,vivos
+MG,2015,170,Rim,8.3,vivos
+MG,2015,396,Rim,19.35,falecidos
+MG,2015,0,Fígado,0,vivos
+MG,2015,90,Fígado,4.4,falecidos
+MG,2015,0,Coração,0,vivos
+MG,2015,40,Coração,1.95,falecidos
+MG,2015,0,Pulmão,0,vivos
+MG,2015,0,Pulmão,0,falecidos
+MG,2015,0,Pancreas,0,vivos
+MG,2015,16,Pancreas,0.78,falecidos
+MG,2015,0,Córnea,0,vivos
+MG,2015,1265,Córnea,61.8,falecidos
+MG,2015,188,Medula,9.18,Autologos
+MG,2015,46,Medula,2.25,Alogenicos aparentado
+MG,2015,0,Medula,0,Alogenicos desconhecido
+MG,2015,5,Medula,0.24,Alogenicos não aparentado
+MG,2015,1,Medula,0.05,Sem modalidade
+MG,2015,240,Medula,11.72,vivos
+MG,2016,190,Rim,9.23,vivos
+MG,2016,377,Rim,18.31,falecidos
+MG,2016,0,Fígado,0,vivos
+MG,2016,99,Fígado,4.81,falecidos
+MG,2016,0,Coração,0,vivos
+MG,2016,35,Coração,1.7,falecidos
+MG,2016,0,Pulmão,0,vivos
+MG,2016,0,Pulmão,0,falecidos
+MG,2016,0,Pancreas,0,vivos
+MG,2016,11,Pancreas,0.53,falecidos
+MG,2016,0,Córnea,0,vivos
+MG,2016,1073,Córnea,52.12,falecidos
+MG,2016,137,Medula,6.65,Autologos
+MG,2016,50,Medula,2.43,Alogenicos aparentado
+MG,2016,0,Medula,0,Alogenicos desconhecido
+MG,2016,19,Medula,0.92,Alogenicos não aparentado
+MG,2016,0,Medula,0,Sem modalidade
+MG,2016,206,Medula,10.01,vivos
+MG,2017,190,Rim,9.18,vivos
+MG,2017,431,Rim,20.83,falecidos
+MG,2017,0,Fígado,0,vivos
+MG,2017,132,Fígado,6.38,falecidos
+MG,2017,0,Coração,0,vivos
+MG,2017,36,Coração,1.74,falecidos
+MG,2017,0,Pulmão,0,vivos
+MG,2017,0,Pulmão,0,falecidos
+MG,2017,0,Pancreas,0,vivos
+MG,2017,16,Pancreas,0.77,falecidos
+MG,2017,0,Córnea,0,vivos
+MG,2017,1245,Córnea,60.16,falecidos
+MG,2017,147,Medula,7.1,Autologos
+MG,2017,67,Medula,3.24,Alogenicos aparentado
+MG,2017,0,Medula,0,Alogenicos desconhecido
+MG,2017,25,Medula,1.21,Alogenicos não aparentado
+MG,2017,3,Medula,0.14,Sem modalidade
+MG,2017,242,Medula,11.69,vivos
+MG,2018,173,Rim,8.32,vivos
+MG,2018,366,Rim,17.6,falecidos
+MG,2018,0,Fígado,0,vivos
+MG,2018,121,Fígado,5.82,falecidos
+MG,2018,0,Coração,0,vivos
+MG,2018,50,Coração,2.4,falecidos
+MG,2018,0,Pulmão,0,vivos
+MG,2018,0,Pulmão,0,falecidos
+MG,2018,0,Pancreas,0,vivos
+MG,2018,17,Pancreas,0.82,falecidos
+MG,2018,0,Córnea,0,vivos
+MG,2018,1206,Córnea,57.98,falecidos
+MG,2018,308,Medula,14.81,Autologos
+MG,2018,76,Medula,3.65,Alogenicos aparentado
+MG,2018,0,Medula,0,Alogenicos desconhecido
+MG,2018,31,Medula,1.49,Alogenicos não aparentado
+MG,2018,1,Medula,0.05,Sem modalidade
+MG,2018,416,Medula,20,vivos
+MG,2019,196,Rim,9.37,vivos
+MG,2019,496,Rim,23.71,falecidos
+MG,2019,0,Fígado,0,vivos
+MG,2019,168,Fígado,8.03,falecidos
+MG,2019,0,Coração,0,vivos
+MG,2019,59,Coração,2.82,falecidos
+MG,2019,0,Pulmão,0,vivos
+MG,2019,0,Pulmão,0,falecidos
+MG,2019,0,Pancreas,0,vivos
+MG,2019,23,Pancreas,1.1,falecidos
+MG,2019,0,Córnea,0,vivos
+MG,2019,1225,Córnea,58.56,falecidos
+MG,2019,320,Medula,15.3,Autologos
+MG,2019,59,Medula,2.82,Alogenicos aparentado
+MG,2019,0,Medula,0,Alogenicos desconhecido
+MG,2019,33,Medula,1.58,Alogenicos não aparentado
+MG,2019,21,Medula,1,Sem modalidade
+MG,2019,433,Medula,20.7,vivos
+MG,2020,69,Rim,3.28,vivos
+MG,2020,449,Rim,21.35,falecidos
+MG,2020,2,Fígado,0.1,vivos
+MG,2020,132,Fígado,6.28,falecidos
+MG,2020,0,Coração,0,vivos
+MG,2020,50,Coração,2.38,falecidos
+MG,2020,0,Pulmão,0,vivos
+MG,2020,0,Pulmão,0,falecidos
+MG,2020,0,Pancreas,0,vivos
+MG,2020,19,Pancreas,0.9,falecidos
+MG,2020,0,Córnea,0,vivos
+MG,2020,546,Córnea,25.96,falecidos
+MG,2020,220,Medula,10.46,Autologos
+MG,2020,89,Medula,4.23,Alogenicos aparentado
+MG,2020,0,Medula,0,Alogenicos desconhecido
+MG,2020,20,Medula,0.95,Alogenicos não aparentado
+MG,2020,13,Medula,0.62,Sem modalidade
+MG,2020,342,Medula,16.26,vivos
+MG,2021,128,Rim,6.06,vivos
+MG,2021,412,Rim,19.51,falecidos
+MG,2021,2,Fígado,0.09,vivos
+MG,2021,132,Fígado,6.25,falecidos
+MG,2021,0,Coração,0,vivos
+MG,2021,54,Coração,2.56,falecidos
+MG,2021,0,Pulmão,0,vivos
+MG,2021,0,Pulmão,0,falecidos
+MG,2021,0,Pancreas,0,vivos
+MG,2021,18,Pancreas,0.85,falecidos
+MG,2021,0,Córnea,0,vivos
+MG,2021,677,Córnea,32.06,falecidos
+MG,2021,286,Medula,13.54,Autologos
+MG,2021,78,Medula,3.69,Alogenicos aparentado
+MG,2021,0,Medula,0,Alogenicos desconhecido
+MG,2021,32,Medula,1.52,Alogenicos não aparentado
+MG,2021,1,Medula,0.05,Sem modalidade
+MG,2021,397,Medula,18.8,vivos
+MG,2022,155,Rim,7.32,vivos
+MG,2022,522,Rim,24.65,falecidos
+MG,2022,0,Fígado,0,vivos
+MG,2022,155,Fígado,7.32,falecidos
+MG,2022,0,Coração,0,vivos
+MG,2022,63,Coração,2.97,falecidos
+MG,2022,0,Pulmão,0,vivos
+MG,2022,0,Pulmão,0,falecidos
+MG,2022,0,Pancreas,0,vivos
+MG,2022,15,Pancreas,0.71,falecidos
+MG,2022,0,Córnea,0,vivos
+MG,2022,785,Córnea,37.07,falecidos
+MG,2022,315,Medula,14.87,Autologos
+MG,2022,62,Medula,2.93,Alogenicos aparentado
+MG,2022,0,Medula,0,Alogenicos desconhecido
+MG,2022,30,Medula,1.42,Alogenicos não aparentado
+MG,2022,0,Medula,0,Sem modalidade
+MG,2022,407,Medula,19.22,vivos
+MG,2023,151,Rim,7.11,vivos
+MG,2023,639,Rim,30.07,falecidos
+MG,2023,1,Fígado,0.05,vivos
+MG,2023,190,Fígado,8.94,falecidos
+MG,2023,0,Coração,0,vivos
+MG,2023,79,Coração,3.72,falecidos
+MG,2023,0,Pulmão,0,vivos
+MG,2023,0,Pulmão,0,falecidos
+MG,2023,0,Pancreas,0,vivos
+MG,2023,22,Pancreas,1.04,falecidos
+MG,2023,0,Córnea,0,vivos
+MG,2023,894,Córnea,42.08,falecidos
+MG,2023,295,Medula,13.88,Autologos
+MG,2023,89,Medula,4.19,Alogenicos aparentado
+MG,2023,1,Medula,0.05,Alogenicos desconhecido
+MG,2023,25,Medula,1.18,Alogenicos não aparentado
+MG,2023,2,Medula,0.09,Sem modalidade
+MG,2023,412,Medula,19.39,vivos
+MG,2024,149,Rim,6.99,vivos
+MG,2024,628,Rim,29.45,falecidos
+MG,2024,0,Fígado,0,vivos
+MG,2024,193,Fígado,9.05,falecidos
+MG,2024,0,Coração,0,vivos
+MG,2024,80,Coração,3.75,falecidos
+MG,2024,0,Pulmão,0,vivos
+MG,2024,0,Pulmão,0,falecidos
+MG,2024,0,Pancreas,0,vivos
+MG,2024,30,Pancreas,1.41,falecidos
+MG,2024,0,Córnea,0,vivos
+MG,2024,998,Córnea,46.8,falecidos
+MG,2024,257,Medula,12.05,Autologos
+MG,2024,37,Medula,1.74,Alogenicos aparentado
+MG,2024,73,Medula,3.42,Alogenicos desconhecido
+MG,2024,17,Medula,0.8,Alogenicos não aparentado
+MG,2024,2,Medula,0.09,Sem modalidade
+MG,2024,386,Medula,18.1,vivos
+MG,2025,137,Rim,6.4,vivos
+MG,2025,586,Rim,27.39,falecidos
+MG,2025,0,Fígado,0,vivos
+MG,2025,190,Fígado,8.88,falecidos
+MG,2025,0,Coração,0,vivos
+MG,2025,50,Coração,2.34,falecidos
+MG,2025,0,Pulmão,0,vivos
+MG,2025,1,Pulmão,0.05,falecidos
+MG,2025,0,Pancreas,0,vivos
+MG,2025,21,Pancreas,0.98,falecidos
+MG,2025,0,Córnea,0,vivos
+MG,2025,1109,Córnea,51.84,falecidos
+MG,2025,357,Medula,16.69,Autologos
+MG,2025,78,Medula,3.65,Alogenicos aparentado
+MG,2025,35,Medula,1.64,Alogenicos desconhecido
+MG,2025,34,Medula,1.59,Alogenicos não aparentado
+MG,2025,0,Medula,0,Sem modalidade
+MG,2025,504,Medula,23.56,vivos
+MG,2026,98,Rim,4.57,vivos
+MG,2026,445,Rim,20.74,falecidos
+MG,2026,0,Fígado,0,vivos
+MG,2026,135,Fígado,6.29,falecidos
+MG,2026,0,Coração,0,vivos
+MG,2026,35,Coração,1.63,falecidos
+MG,2026,0,Pulmão,0,vivos
+MG,2026,3,Pulmão,0.14,falecidos
+MG,2026,0,Pancreas,0,vivos
+MG,2026,20,Pancreas,0.93,falecidos
+MG,2026,0,Córnea,0,vivos
+MG,2026,904,Córnea,42.12,falecidos
+MG,2026,169,Medula,7.88,Autologos
+MG,2026,52,Medula,2.42,Alogenicos aparentado
+MG,2026,2,Medula,0.09,Alogenicos desconhecido
+MG,2026,20,Medula,0.93,Alogenicos não aparentado
+MG,2026,0,Medula,0,Sem modalidade
+MG,2026,243,Medula,11.32,vivos
+MS,2015,2,Rim,0.75,vivos
+MS,2015,0,Rim,0,falecidos
+MS,2015,0,Fígado,0,vivos
+MS,2015,0,Fígado,0,falecidos
+MS,2015,0,Coração,0,vivos
+MS,2015,0,Coração,0,falecidos
+MS,2015,0,Pulmão,0,vivos
+MS,2015,0,Pulmão,0,falecidos
+MS,2015,0,Pancreas,0,vivos
+MS,2015,0,Pancreas,0,falecidos
+MS,2015,0,Córnea,0,vivos
+MS,2015,147,Córnea,55.41,falecidos
+MS,2015,0,Medula,0,Autologos
+MS,2015,0,Medula,0,Alogenicos aparentado
+MS,2015,0,Medula,0,Alogenicos desconhecido
+MS,2015,0,Medula,0,Alogenicos não aparentado
+MS,2015,0,Medula,0,Sem modalidade
+MS,2015,0,Medula,0,vivos
+MS,2016,1,Rim,0.37,vivos
+MS,2016,1,Rim,0.37,falecidos
+MS,2016,0,Fígado,0,vivos
+MS,2016,0,Fígado,0,falecidos
+MS,2016,0,Coração,0,vivos
+MS,2016,0,Coração,0,falecidos
+MS,2016,0,Pulmão,0,vivos
+MS,2016,0,Pulmão,0,falecidos
+MS,2016,0,Pancreas,0,vivos
+MS,2016,0,Pancreas,0,falecidos
+MS,2016,0,Córnea,0,vivos
+MS,2016,157,Córnea,58.47,falecidos
+MS,2016,0,Medula,0,Autologos
+MS,2016,0,Medula,0,Alogenicos aparentado
+MS,2016,0,Medula,0,Alogenicos desconhecido
+MS,2016,0,Medula,0,Alogenicos não aparentado
+MS,2016,0,Medula,0,Sem modalidade
+MS,2016,0,Medula,0,vivos
+MS,2017,3,Rim,1.1,vivos
+MS,2017,14,Rim,5.15,falecidos
+MS,2017,0,Fígado,0,vivos
+MS,2017,0,Fígado,0,falecidos
+MS,2017,0,Coração,0,vivos
+MS,2017,0,Coração,0,falecidos
+MS,2017,0,Pulmão,0,vivos
+MS,2017,0,Pulmão,0,falecidos
+MS,2017,0,Pancreas,0,vivos
+MS,2017,0,Pancreas,0,falecidos
+MS,2017,0,Córnea,0,vivos
+MS,2017,222,Córnea,81.74,falecidos
+MS,2017,0,Medula,0,Autologos
+MS,2017,0,Medula,0,Alogenicos aparentado
+MS,2017,0,Medula,0,Alogenicos desconhecido
+MS,2017,0,Medula,0,Alogenicos não aparentado
+MS,2017,0,Medula,0,Sem modalidade
+MS,2017,0,Medula,0,vivos
+MS,2018,3,Rim,1.09,vivos
+MS,2018,14,Rim,5.1,falecidos
+MS,2018,0,Fígado,0,vivos
+MS,2018,0,Fígado,0,falecidos
+MS,2018,0,Coração,0,vivos
+MS,2018,0,Coração,0,falecidos
+MS,2018,0,Pulmão,0,vivos
+MS,2018,0,Pulmão,0,falecidos
+MS,2018,0,Pancreas,0,vivos
+MS,2018,0,Pancreas,0,falecidos
+MS,2018,0,Córnea,0,vivos
+MS,2018,175,Córnea,63.73,falecidos
+MS,2018,0,Medula,0,Autologos
+MS,2018,0,Medula,0,Alogenicos aparentado
+MS,2018,0,Medula,0,Alogenicos desconhecido
+MS,2018,0,Medula,0,Alogenicos não aparentado
+MS,2018,0,Medula,0,Sem modalidade
+MS,2018,0,Medula,0,vivos
+MS,2019,2,Rim,0.72,vivos
+MS,2019,19,Rim,6.84,falecidos
+MS,2019,0,Fígado,0,vivos
+MS,2019,0,Fígado,0,falecidos
+MS,2019,0,Coração,0,vivos
+MS,2019,0,Coração,0,falecidos
+MS,2019,0,Pulmão,0,vivos
+MS,2019,0,Pulmão,0,falecidos
+MS,2019,0,Pancreas,0,vivos
+MS,2019,0,Pancreas,0,falecidos
+MS,2019,0,Córnea,0,vivos
+MS,2019,205,Córnea,73.82,falecidos
+MS,2019,0,Medula,0,Autologos
+MS,2019,0,Medula,0,Alogenicos aparentado
+MS,2019,0,Medula,0,Alogenicos desconhecido
+MS,2019,0,Medula,0,Alogenicos não aparentado
+MS,2019,0,Medula,0,Sem modalidade
+MS,2019,0,Medula,0,vivos
+MS,2020,1,Rim,0.36,vivos
+MS,2020,22,Rim,7.84,falecidos
+MS,2020,0,Fígado,0,vivos
+MS,2020,0,Fígado,0,falecidos
+MS,2020,0,Coração,0,vivos
+MS,2020,3,Coração,1.07,falecidos
+MS,2020,0,Pulmão,0,vivos
+MS,2020,0,Pulmão,0,falecidos
+MS,2020,0,Pancreas,0,vivos
+MS,2020,0,Pancreas,0,falecidos
+MS,2020,0,Córnea,0,vivos
+MS,2020,103,Córnea,36.69,falecidos
+MS,2020,0,Medula,0,Autologos
+MS,2020,0,Medula,0,Alogenicos aparentado
+MS,2020,0,Medula,0,Alogenicos desconhecido
+MS,2020,0,Medula,0,Alogenicos não aparentado
+MS,2020,0,Medula,0,Sem modalidade
+MS,2020,0,Medula,0,vivos
+MS,2021,4,Rim,1.41,vivos
+MS,2021,14,Rim,4.94,falecidos
+MS,2021,0,Fígado,0,vivos
+MS,2021,0,Fígado,0,falecidos
+MS,2021,0,Coração,0,vivos
+MS,2021,1,Coração,0.35,falecidos
+MS,2021,0,Pulmão,0,vivos
+MS,2021,0,Pulmão,0,falecidos
+MS,2021,0,Pancreas,0,vivos
+MS,2021,0,Pancreas,0,falecidos
+MS,2021,0,Córnea,0,vivos
+MS,2021,163,Córnea,57.56,falecidos
+MS,2021,0,Medula,0,Autologos
+MS,2021,0,Medula,0,Alogenicos aparentado
+MS,2021,0,Medula,0,Alogenicos desconhecido
+MS,2021,0,Medula,0,Alogenicos não aparentado
+MS,2021,0,Medula,0,Sem modalidade
+MS,2021,0,Medula,0,vivos
+MS,2022,0,Rim,0,vivos
+MS,2022,10,Rim,3.5,falecidos
+MS,2022,0,Fígado,0,vivos
+MS,2022,0,Fígado,0,falecidos
+MS,2022,0,Coração,0,vivos
+MS,2022,0,Coração,0,falecidos
+MS,2022,0,Pulmão,0,vivos
+MS,2022,0,Pulmão,0,falecidos
+MS,2022,0,Pancreas,0,vivos
+MS,2022,0,Pancreas,0,falecidos
+MS,2022,0,Córnea,0,vivos
+MS,2022,235,Córnea,82.34,falecidos
+MS,2022,0,Medula,0,Autologos
+MS,2022,0,Medula,0,Alogenicos aparentado
+MS,2022,0,Medula,0,Alogenicos desconhecido
+MS,2022,0,Medula,0,Alogenicos não aparentado
+MS,2022,0,Medula,0,Sem modalidade
+MS,2022,0,Medula,0,vivos
+MS,2023,6,Rim,2.08,vivos
+MS,2023,23,Rim,7.99,falecidos
+MS,2023,0,Fígado,0,vivos
+MS,2023,0,Fígado,0,falecidos
+MS,2023,0,Coração,0,vivos
+MS,2023,1,Coração,0.35,falecidos
+MS,2023,0,Pulmão,0,vivos
+MS,2023,0,Pulmão,0,falecidos
+MS,2023,0,Pancreas,0,vivos
+MS,2023,0,Pancreas,0,falecidos
+MS,2023,0,Córnea,0,vivos
+MS,2023,265,Córnea,92.08,falecidos
+MS,2023,0,Medula,0,Autologos
+MS,2023,0,Medula,0,Alogenicos aparentado
+MS,2023,0,Medula,0,Alogenicos desconhecido
+MS,2023,0,Medula,0,Alogenicos não aparentado
+MS,2023,0,Medula,0,Sem modalidade
+MS,2023,0,Medula,0,vivos
+MS,2024,0,Rim,0,vivos
+MS,2024,28,Rim,9.65,falecidos
+MS,2024,0,Fígado,0,vivos
+MS,2024,12,Fígado,4.14,falecidos
+MS,2024,0,Coração,0,vivos
+MS,2024,0,Coração,0,falecidos
+MS,2024,0,Pulmão,0,vivos
+MS,2024,0,Pulmão,0,falecidos
+MS,2024,0,Pancreas,0,vivos
+MS,2024,0,Pancreas,0,falecidos
+MS,2024,0,Córnea,0,vivos
+MS,2024,278,Córnea,95.8,falecidos
+MS,2024,0,Medula,0,Autologos
+MS,2024,0,Medula,0,Alogenicos aparentado
+MS,2024,0,Medula,0,Alogenicos desconhecido
+MS,2024,0,Medula,0,Alogenicos não aparentado
+MS,2024,0,Medula,0,Sem modalidade
+MS,2024,0,Medula,0,vivos
+MS,2025,0,Rim,0,vivos
+MS,2025,21,Rim,7.18,falecidos
+MS,2025,0,Fígado,0,vivos
+MS,2025,49,Fígado,16.75,falecidos
+MS,2025,0,Coração,0,vivos
+MS,2025,0,Coração,0,falecidos
+MS,2025,0,Pulmão,0,vivos
+MS,2025,0,Pulmão,0,falecidos
+MS,2025,0,Pancreas,0,vivos
+MS,2025,0,Pancreas,0,falecidos
+MS,2025,0,Córnea,0,vivos
+MS,2025,298,Córnea,101.88,falecidos
+MS,2025,0,Medula,0,Autologos
+MS,2025,0,Medula,0,Alogenicos aparentado
+MS,2025,0,Medula,0,Alogenicos desconhecido
+MS,2025,0,Medula,0,Alogenicos não aparentado
+MS,2025,0,Medula,0,Sem modalidade
+MS,2025,0,Medula,0,vivos
+MS,2026,0,Rim,0,vivos
+MS,2026,122,Rim,41.41,falecidos
+MS,2026,0,Fígado,0,vivos
+MS,2026,58,Fígado,19.69,falecidos
+MS,2026,0,Coração,0,vivos
+MS,2026,0,Coração,0,falecidos
+MS,2026,0,Pulmão,0,vivos
+MS,2026,0,Pulmão,0,falecidos
+MS,2026,0,Pancreas,0,vivos
+MS,2026,0,Pancreas,0,falecidos
+MS,2026,0,Córnea,0,vivos
+MS,2026,190,Córnea,64.49,falecidos
+MS,2026,0,Medula,0,Autologos
+MS,2026,0,Medula,0,Alogenicos aparentado
+MS,2026,0,Medula,0,Alogenicos desconhecido
+MS,2026,0,Medula,0,Alogenicos não aparentado
+MS,2026,0,Medula,0,Sem modalidade
+MS,2026,0,Medula,0,vivos
+MT,2015,0,Rim,0,vivos
+MT,2015,0,Rim,0,falecidos
+MT,2015,0,Fígado,0,vivos
+MT,2015,0,Fígado,0,falecidos
+MT,2015,0,Coração,0,vivos
+MT,2015,0,Coração,0,falecidos
+MT,2015,0,Pulmão,0,vivos
+MT,2015,0,Pulmão,0,falecidos
+MT,2015,0,Pancreas,0,vivos
+MT,2015,0,Pancreas,0,falecidos
+MT,2015,0,Córnea,0,vivos
+MT,2015,140,Córnea,42.07,falecidos
+MT,2015,0,Medula,0,Autologos
+MT,2015,0,Medula,0,Alogenicos aparentado
+MT,2015,0,Medula,0,Alogenicos desconhecido
+MT,2015,0,Medula,0,Alogenicos não aparentado
+MT,2015,0,Medula,0,Sem modalidade
+MT,2015,0,Medula,0,vivos
+MT,2016,0,Rim,0,vivos
+MT,2016,0,Rim,0,falecidos
+MT,2016,0,Fígado,0,vivos
+MT,2016,0,Fígado,0,falecidos
+MT,2016,0,Coração,0,vivos
+MT,2016,0,Coração,0,falecidos
+MT,2016,0,Pulmão,0,vivos
+MT,2016,0,Pulmão,0,falecidos
+MT,2016,0,Pancreas,0,vivos
+MT,2016,0,Pancreas,0,falecidos
+MT,2016,0,Córnea,0,vivos
+MT,2016,109,Córnea,32.25,falecidos
+MT,2016,0,Medula,0,Autologos
+MT,2016,0,Medula,0,Alogenicos aparentado
+MT,2016,0,Medula,0,Alogenicos desconhecido
+MT,2016,0,Medula,0,Alogenicos não aparentado
+MT,2016,0,Medula,0,Sem modalidade
+MT,2016,0,Medula,0,vivos
+MT,2017,0,Rim,0,vivos
+MT,2017,0,Rim,0,falecidos
+MT,2017,0,Fígado,0,vivos
+MT,2017,0,Fígado,0,falecidos
+MT,2017,0,Coração,0,vivos
+MT,2017,0,Coração,0,falecidos
+MT,2017,0,Pulmão,0,vivos
+MT,2017,0,Pulmão,0,falecidos
+MT,2017,0,Pancreas,0,vivos
+MT,2017,0,Pancreas,0,falecidos
+MT,2017,0,Córnea,0,vivos
+MT,2017,246,Córnea,71.66,falecidos
+MT,2017,0,Medula,0,Autologos
+MT,2017,0,Medula,0,Alogenicos aparentado
+MT,2017,0,Medula,0,Alogenicos desconhecido
+MT,2017,0,Medula,0,Alogenicos não aparentado
+MT,2017,0,Medula,0,Sem modalidade
+MT,2017,0,Medula,0,vivos
+MT,2018,0,Rim,0,vivos
+MT,2018,0,Rim,0,falecidos
+MT,2018,0,Fígado,0,vivos
+MT,2018,0,Fígado,0,falecidos
+MT,2018,0,Coração,0,vivos
+MT,2018,0,Coração,0,falecidos
+MT,2018,0,Pulmão,0,vivos
+MT,2018,0,Pulmão,0,falecidos
+MT,2018,0,Pancreas,0,vivos
+MT,2018,0,Pancreas,0,falecidos
+MT,2018,0,Córnea,0,vivos
+MT,2018,212,Córnea,60.73,falecidos
+MT,2018,0,Medula,0,Autologos
+MT,2018,0,Medula,0,Alogenicos aparentado
+MT,2018,0,Medula,0,Alogenicos desconhecido
+MT,2018,0,Medula,0,Alogenicos não aparentado
+MT,2018,0,Medula,0,Sem modalidade
+MT,2018,0,Medula,0,vivos
+MT,2019,0,Rim,0,vivos
+MT,2019,0,Rim,0,falecidos
+MT,2019,0,Fígado,0,vivos
+MT,2019,0,Fígado,0,falecidos
+MT,2019,0,Coração,0,vivos
+MT,2019,0,Coração,0,falecidos
+MT,2019,0,Pulmão,0,vivos
+MT,2019,0,Pulmão,0,falecidos
+MT,2019,0,Pancreas,0,vivos
+MT,2019,0,Pancreas,0,falecidos
+MT,2019,0,Córnea,0,vivos
+MT,2019,131,Córnea,36.88,falecidos
+MT,2019,0,Medula,0,Autologos
+MT,2019,0,Medula,0,Alogenicos aparentado
+MT,2019,0,Medula,0,Alogenicos desconhecido
+MT,2019,0,Medula,0,Alogenicos não aparentado
+MT,2019,0,Medula,0,Sem modalidade
+MT,2019,0,Medula,0,vivos
+MT,2020,1,Rim,0.28,vivos
+MT,2020,5,Rim,1.38,falecidos
+MT,2020,0,Fígado,0,vivos
+MT,2020,0,Fígado,0,falecidos
+MT,2020,0,Coração,0,vivos
+MT,2020,0,Coração,0,falecidos
+MT,2020,0,Pulmão,0,vivos
+MT,2020,0,Pulmão,0,falecidos
+MT,2020,0,Pancreas,0,vivos
+MT,2020,0,Pancreas,0,falecidos
+MT,2020,0,Córnea,0,vivos
+MT,2020,145,Córnea,40.14,falecidos
+MT,2020,0,Medula,0,Autologos
+MT,2020,0,Medula,0,Alogenicos aparentado
+MT,2020,0,Medula,0,Alogenicos desconhecido
+MT,2020,0,Medula,0,Alogenicos não aparentado
+MT,2020,0,Medula,0,Sem modalidade
+MT,2020,0,Medula,0,vivos
+MT,2021,0,Rim,0,vivos
+MT,2021,0,Rim,0,falecidos
+MT,2021,0,Fígado,0,vivos
+MT,2021,0,Fígado,0,falecidos
+MT,2021,0,Coração,0,vivos
+MT,2021,0,Coração,0,falecidos
+MT,2021,0,Pulmão,0,vivos
+MT,2021,0,Pulmão,0,falecidos
+MT,2021,0,Pancreas,0,vivos
+MT,2021,0,Pancreas,0,falecidos
+MT,2021,0,Córnea,0,vivos
+MT,2021,284,Córnea,77.45,falecidos
+MT,2021,0,Medula,0,Autologos
+MT,2021,0,Medula,0,Alogenicos aparentado
+MT,2021,0,Medula,0,Alogenicos desconhecido
+MT,2021,0,Medula,0,Alogenicos não aparentado
+MT,2021,0,Medula,0,Sem modalidade
+MT,2021,0,Medula,0,vivos
+MT,2022,0,Rim,0,vivos
+MT,2022,0,Rim,0,falecidos
+MT,2022,0,Fígado,0,vivos
+MT,2022,0,Fígado,0,falecidos
+MT,2022,0,Coração,0,vivos
+MT,2022,0,Coração,0,falecidos
+MT,2022,0,Pulmão,0,vivos
+MT,2022,0,Pulmão,0,falecidos
+MT,2022,0,Pancreas,0,vivos
+MT,2022,0,Pancreas,0,falecidos
+MT,2022,0,Córnea,0,vivos
+MT,2022,237,Córnea,63.69,falecidos
+MT,2022,0,Medula,0,Autologos
+MT,2022,0,Medula,0,Alogenicos aparentado
+MT,2022,0,Medula,0,Alogenicos desconhecido
+MT,2022,0,Medula,0,Alogenicos não aparentado
+MT,2022,0,Medula,0,Sem modalidade
+MT,2022,0,Medula,0,vivos
+MT,2023,1,Rim,0.26,vivos
+MT,2023,0,Rim,0,falecidos
+MT,2023,0,Fígado,0,vivos
+MT,2023,0,Fígado,0,falecidos
+MT,2023,0,Coração,0,vivos
+MT,2023,0,Coração,0,falecidos
+MT,2023,0,Pulmão,0,vivos
+MT,2023,0,Pulmão,0,falecidos
+MT,2023,0,Pancreas,0,vivos
+MT,2023,0,Pancreas,0,falecidos
+MT,2023,0,Córnea,0,vivos
+MT,2023,241,Córnea,63.79,falecidos
+MT,2023,0,Medula,0,Autologos
+MT,2023,0,Medula,0,Alogenicos aparentado
+MT,2023,0,Medula,0,Alogenicos desconhecido
+MT,2023,0,Medula,0,Alogenicos não aparentado
+MT,2023,0,Medula,0,Sem modalidade
+MT,2023,0,Medula,0,vivos
+MT,2024,0,Rim,0,vivos
+MT,2024,0,Rim,0,falecidos
+MT,2024,0,Fígado,0,vivos
+MT,2024,0,Fígado,0,falecidos
+MT,2024,0,Coração,0,vivos
+MT,2024,0,Coração,0,falecidos
+MT,2024,0,Pulmão,0,vivos
+MT,2024,0,Pulmão,0,falecidos
+MT,2024,0,Pancreas,0,vivos
+MT,2024,0,Pancreas,0,falecidos
+MT,2024,0,Córnea,0,vivos
+MT,2024,456,Córnea,118.87,falecidos
+MT,2024,0,Medula,0,Autologos
+MT,2024,0,Medula,0,Alogenicos aparentado
+MT,2024,0,Medula,0,Alogenicos desconhecido
+MT,2024,0,Medula,0,Alogenicos não aparentado
+MT,2024,0,Medula,0,Sem modalidade
+MT,2024,0,Medula,0,vivos
+MT,2025,6,Rim,1.54,vivos
+MT,2025,2,Rim,0.51,falecidos
+MT,2025,0,Fígado,0,vivos
+MT,2025,0,Fígado,0,falecidos
+MT,2025,0,Coração,0,vivos
+MT,2025,0,Coração,0,falecidos
+MT,2025,0,Pulmão,0,vivos
+MT,2025,0,Pulmão,0,falecidos
+MT,2025,0,Pancreas,0,vivos
+MT,2025,0,Pancreas,0,falecidos
+MT,2025,0,Córnea,0,vivos
+MT,2025,362,Córnea,92.96,falecidos
+MT,2025,0,Medula,0,Autologos
+MT,2025,0,Medula,0,Alogenicos aparentado
+MT,2025,0,Medula,0,Alogenicos desconhecido
+MT,2025,0,Medula,0,Alogenicos não aparentado
+MT,2025,0,Medula,0,Sem modalidade
+MT,2025,0,Medula,0,vivos
+MT,2026,7,Rim,1.77,vivos
+MT,2026,4,Rim,1.01,falecidos
+MT,2026,0,Fígado,0,vivos
+MT,2026,0,Fígado,0,falecidos
+MT,2026,0,Coração,0,vivos
+MT,2026,0,Coração,0,falecidos
+MT,2026,0,Pulmão,0,vivos
+MT,2026,0,Pulmão,0,falecidos
+MT,2026,0,Pancreas,0,vivos
+MT,2026,0,Pancreas,0,falecidos
+MT,2026,0,Córnea,0,vivos
+MT,2026,227,Córnea,57.47,falecidos
+MT,2026,0,Medula,0,Autologos
+MT,2026,0,Medula,0,Alogenicos aparentado
+MT,2026,0,Medula,0,Alogenicos desconhecido
+MT,2026,0,Medula,0,Alogenicos não aparentado
+MT,2026,0,Medula,0,Sem modalidade
+MT,2026,0,Medula,0,vivos
+PA,2015,12,Rim,1.48,vivos
+PA,2015,41,Rim,5.04,falecidos
+PA,2015,0,Fígado,0,vivos
+PA,2015,0,Fígado,0,falecidos
+PA,2015,0,Coração,0,vivos
+PA,2015,0,Coração,0,falecidos
+PA,2015,0,Pulmão,0,vivos
+PA,2015,0,Pulmão,0,falecidos
+PA,2015,0,Pancreas,0,vivos
+PA,2015,0,Pancreas,0,falecidos
+PA,2015,0,Córnea,0,vivos
+PA,2015,182,Córnea,22.38,falecidos
+PA,2015,0,Medula,0,Autologos
+PA,2015,0,Medula,0,Alogenicos aparentado
+PA,2015,0,Medula,0,Alogenicos desconhecido
+PA,2015,0,Medula,0,Alogenicos não aparentado
+PA,2015,0,Medula,0,Sem modalidade
+PA,2015,0,Medula,0,vivos
+PA,2016,10,Rim,1.22,vivos
+PA,2016,47,Rim,5.73,falecidos
+PA,2016,0,Fígado,0,vivos
+PA,2016,0,Fígado,0,falecidos
+PA,2016,0,Coração,0,vivos
+PA,2016,0,Coração,0,falecidos
+PA,2016,0,Pulmão,0,vivos
+PA,2016,0,Pulmão,0,falecidos
+PA,2016,0,Pancreas,0,vivos
+PA,2016,0,Pancreas,0,falecidos
+PA,2016,0,Córnea,0,vivos
+PA,2016,196,Córnea,23.88,falecidos
+PA,2016,0,Medula,0,Autologos
+PA,2016,0,Medula,0,Alogenicos aparentado
+PA,2016,0,Medula,0,Alogenicos desconhecido
+PA,2016,0,Medula,0,Alogenicos não aparentado
+PA,2016,0,Medula,0,Sem modalidade
+PA,2016,0,Medula,0,vivos
+PA,2017,19,Rim,2.3,vivos
+PA,2017,53,Rim,6.4,falecidos
+PA,2017,0,Fígado,0,vivos
+PA,2017,0,Fígado,0,falecidos
+PA,2017,0,Coração,0,vivos
+PA,2017,0,Coração,0,falecidos
+PA,2017,0,Pulmão,0,vivos
+PA,2017,0,Pulmão,0,falecidos
+PA,2017,0,Pancreas,0,vivos
+PA,2017,0,Pancreas,0,falecidos
+PA,2017,0,Córnea,0,vivos
+PA,2017,303,Córnea,36.61,falecidos
+PA,2017,0,Medula,0,Autologos
+PA,2017,0,Medula,0,Alogenicos aparentado
+PA,2017,0,Medula,0,Alogenicos desconhecido
+PA,2017,0,Medula,0,Alogenicos não aparentado
+PA,2017,0,Medula,0,Sem modalidade
+PA,2017,0,Medula,0,vivos
+PA,2018,19,Rim,2.28,vivos
+PA,2018,43,Rim,5.16,falecidos
+PA,2018,0,Fígado,0,vivos
+PA,2018,0,Fígado,0,falecidos
+PA,2018,0,Coração,0,vivos
+PA,2018,0,Coração,0,falecidos
+PA,2018,0,Pulmão,0,vivos
+PA,2018,0,Pulmão,0,falecidos
+PA,2018,0,Pancreas,0,vivos
+PA,2018,0,Pancreas,0,falecidos
+PA,2018,0,Córnea,0,vivos
+PA,2018,244,Córnea,29.26,falecidos
+PA,2018,0,Medula,0,Autologos
+PA,2018,0,Medula,0,Alogenicos aparentado
+PA,2018,0,Medula,0,Alogenicos desconhecido
+PA,2018,0,Medula,0,Alogenicos não aparentado
+PA,2018,0,Medula,0,Sem modalidade
+PA,2018,0,Medula,0,vivos
+PA,2019,18,Rim,2.14,vivos
+PA,2019,40,Rim,4.76,falecidos
+PA,2019,0,Fígado,0,vivos
+PA,2019,0,Fígado,0,falecidos
+PA,2019,0,Coração,0,vivos
+PA,2019,0,Coração,0,falecidos
+PA,2019,0,Pulmão,0,vivos
+PA,2019,0,Pulmão,0,falecidos
+PA,2019,0,Pancreas,0,vivos
+PA,2019,0,Pancreas,0,falecidos
+PA,2019,0,Córnea,0,vivos
+PA,2019,251,Córnea,29.87,falecidos
+PA,2019,0,Medula,0,Autologos
+PA,2019,0,Medula,0,Alogenicos aparentado
+PA,2019,0,Medula,0,Alogenicos desconhecido
+PA,2019,0,Medula,0,Alogenicos não aparentado
+PA,2019,0,Medula,0,Sem modalidade
+PA,2019,0,Medula,0,vivos
+PA,2020,1,Rim,0.12,vivos
+PA,2020,15,Rim,1.77,falecidos
+PA,2020,0,Fígado,0,vivos
+PA,2020,0,Fígado,0,falecidos
+PA,2020,0,Coração,0,vivos
+PA,2020,0,Coração,0,falecidos
+PA,2020,0,Pulmão,0,vivos
+PA,2020,0,Pulmão,0,falecidos
+PA,2020,0,Pancreas,0,vivos
+PA,2020,0,Pancreas,0,falecidos
+PA,2020,0,Córnea,0,vivos
+PA,2020,189,Córnea,22.33,falecidos
+PA,2020,0,Medula,0,Autologos
+PA,2020,0,Medula,0,Alogenicos aparentado
+PA,2020,0,Medula,0,Alogenicos desconhecido
+PA,2020,0,Medula,0,Alogenicos não aparentado
+PA,2020,0,Medula,0,Sem modalidade
+PA,2020,0,Medula,0,vivos
+PA,2021,7,Rim,0.82,vivos
+PA,2021,24,Rim,2.82,falecidos
+PA,2021,0,Fígado,0,vivos
+PA,2021,0,Fígado,0,falecidos
+PA,2021,0,Coração,0,vivos
+PA,2021,0,Coração,0,falecidos
+PA,2021,0,Pulmão,0,vivos
+PA,2021,0,Pulmão,0,falecidos
+PA,2021,0,Pancreas,0,vivos
+PA,2021,0,Pancreas,0,falecidos
+PA,2021,0,Córnea,0,vivos
+PA,2021,192,Córnea,22.54,falecidos
+PA,2021,0,Medula,0,Autologos
+PA,2021,0,Medula,0,Alogenicos aparentado
+PA,2021,0,Medula,0,Alogenicos desconhecido
+PA,2021,0,Medula,0,Alogenicos não aparentado
+PA,2021,0,Medula,0,Sem modalidade
+PA,2021,0,Medula,0,vivos
+PA,2022,13,Rim,1.52,vivos
+PA,2022,27,Rim,3.15,falecidos
+PA,2022,0,Fígado,0,vivos
+PA,2022,0,Fígado,0,falecidos
+PA,2022,0,Coração,0,vivos
+PA,2022,0,Coração,0,falecidos
+PA,2022,0,Pulmão,0,vivos
+PA,2022,0,Pulmão,0,falecidos
+PA,2022,0,Pancreas,0,vivos
+PA,2022,0,Pancreas,0,falecidos
+PA,2022,0,Córnea,0,vivos
+PA,2022,228,Córnea,26.6,falecidos
+PA,2022,7,Medula,0.82,Autologos
+PA,2022,0,Medula,0,Alogenicos aparentado
+PA,2022,0,Medula,0,Alogenicos desconhecido
+PA,2022,0,Medula,0,Alogenicos não aparentado
+PA,2022,0,Medula,0,Sem modalidade
+PA,2022,7,Medula,0.82,vivos
+PA,2023,20,Rim,2.32,vivos
+PA,2023,54,Rim,6.27,falecidos
+PA,2023,0,Fígado,0,vivos
+PA,2023,4,Fígado,0.46,falecidos
+PA,2023,0,Coração,0,vivos
+PA,2023,0,Coração,0,falecidos
+PA,2023,0,Pulmão,0,vivos
+PA,2023,0,Pulmão,0,falecidos
+PA,2023,0,Pancreas,0,vivos
+PA,2023,0,Pancreas,0,falecidos
+PA,2023,0,Córnea,0,vivos
+PA,2023,515,Córnea,59.77,falecidos
+PA,2023,12,Medula,1.39,Autologos
+PA,2023,0,Medula,0,Alogenicos aparentado
+PA,2023,0,Medula,0,Alogenicos desconhecido
+PA,2023,0,Medula,0,Alogenicos não aparentado
+PA,2023,0,Medula,0,Sem modalidade
+PA,2023,12,Medula,1.39,vivos
+PA,2024,7,Rim,0.81,vivos
+PA,2024,54,Rim,6.23,falecidos
+PA,2024,0,Fígado,0,vivos
+PA,2024,12,Fígado,1.39,falecidos
+PA,2024,0,Coração,0,vivos
+PA,2024,0,Coração,0,falecidos
+PA,2024,0,Pulmão,0,vivos
+PA,2024,0,Pulmão,0,falecidos
+PA,2024,0,Pancreas,0,vivos
+PA,2024,0,Pancreas,0,falecidos
+PA,2024,0,Córnea,0,vivos
+PA,2024,516,Córnea,59.56,falecidos
+PA,2024,0,Medula,0,Autologos
+PA,2024,0,Medula,0,Alogenicos aparentado
+PA,2024,0,Medula,0,Alogenicos desconhecido
+PA,2024,0,Medula,0,Alogenicos não aparentado
+PA,2024,0,Medula,0,Sem modalidade
+PA,2024,0,Medula,0,vivos
+PA,2025,5,Rim,0.57,vivos
+PA,2025,59,Rim,6.77,falecidos
+PA,2025,0,Fígado,0,vivos
+PA,2025,16,Fígado,1.84,falecidos
+PA,2025,0,Coração,0,vivos
+PA,2025,0,Coração,0,falecidos
+PA,2025,0,Pulmão,0,vivos
+PA,2025,0,Pulmão,0,falecidos
+PA,2025,0,Pancreas,0,vivos
+PA,2025,0,Pancreas,0,falecidos
+PA,2025,0,Córnea,0,vivos
+PA,2025,340,Córnea,39.03,falecidos
+PA,2025,0,Medula,0,Autologos
+PA,2025,0,Medula,0,Alogenicos aparentado
+PA,2025,0,Medula,0,Alogenicos desconhecido
+PA,2025,0,Medula,0,Alogenicos não aparentado
+PA,2025,0,Medula,0,Sem modalidade
+PA,2025,0,Medula,0,vivos
+PA,2026,2,Rim,0.23,vivos
+PA,2026,35,Rim,4,falecidos
+PA,2026,0,Fígado,0,vivos
+PA,2026,18,Fígado,2.06,falecidos
+PA,2026,0,Coração,0,vivos
+PA,2026,0,Coração,0,falecidos
+PA,2026,0,Pulmão,0,vivos
+PA,2026,0,Pulmão,0,falecidos
+PA,2026,0,Pancreas,0,vivos
+PA,2026,0,Pancreas,0,falecidos
+PA,2026,0,Córnea,0,vivos
+PA,2026,243,Córnea,27.75,falecidos
+PA,2026,0,Medula,0,Autologos
+PA,2026,0,Medula,0,Alogenicos aparentado
+PA,2026,0,Medula,0,Alogenicos desconhecido
+PA,2026,0,Medula,0,Alogenicos não aparentado
+PA,2026,0,Medula,0,Sem modalidade
+PA,2026,0,Medula,0,vivos
+PB,2015,19,Rim,4.83,vivos
+PB,2015,16,Rim,4.07,falecidos
+PB,2015,0,Fígado,0,vivos
+PB,2015,0,Fígado,0,falecidos
+PB,2015,0,Coração,0,vivos
+PB,2015,0,Coração,0,falecidos
+PB,2015,0,Pulmão,0,vivos
+PB,2015,0,Pulmão,0,falecidos
+PB,2015,0,Pancreas,0,vivos
+PB,2015,0,Pancreas,0,falecidos
+PB,2015,0,Córnea,0,vivos
+PB,2015,116,Córnea,29.5,falecidos
+PB,2015,0,Medula,0,Autologos
+PB,2015,0,Medula,0,Alogenicos aparentado
+PB,2015,0,Medula,0,Alogenicos desconhecido
+PB,2015,0,Medula,0,Alogenicos não aparentado
+PB,2015,0,Medula,0,Sem modalidade
+PB,2015,0,Medula,0,vivos
+PB,2016,20,Rim,5.05,vivos
+PB,2016,17,Rim,4.3,falecidos
+PB,2016,0,Fígado,0,vivos
+PB,2016,2,Fígado,0.51,falecidos
+PB,2016,0,Coração,0,vivos
+PB,2016,0,Coração,0,falecidos
+PB,2016,0,Pulmão,0,vivos
+PB,2016,0,Pulmão,0,falecidos
+PB,2016,0,Pancreas,0,vivos
+PB,2016,0,Pancreas,0,falecidos
+PB,2016,0,Córnea,0,vivos
+PB,2016,144,Córnea,36.39,falecidos
+PB,2016,0,Medula,0,Autologos
+PB,2016,0,Medula,0,Alogenicos aparentado
+PB,2016,0,Medula,0,Alogenicos desconhecido
+PB,2016,0,Medula,0,Alogenicos não aparentado
+PB,2016,0,Medula,0,Sem modalidade
+PB,2016,0,Medula,0,vivos
+PB,2017,16,Rim,4.02,vivos
+PB,2017,18,Rim,4.52,falecidos
+PB,2017,0,Fígado,0,vivos
+PB,2017,1,Fígado,0.25,falecidos
+PB,2017,0,Coração,0,vivos
+PB,2017,0,Coração,0,falecidos
+PB,2017,0,Pulmão,0,vivos
+PB,2017,0,Pulmão,0,falecidos
+PB,2017,0,Pancreas,0,vivos
+PB,2017,0,Pancreas,0,falecidos
+PB,2017,0,Córnea,0,vivos
+PB,2017,152,Córnea,38.17,falecidos
+PB,2017,0,Medula,0,Autologos
+PB,2017,0,Medula,0,Alogenicos aparentado
+PB,2017,0,Medula,0,Alogenicos desconhecido
+PB,2017,0,Medula,0,Alogenicos não aparentado
+PB,2017,0,Medula,0,Sem modalidade
+PB,2017,0,Medula,0,vivos
+PB,2018,11,Rim,2.74,vivos
+PB,2018,14,Rim,3.49,falecidos
+PB,2018,0,Fígado,0,vivos
+PB,2018,3,Fígado,0.75,falecidos
+PB,2018,0,Coração,0,vivos
+PB,2018,0,Coração,0,falecidos
+PB,2018,0,Pulmão,0,vivos
+PB,2018,0,Pulmão,0,falecidos
+PB,2018,0,Pancreas,0,vivos
+PB,2018,0,Pancreas,0,falecidos
+PB,2018,0,Córnea,0,vivos
+PB,2018,190,Córnea,47.41,falecidos
+PB,2018,0,Medula,0,Autologos
+PB,2018,0,Medula,0,Alogenicos aparentado
+PB,2018,0,Medula,0,Alogenicos desconhecido
+PB,2018,0,Medula,0,Alogenicos não aparentado
+PB,2018,0,Medula,0,Sem modalidade
+PB,2018,0,Medula,0,vivos
+PB,2019,8,Rim,1.98,vivos
+PB,2019,30,Rim,7.43,falecidos
+PB,2019,0,Fígado,0,vivos
+PB,2019,24,Fígado,5.94,falecidos
+PB,2019,0,Coração,0,vivos
+PB,2019,2,Coração,0.5,falecidos
+PB,2019,0,Pulmão,0,vivos
+PB,2019,0,Pulmão,0,falecidos
+PB,2019,0,Pancreas,0,vivos
+PB,2019,0,Pancreas,0,falecidos
+PB,2019,0,Córnea,0,vivos
+PB,2019,136,Córnea,33.68,falecidos
+PB,2019,2,Medula,0.5,Autologos
+PB,2019,0,Medula,0,Alogenicos aparentado
+PB,2019,0,Medula,0,Alogenicos desconhecido
+PB,2019,0,Medula,0,Alogenicos não aparentado
+PB,2019,0,Medula,0,Sem modalidade
+PB,2019,2,Medula,0.5,vivos
+PB,2020,2,Rim,0.49,vivos
+PB,2020,16,Rim,3.94,falecidos
+PB,2020,0,Fígado,0,vivos
+PB,2020,14,Fígado,3.44,falecidos
+PB,2020,0,Coração,0,vivos
+PB,2020,1,Coração,0.25,falecidos
+PB,2020,0,Pulmão,0,vivos
+PB,2020,0,Pulmão,0,falecidos
+PB,2020,0,Pancreas,0,vivos
+PB,2020,0,Pancreas,0,falecidos
+PB,2020,0,Córnea,0,vivos
+PB,2020,37,Córnea,9.1,falecidos
+PB,2020,4,Medula,0.98,Autologos
+PB,2020,0,Medula,0,Alogenicos aparentado
+PB,2020,0,Medula,0,Alogenicos desconhecido
+PB,2020,0,Medula,0,Alogenicos não aparentado
+PB,2020,0,Medula,0,Sem modalidade
+PB,2020,4,Medula,0.98,vivos
+PB,2021,2,Rim,0.49,vivos
+PB,2021,14,Rim,3.42,falecidos
+PB,2021,0,Fígado,0,vivos
+PB,2021,15,Fígado,3.67,falecidos
+PB,2021,0,Coração,0,vivos
+PB,2021,3,Coração,0.73,falecidos
+PB,2021,0,Pulmão,0,vivos
+PB,2021,0,Pulmão,0,falecidos
+PB,2021,0,Pancreas,0,vivos
+PB,2021,0,Pancreas,0,falecidos
+PB,2021,0,Córnea,0,vivos
+PB,2021,253,Córnea,61.89,falecidos
+PB,2021,9,Medula,2.2,Autologos
+PB,2021,0,Medula,0,Alogenicos aparentado
+PB,2021,0,Medula,0,Alogenicos desconhecido
+PB,2021,0,Medula,0,Alogenicos não aparentado
+PB,2021,0,Medula,0,Sem modalidade
+PB,2021,9,Medula,2.2,vivos
+PB,2022,0,Rim,0,vivos
+PB,2022,28,Rim,6.82,falecidos
+PB,2022,0,Fígado,0,vivos
+PB,2022,20,Fígado,4.87,falecidos
+PB,2022,0,Coração,0,vivos
+PB,2022,3,Coração,0.73,falecidos
+PB,2022,0,Pulmão,0,vivos
+PB,2022,0,Pulmão,0,falecidos
+PB,2022,0,Pancreas,0,vivos
+PB,2022,0,Pancreas,0,falecidos
+PB,2022,0,Córnea,0,vivos
+PB,2022,254,Córnea,61.86,falecidos
+PB,2022,3,Medula,0.73,Autologos
+PB,2022,0,Medula,0,Alogenicos aparentado
+PB,2022,0,Medula,0,Alogenicos desconhecido
+PB,2022,0,Medula,0,Alogenicos não aparentado
+PB,2022,0,Medula,0,Sem modalidade
+PB,2022,3,Medula,0.73,vivos
+PB,2023,0,Rim,0,vivos
+PB,2023,25,Rim,6.06,falecidos
+PB,2023,0,Fígado,0,vivos
+PB,2023,26,Fígado,6.3,falecidos
+PB,2023,0,Coração,0,vivos
+PB,2023,7,Coração,1.7,falecidos
+PB,2023,0,Pulmão,0,vivos
+PB,2023,0,Pulmão,0,falecidos
+PB,2023,0,Pancreas,0,vivos
+PB,2023,0,Pancreas,0,falecidos
+PB,2023,0,Córnea,0,vivos
+PB,2023,197,Córnea,47.77,falecidos
+PB,2023,9,Medula,2.18,Autologos
+PB,2023,0,Medula,0,Alogenicos aparentado
+PB,2023,0,Medula,0,Alogenicos desconhecido
+PB,2023,0,Medula,0,Alogenicos não aparentado
+PB,2023,0,Medula,0,Sem modalidade
+PB,2023,9,Medula,2.18,vivos
+PB,2024,0,Rim,0,vivos
+PB,2024,21,Rim,5.07,falecidos
+PB,2024,0,Fígado,0,vivos
+PB,2024,33,Fígado,7.96,falecidos
+PB,2024,0,Coração,0,vivos
+PB,2024,8,Coração,1.93,falecidos
+PB,2024,0,Pulmão,0,vivos
+PB,2024,0,Pulmão,0,falecidos
+PB,2024,0,Pancreas,0,vivos
+PB,2024,0,Pancreas,0,falecidos
+PB,2024,0,Córnea,0,vivos
+PB,2024,203,Córnea,48.97,falecidos
+PB,2024,16,Medula,3.86,Autologos
+PB,2024,0,Medula,0,Alogenicos aparentado
+PB,2024,0,Medula,0,Alogenicos desconhecido
+PB,2024,0,Medula,0,Alogenicos não aparentado
+PB,2024,0,Medula,0,Sem modalidade
+PB,2024,16,Medula,3.86,vivos
+PB,2025,0,Rim,0,vivos
+PB,2025,8,Rim,1.92,falecidos
+PB,2025,0,Fígado,0,vivos
+PB,2025,27,Fígado,6.48,falecidos
+PB,2025,0,Coração,0,vivos
+PB,2025,11,Coração,2.64,falecidos
+PB,2025,0,Pulmão,0,vivos
+PB,2025,0,Pulmão,0,falecidos
+PB,2025,0,Pancreas,0,vivos
+PB,2025,0,Pancreas,0,falecidos
+PB,2025,0,Córnea,0,vivos
+PB,2025,197,Córnea,47.31,falecidos
+PB,2025,3,Medula,0.72,Autologos
+PB,2025,0,Medula,0,Alogenicos aparentado
+PB,2025,0,Medula,0,Alogenicos desconhecido
+PB,2025,0,Medula,0,Alogenicos não aparentado
+PB,2025,0,Medula,0,Sem modalidade
+PB,2025,3,Medula,0.72,vivos
+PB,2026,0,Rim,0,vivos
+PB,2026,0,Rim,0,falecidos
+PB,2026,0,Fígado,0,vivos
+PB,2026,21,Fígado,5.02,falecidos
+PB,2026,0,Coração,0,vivos
+PB,2026,3,Coração,0.72,falecidos
+PB,2026,0,Pulmão,0,vivos
+PB,2026,0,Pulmão,0,falecidos
+PB,2026,0,Pancreas,0,vivos
+PB,2026,0,Pancreas,0,falecidos
+PB,2026,0,Córnea,0,vivos
+PB,2026,106,Córnea,25.34,falecidos
+PB,2026,3,Medula,0.72,Autologos
+PB,2026,0,Medula,0,Alogenicos aparentado
+PB,2026,0,Medula,0,Alogenicos desconhecido
+PB,2026,0,Medula,0,Alogenicos não aparentado
+PB,2026,0,Medula,0,Sem modalidade
+PB,2026,3,Medula,0.72,vivos
+PE,2015,32,Rim,3.47,vivos
+PE,2015,313,Rim,33.97,falecidos
+PE,2015,0,Fígado,0,vivos
+PE,2015,123,Fígado,13.35,falecidos
+PE,2015,0,Coração,0,vivos
+PE,2015,46,Coração,4.99,falecidos
+PE,2015,0,Pulmão,0,vivos
+PE,2015,0,Pulmão,0,falecidos
+PE,2015,0,Pancreas,0,vivos
+PE,2015,3,Pancreas,0.33,falecidos
+PE,2015,0,Córnea,0,vivos
+PE,2015,634,Córnea,68.82,falecidos
+PE,2015,151,Medula,16.39,Autologos
+PE,2015,73,Medula,7.92,Alogenicos aparentado
+PE,2015,0,Medula,0,Alogenicos desconhecido
+PE,2015,14,Medula,1.52,Alogenicos não aparentado
+PE,2015,0,Medula,0,Sem modalidade
+PE,2015,238,Medula,25.83,vivos
+PE,2016,16,Rim,1.73,vivos
+PE,2016,272,Rim,29.36,falecidos
+PE,2016,0,Fígado,0,vivos
+PE,2016,112,Fígado,12.09,falecidos
+PE,2016,0,Coração,0,vivos
+PE,2016,38,Coração,4.1,falecidos
+PE,2016,0,Pulmão,0,vivos
+PE,2016,0,Pulmão,0,falecidos
+PE,2016,0,Pancreas,0,vivos
+PE,2016,6,Pancreas,0.65,falecidos
+PE,2016,0,Córnea,0,vivos
+PE,2016,827,Córnea,89.28,falecidos
+PE,2016,124,Medula,13.39,Autologos
+PE,2016,57,Medula,6.15,Alogenicos aparentado
+PE,2016,0,Medula,0,Alogenicos desconhecido
+PE,2016,16,Medula,1.73,Alogenicos não aparentado
+PE,2016,0,Medula,0,Sem modalidade
+PE,2016,197,Medula,21.27,vivos
+PE,2017,16,Rim,1.72,vivos
+PE,2017,390,Rim,41.92,falecidos
+PE,2017,0,Fígado,0,vivos
+PE,2017,131,Fígado,14.08,falecidos
+PE,2017,0,Coração,0,vivos
+PE,2017,54,Coração,5.8,falecidos
+PE,2017,0,Pulmão,0,vivos
+PE,2017,0,Pulmão,0,falecidos
+PE,2017,0,Pancreas,0,vivos
+PE,2017,6,Pancreas,0.64,falecidos
+PE,2017,0,Córnea,0,vivos
+PE,2017,968,Córnea,104.04,falecidos
+PE,2017,148,Medula,15.91,Autologos
+PE,2017,57,Medula,6.13,Alogenicos aparentado
+PE,2017,0,Medula,0,Alogenicos desconhecido
+PE,2017,20,Medula,2.15,Alogenicos não aparentado
+PE,2017,0,Medula,0,Sem modalidade
+PE,2017,225,Medula,24.18,vivos
+PE,2018,28,Rim,3,vivos
+PE,2018,440,Rim,47.07,falecidos
+PE,2018,1,Fígado,0.11,vivos
+PE,2018,141,Fígado,15.08,falecidos
+PE,2018,0,Coração,0,vivos
+PE,2018,42,Coração,4.49,falecidos
+PE,2018,0,Pulmão,0,vivos
+PE,2018,0,Pulmão,0,falecidos
+PE,2018,0,Pancreas,0,vivos
+PE,2018,5,Pancreas,0.53,falecidos
+PE,2018,0,Córnea,0,vivos
+PE,2018,775,Córnea,82.91,falecidos
+PE,2018,137,Medula,14.66,Autologos
+PE,2018,56,Medula,5.99,Alogenicos aparentado
+PE,2018,0,Medula,0,Alogenicos desconhecido
+PE,2018,14,Medula,1.5,Alogenicos não aparentado
+PE,2018,0,Medula,0,Sem modalidade
+PE,2018,207,Medula,22.14,vivos
+PE,2019,30,Rim,3.19,vivos
+PE,2019,354,Rim,37.67,falecidos
+PE,2019,0,Fígado,0,vivos
+PE,2019,158,Fígado,16.81,falecidos
+PE,2019,0,Coração,0,vivos
+PE,2019,52,Coração,5.53,falecidos
+PE,2019,0,Pulmão,0,vivos
+PE,2019,0,Pulmão,0,falecidos
+PE,2019,0,Pancreas,0,vivos
+PE,2019,7,Pancreas,0.74,falecidos
+PE,2019,0,Córnea,0,vivos
+PE,2019,812,Córnea,86.41,falecidos
+PE,2019,168,Medula,17.88,Autologos
+PE,2019,53,Medula,5.64,Alogenicos aparentado
+PE,2019,0,Medula,0,Alogenicos desconhecido
+PE,2019,24,Medula,2.55,Alogenicos não aparentado
+PE,2019,1,Medula,0.11,Sem modalidade
+PE,2019,246,Medula,26.18,vivos
+PE,2020,2,Rim,0.21,vivos
+PE,2020,209,Rim,22.14,falecidos
+PE,2020,0,Fígado,0,vivos
+PE,2020,83,Fígado,8.79,falecidos
+PE,2020,0,Coração,0,vivos
+PE,2020,24,Coração,2.54,falecidos
+PE,2020,0,Pulmão,0,vivos
+PE,2020,0,Pulmão,0,falecidos
+PE,2020,0,Pancreas,0,vivos
+PE,2020,1,Pancreas,0.11,falecidos
+PE,2020,0,Córnea,0,vivos
+PE,2020,329,Córnea,34.86,falecidos
+PE,2020,122,Medula,12.93,Autologos
+PE,2020,73,Medula,7.73,Alogenicos aparentado
+PE,2020,0,Medula,0,Alogenicos desconhecido
+PE,2020,8,Medula,0.85,Alogenicos não aparentado
+PE,2020,1,Medula,0.11,Sem modalidade
+PE,2020,204,Medula,21.61,vivos
+PE,2021,16,Rim,1.69,vivos
+PE,2021,267,Rim,28.19,falecidos
+PE,2021,1,Fígado,0.11,vivos
+PE,2021,103,Fígado,10.88,falecidos
+PE,2021,0,Coração,0,vivos
+PE,2021,39,Coração,4.12,falecidos
+PE,2021,0,Pulmão,0,vivos
+PE,2021,0,Pulmão,0,falecidos
+PE,2021,0,Pancreas,0,vivos
+PE,2021,0,Pancreas,0,falecidos
+PE,2021,0,Córnea,0,vivos
+PE,2021,684,Córnea,72.23,falecidos
+PE,2021,141,Medula,14.89,Autologos
+PE,2021,73,Medula,7.71,Alogenicos aparentado
+PE,2021,0,Medula,0,Alogenicos desconhecido
+PE,2021,14,Medula,1.48,Alogenicos não aparentado
+PE,2021,0,Medula,0,Sem modalidade
+PE,2021,228,Medula,24.08,vivos
+PE,2022,9,Rim,0.95,vivos
+PE,2022,305,Rim,32.13,falecidos
+PE,2022,0,Fígado,0,vivos
+PE,2022,83,Fígado,8.74,falecidos
+PE,2022,0,Coração,0,vivos
+PE,2022,32,Coração,3.37,falecidos
+PE,2022,0,Pulmão,0,vivos
+PE,2022,0,Pulmão,0,falecidos
+PE,2022,0,Pancreas,0,vivos
+PE,2022,6,Pancreas,0.63,falecidos
+PE,2022,0,Córnea,0,vivos
+PE,2022,654,Córnea,68.89,falecidos
+PE,2022,185,Medula,19.49,Autologos
+PE,2022,77,Medula,8.11,Alogenicos aparentado
+PE,2022,0,Medula,0,Alogenicos desconhecido
+PE,2022,18,Medula,1.9,Alogenicos não aparentado
+PE,2022,0,Medula,0,Sem modalidade
+PE,2022,280,Medula,29.5,vivos
+PE,2023,15,Rim,1.58,vivos
+PE,2023,362,Rim,38.05,falecidos
+PE,2023,0,Fígado,0,vivos
+PE,2023,98,Fígado,10.3,falecidos
+PE,2023,0,Coração,0,vivos
+PE,2023,38,Coração,3.99,falecidos
+PE,2023,0,Pulmão,0,vivos
+PE,2023,0,Pulmão,0,falecidos
+PE,2023,0,Pancreas,0,vivos
+PE,2023,2,Pancreas,0.21,falecidos
+PE,2023,0,Córnea,0,vivos
+PE,2023,720,Córnea,75.68,falecidos
+PE,2023,189,Medula,19.87,Autologos
+PE,2023,59,Medula,6.2,Alogenicos aparentado
+PE,2023,0,Medula,0,Alogenicos desconhecido
+PE,2023,17,Medula,1.79,Alogenicos não aparentado
+PE,2023,5,Medula,0.53,Sem modalidade
+PE,2023,270,Medula,28.38,vivos
+PE,2024,18,Rim,1.89,vivos
+PE,2024,356,Rim,37.32,falecidos
+PE,2024,0,Fígado,0,vivos
+PE,2024,119,Fígado,12.48,falecidos
+PE,2024,0,Coração,0,vivos
+PE,2024,32,Coração,3.35,falecidos
+PE,2024,0,Pulmão,0,vivos
+PE,2024,0,Pulmão,0,falecidos
+PE,2024,0,Pancreas,0,vivos
+PE,2024,6,Pancreas,0.63,falecidos
+PE,2024,0,Córnea,0,vivos
+PE,2024,837,Córnea,87.75,falecidos
+PE,2024,224,Medula,23.48,Autologos
+PE,2024,35,Medula,3.67,Alogenicos aparentado
+PE,2024,50,Medula,5.24,Alogenicos desconhecido
+PE,2024,23,Medula,2.41,Alogenicos não aparentado
+PE,2024,12,Medula,1.26,Sem modalidade
+PE,2024,344,Medula,36.06,vivos
+PE,2025,33,Rim,3.45,vivos
+PE,2025,439,Rim,45.91,falecidos
+PE,2025,0,Fígado,0,vivos
+PE,2025,140,Fígado,14.64,falecidos
+PE,2025,0,Coração,0,vivos
+PE,2025,33,Coração,3.45,falecidos
+PE,2025,0,Pulmão,0,vivos
+PE,2025,0,Pulmão,0,falecidos
+PE,2025,0,Pancreas,0,vivos
+PE,2025,0,Pancreas,0,falecidos
+PE,2025,0,Córnea,0,vivos
+PE,2025,925,Córnea,96.74,falecidos
+PE,2025,248,Medula,25.94,Autologos
+PE,2025,67,Medula,7.01,Alogenicos aparentado
+PE,2025,0,Medula,0,Alogenicos desconhecido
+PE,2025,32,Medula,3.35,Alogenicos não aparentado
+PE,2025,0,Medula,0,Sem modalidade
+PE,2025,347,Medula,36.29,vivos
+PE,2026,23,Rim,2.4,vivos
+PE,2026,306,Rim,31.93,falecidos
+PE,2026,0,Fígado,0,vivos
+PE,2026,82,Fígado,8.56,falecidos
+PE,2026,0,Coração,0,vivos
+PE,2026,19,Coração,1.98,falecidos
+PE,2026,0,Pulmão,0,vivos
+PE,2026,0,Pulmão,0,falecidos
+PE,2026,0,Pancreas,0,vivos
+PE,2026,2,Pancreas,0.21,falecidos
+PE,2026,0,Córnea,0,vivos
+PE,2026,768,Córnea,80.14,falecidos
+PE,2026,120,Medula,12.52,Autologos
+PE,2026,42,Medula,4.38,Alogenicos aparentado
+PE,2026,0,Medula,0,Alogenicos desconhecido
+PE,2026,28,Medula,2.92,Alogenicos não aparentado
+PE,2026,0,Medula,0,Sem modalidade
+PE,2026,190,Medula,19.83,vivos
+PI,2015,3,Rim,0.92,vivos
+PI,2015,24,Rim,7.37,falecidos
+PI,2015,0,Fígado,0,vivos
+PI,2015,0,Fígado,0,falecidos
+PI,2015,0,Coração,0,vivos
+PI,2015,0,Coração,0,falecidos
+PI,2015,0,Pulmão,0,vivos
+PI,2015,0,Pulmão,0,falecidos
+PI,2015,0,Pancreas,0,vivos
+PI,2015,0,Pancreas,0,falecidos
+PI,2015,0,Córnea,0,vivos
+PI,2015,180,Córnea,55.28,falecidos
+PI,2015,0,Medula,0,Autologos
+PI,2015,0,Medula,0,Alogenicos aparentado
+PI,2015,0,Medula,0,Alogenicos desconhecido
+PI,2015,0,Medula,0,Alogenicos não aparentado
+PI,2015,0,Medula,0,Sem modalidade
+PI,2015,0,Medula,0,vivos
+PI,2016,3,Rim,0.92,vivos
+PI,2016,13,Rim,3.97,falecidos
+PI,2016,0,Fígado,0,vivos
+PI,2016,0,Fígado,0,falecidos
+PI,2016,0,Coração,0,vivos
+PI,2016,0,Coração,0,falecidos
+PI,2016,0,Pulmão,0,vivos
+PI,2016,0,Pulmão,0,falecidos
+PI,2016,0,Pancreas,0,vivos
+PI,2016,0,Pancreas,0,falecidos
+PI,2016,0,Córnea,0,vivos
+PI,2016,140,Córnea,42.8,falecidos
+PI,2016,0,Medula,0,Autologos
+PI,2016,0,Medula,0,Alogenicos aparentado
+PI,2016,0,Medula,0,Alogenicos desconhecido
+PI,2016,0,Medula,0,Alogenicos não aparentado
+PI,2016,0,Medula,0,Sem modalidade
+PI,2016,0,Medula,0,vivos
+PI,2017,7,Rim,2.13,vivos
+PI,2017,23,Rim,7,falecidos
+PI,2017,0,Fígado,0,vivos
+PI,2017,0,Fígado,0,falecidos
+PI,2017,0,Coração,0,vivos
+PI,2017,0,Coração,0,falecidos
+PI,2017,0,Pulmão,0,vivos
+PI,2017,0,Pulmão,0,falecidos
+PI,2017,0,Pancreas,0,vivos
+PI,2017,0,Pancreas,0,falecidos
+PI,2017,0,Córnea,0,vivos
+PI,2017,160,Córnea,48.69,falecidos
+PI,2017,0,Medula,0,Autologos
+PI,2017,0,Medula,0,Alogenicos aparentado
+PI,2017,0,Medula,0,Alogenicos desconhecido
+PI,2017,0,Medula,0,Alogenicos não aparentado
+PI,2017,0,Medula,0,Sem modalidade
+PI,2017,0,Medula,0,vivos
+PI,2018,8,Rim,2.42,vivos
+PI,2018,10,Rim,3.03,falecidos
+PI,2018,0,Fígado,0,vivos
+PI,2018,0,Fígado,0,falecidos
+PI,2018,0,Coração,0,vivos
+PI,2018,0,Coração,0,falecidos
+PI,2018,0,Pulmão,0,vivos
+PI,2018,0,Pulmão,0,falecidos
+PI,2018,0,Pancreas,0,vivos
+PI,2018,0,Pancreas,0,falecidos
+PI,2018,0,Córnea,0,vivos
+PI,2018,140,Córnea,42.4,falecidos
+PI,2018,0,Medula,0,Autologos
+PI,2018,0,Medula,0,Alogenicos aparentado
+PI,2018,0,Medula,0,Alogenicos desconhecido
+PI,2018,0,Medula,0,Alogenicos não aparentado
+PI,2018,0,Medula,0,Sem modalidade
+PI,2018,0,Medula,0,vivos
+PI,2019,14,Rim,4.22,vivos
+PI,2019,4,Rim,1.2,falecidos
+PI,2019,0,Fígado,0,vivos
+PI,2019,0,Fígado,0,falecidos
+PI,2019,0,Coração,0,vivos
+PI,2019,0,Coração,0,falecidos
+PI,2019,0,Pulmão,0,vivos
+PI,2019,0,Pulmão,0,falecidos
+PI,2019,0,Pancreas,0,vivos
+PI,2019,0,Pancreas,0,falecidos
+PI,2019,0,Córnea,0,vivos
+PI,2019,121,Córnea,36.45,falecidos
+PI,2019,0,Medula,0,Autologos
+PI,2019,0,Medula,0,Alogenicos aparentado
+PI,2019,0,Medula,0,Alogenicos desconhecido
+PI,2019,0,Medula,0,Alogenicos não aparentado
+PI,2019,0,Medula,0,Sem modalidade
+PI,2019,0,Medula,0,vivos
+PI,2020,2,Rim,0.6,vivos
+PI,2020,13,Rim,3.9,falecidos
+PI,2020,0,Fígado,0,vivos
+PI,2020,0,Fígado,0,falecidos
+PI,2020,0,Coração,0,vivos
+PI,2020,0,Coração,0,falecidos
+PI,2020,0,Pulmão,0,vivos
+PI,2020,0,Pulmão,0,falecidos
+PI,2020,0,Pancreas,0,vivos
+PI,2020,0,Pancreas,0,falecidos
+PI,2020,0,Córnea,0,vivos
+PI,2020,106,Córnea,31.77,falecidos
+PI,2020,0,Medula,0,Autologos
+PI,2020,0,Medula,0,Alogenicos aparentado
+PI,2020,0,Medula,0,Alogenicos desconhecido
+PI,2020,0,Medula,0,Alogenicos não aparentado
+PI,2020,0,Medula,0,Sem modalidade
+PI,2020,0,Medula,0,vivos
+PI,2021,9,Rim,2.69,vivos
+PI,2021,33,Rim,9.86,falecidos
+PI,2021,0,Fígado,0,vivos
+PI,2021,0,Fígado,0,falecidos
+PI,2021,0,Coração,0,vivos
+PI,2021,0,Coração,0,falecidos
+PI,2021,0,Pulmão,0,vivos
+PI,2021,0,Pulmão,0,falecidos
+PI,2021,0,Pancreas,0,vivos
+PI,2021,0,Pancreas,0,falecidos
+PI,2021,0,Córnea,0,vivos
+PI,2021,183,Córnea,54.66,falecidos
+PI,2021,0,Medula,0,Autologos
+PI,2021,0,Medula,0,Alogenicos aparentado
+PI,2021,0,Medula,0,Alogenicos desconhecido
+PI,2021,0,Medula,0,Alogenicos não aparentado
+PI,2021,0,Medula,0,Sem modalidade
+PI,2021,0,Medula,0,vivos
+PI,2022,12,Rim,3.57,vivos
+PI,2022,29,Rim,8.64,falecidos
+PI,2022,0,Fígado,0,vivos
+PI,2022,0,Fígado,0,falecidos
+PI,2022,0,Coração,0,vivos
+PI,2022,0,Coração,0,falecidos
+PI,2022,0,Pulmão,0,vivos
+PI,2022,0,Pulmão,0,falecidos
+PI,2022,0,Pancreas,0,vivos
+PI,2022,0,Pancreas,0,falecidos
+PI,2022,0,Córnea,0,vivos
+PI,2022,206,Córnea,61.36,falecidos
+PI,2022,0,Medula,0,Autologos
+PI,2022,0,Medula,0,Alogenicos aparentado
+PI,2022,0,Medula,0,Alogenicos desconhecido
+PI,2022,0,Medula,0,Alogenicos não aparentado
+PI,2022,0,Medula,0,Sem modalidade
+PI,2022,0,Medula,0,vivos
+PI,2023,8,Rim,2.38,vivos
+PI,2023,40,Rim,11.88,falecidos
+PI,2023,0,Fígado,0,vivos
+PI,2023,0,Fígado,0,falecidos
+PI,2023,0,Coração,0,vivos
+PI,2023,0,Coração,0,falecidos
+PI,2023,0,Pulmão,0,vivos
+PI,2023,0,Pulmão,0,falecidos
+PI,2023,0,Pancreas,0,vivos
+PI,2023,0,Pancreas,0,falecidos
+PI,2023,0,Córnea,0,vivos
+PI,2023,204,Córnea,60.61,falecidos
+PI,2023,0,Medula,0,Autologos
+PI,2023,0,Medula,0,Alogenicos aparentado
+PI,2023,0,Medula,0,Alogenicos desconhecido
+PI,2023,0,Medula,0,Alogenicos não aparentado
+PI,2023,0,Medula,0,Sem modalidade
+PI,2023,0,Medula,0,vivos
+PI,2024,10,Rim,2.96,vivos
+PI,2024,30,Rim,8.89,falecidos
+PI,2024,0,Fígado,0,vivos
+PI,2024,0,Fígado,0,falecidos
+PI,2024,0,Coração,0,vivos
+PI,2024,0,Coração,0,falecidos
+PI,2024,0,Pulmão,0,vivos
+PI,2024,0,Pulmão,0,falecidos
+PI,2024,0,Pancreas,0,vivos
+PI,2024,0,Pancreas,0,falecidos
+PI,2024,0,Córnea,0,vivos
+PI,2024,265,Córnea,78.5,falecidos
+PI,2024,0,Medula,0,Autologos
+PI,2024,0,Medula,0,Alogenicos aparentado
+PI,2024,0,Medula,0,Alogenicos desconhecido
+PI,2024,0,Medula,0,Alogenicos não aparentado
+PI,2024,0,Medula,0,Sem modalidade
+PI,2024,0,Medula,0,vivos
+PI,2025,6,Rim,1.77,vivos
+PI,2025,70,Rim,20.68,falecidos
+PI,2025,0,Fígado,0,vivos
+PI,2025,0,Fígado,0,falecidos
+PI,2025,0,Coração,0,vivos
+PI,2025,0,Coração,0,falecidos
+PI,2025,0,Pulmão,0,vivos
+PI,2025,0,Pulmão,0,falecidos
+PI,2025,0,Pancreas,0,vivos
+PI,2025,0,Pancreas,0,falecidos
+PI,2025,0,Córnea,0,vivos
+PI,2025,289,Córnea,85.38,falecidos
+PI,2025,0,Medula,0,Autologos
+PI,2025,0,Medula,0,Alogenicos aparentado
+PI,2025,0,Medula,0,Alogenicos desconhecido
+PI,2025,0,Medula,0,Alogenicos não aparentado
+PI,2025,0,Medula,0,Sem modalidade
+PI,2025,0,Medula,0,vivos
+PI,2026,8,Rim,2.36,vivos
+PI,2026,38,Rim,11.2,falecidos
+PI,2026,0,Fígado,0,vivos
+PI,2026,0,Fígado,0,falecidos
+PI,2026,0,Coração,0,vivos
+PI,2026,0,Coração,0,falecidos
+PI,2026,0,Pulmão,0,vivos
+PI,2026,0,Pulmão,0,falecidos
+PI,2026,0,Pancreas,0,vivos
+PI,2026,0,Pancreas,0,falecidos
+PI,2026,0,Córnea,0,vivos
+PI,2026,234,Córnea,68.97,falecidos
+PI,2026,0,Medula,0,Autologos
+PI,2026,0,Medula,0,Alogenicos aparentado
+PI,2026,0,Medula,0,Alogenicos desconhecido
+PI,2026,0,Medula,0,Alogenicos não aparentado
+PI,2026,0,Medula,0,Sem modalidade
+PI,2026,0,Medula,0,vivos
+PR,2015,141,Rim,12.7,vivos
+PR,2015,333,Rim,29.99,falecidos
+PR,2015,2,Fígado,0.18,vivos
+PR,2015,132,Fígado,11.89,falecidos
+PR,2015,0,Coração,0,vivos
+PR,2015,38,Coração,3.42,falecidos
+PR,2015,0,Pulmão,0,vivos
+PR,2015,0,Pulmão,0,falecidos
+PR,2015,0,Pancreas,0,vivos
+PR,2015,21,Pancreas,1.89,falecidos
+PR,2015,0,Córnea,0,vivos
+PR,2015,902,Córnea,81.25,falecidos
+PR,2015,108,Medula,9.73,Autologos
+PR,2015,72,Medula,6.49,Alogenicos aparentado
+PR,2015,0,Medula,0,Alogenicos desconhecido
+PR,2015,59,Medula,5.31,Alogenicos não aparentado
+PR,2015,5,Medula,0.45,Sem modalidade
+PR,2015,244,Medula,21.98,vivos
+PR,2016,143,Rim,12.77,vivos
+PR,2016,398,Rim,35.55,falecidos
+PR,2016,1,Fígado,0.09,vivos
+PR,2016,213,Fígado,19.02,falecidos
+PR,2016,0,Coração,0,vivos
+PR,2016,27,Coração,2.41,falecidos
+PR,2016,0,Pulmão,0,vivos
+PR,2016,0,Pulmão,0,falecidos
+PR,2016,0,Pancreas,0,vivos
+PR,2016,44,Pancreas,3.93,falecidos
+PR,2016,0,Córnea,0,vivos
+PR,2016,1057,Córnea,94.41,falecidos
+PR,2016,124,Medula,11.08,Autologos
+PR,2016,69,Medula,6.16,Alogenicos aparentado
+PR,2016,0,Medula,0,Alogenicos desconhecido
+PR,2016,63,Medula,5.63,Alogenicos não aparentado
+PR,2016,5,Medula,0.45,Sem modalidade
+PR,2016,261,Medula,23.31,vivos
+PR,2017,142,Rim,12.58,vivos
+PR,2017,465,Rim,41.21,falecidos
+PR,2017,0,Fígado,0,vivos
+PR,2017,266,Fígado,23.57,falecidos
+PR,2017,0,Coração,0,vivos
+PR,2017,39,Coração,3.46,falecidos
+PR,2017,0,Pulmão,0,vivos
+PR,2017,0,Pulmão,0,falecidos
+PR,2017,0,Pancreas,0,vivos
+PR,2017,22,Pancreas,1.95,falecidos
+PR,2017,0,Córnea,0,vivos
+PR,2017,887,Córnea,78.6,falecidos
+PR,2017,64,Medula,5.67,Autologos
+PR,2017,83,Medula,7.35,Alogenicos aparentado
+PR,2017,0,Medula,0,Alogenicos desconhecido
+PR,2017,78,Medula,6.91,Alogenicos não aparentado
+PR,2017,2,Medula,0.18,Sem modalidade
+PR,2017,227,Medula,20.12,vivos
+PR,2018,90,Rim,7.91,vivos
+PR,2018,609,Rim,53.54,falecidos
+PR,2018,1,Fígado,0.09,vivos
+PR,2018,309,Fígado,27.17,falecidos
+PR,2018,0,Coração,0,vivos
+PR,2018,19,Coração,1.67,falecidos
+PR,2018,0,Pulmão,0,vivos
+PR,2018,0,Pulmão,0,falecidos
+PR,2018,0,Pancreas,0,vivos
+PR,2018,16,Pancreas,1.41,falecidos
+PR,2018,0,Córnea,0,vivos
+PR,2018,840,Córnea,73.85,falecidos
+PR,2018,150,Medula,13.19,Autologos
+PR,2018,129,Medula,11.34,Alogenicos aparentado
+PR,2018,0,Medula,0,Alogenicos desconhecido
+PR,2018,78,Medula,6.86,Alogenicos não aparentado
+PR,2018,10,Medula,0.88,Sem modalidade
+PR,2018,367,Medula,32.27,vivos
+PR,2019,112,Rim,9.77,vivos
+PR,2019,488,Rim,42.55,falecidos
+PR,2019,0,Fígado,0,vivos
+PR,2019,258,Fígado,22.5,falecidos
+PR,2019,0,Coração,0,vivos
+PR,2019,20,Coração,1.74,falecidos
+PR,2019,0,Pulmão,0,vivos
+PR,2019,1,Pulmão,0.09,falecidos
+PR,2019,0,Pancreas,0,vivos
+PR,2019,18,Pancreas,1.57,falecidos
+PR,2019,0,Córnea,0,vivos
+PR,2019,876,Córnea,76.39,falecidos
+PR,2019,166,Medula,14.48,Autologos
+PR,2019,107,Medula,9.33,Alogenicos aparentado
+PR,2019,0,Medula,0,Alogenicos desconhecido
+PR,2019,48,Medula,4.19,Alogenicos não aparentado
+PR,2019,47,Medula,4.1,Sem modalidade
+PR,2019,368,Medula,32.09,vivos
+PR,2020,25,Rim,2.16,vivos
+PR,2020,450,Rim,38.92,falecidos
+PR,2020,11,Fígado,0.95,vivos
+PR,2020,229,Fígado,19.81,falecidos
+PR,2020,0,Coração,0,vivos
+PR,2020,15,Coração,1.3,falecidos
+PR,2020,0,Pulmão,0,vivos
+PR,2020,0,Pulmão,0,falecidos
+PR,2020,0,Pancreas,0,vivos
+PR,2020,8,Pancreas,0.69,falecidos
+PR,2020,0,Córnea,0,vivos
+PR,2020,404,Córnea,34.95,falecidos
+PR,2020,183,Medula,15.83,Autologos
+PR,2020,149,Medula,12.89,Alogenicos aparentado
+PR,2020,1,Medula,0.09,Alogenicos desconhecido
+PR,2020,47,Medula,4.07,Alogenicos não aparentado
+PR,2020,12,Medula,1.04,Sem modalidade
+PR,2020,392,Medula,33.91,vivos
+PR,2021,27,Rim,2.32,vivos
+PR,2021,412,Rim,35.43,falecidos
+PR,2021,15,Fígado,1.29,vivos
+PR,2021,236,Fígado,20.29,falecidos
+PR,2021,0,Coração,0,vivos
+PR,2021,9,Coração,0.77,falecidos
+PR,2021,0,Pulmão,0,vivos
+PR,2021,1,Pulmão,0.09,falecidos
+PR,2021,0,Pancreas,0,vivos
+PR,2021,8,Pancreas,0.69,falecidos
+PR,2021,0,Córnea,0,vivos
+PR,2021,763,Córnea,65.61,falecidos
+PR,2021,183,Medula,15.74,Autologos
+PR,2021,164,Medula,14.1,Alogenicos aparentado
+PR,2021,0,Medula,0,Alogenicos desconhecido
+PR,2021,68,Medula,5.85,Alogenicos não aparentado
+PR,2021,17,Medula,1.46,Sem modalidade
+PR,2021,432,Medula,37.15,vivos
+PR,2022,47,Rim,4.02,vivos
+PR,2022,431,Rim,36.88,falecidos
+PR,2022,7,Fígado,0.6,vivos
+PR,2022,305,Fígado,26.1,falecidos
+PR,2022,0,Coração,0,vivos
+PR,2022,20,Coração,1.71,falecidos
+PR,2022,0,Pulmão,0,vivos
+PR,2022,1,Pulmão,0.09,falecidos
+PR,2022,0,Pancreas,0,vivos
+PR,2022,8,Pancreas,0.68,falecidos
+PR,2022,0,Córnea,0,vivos
+PR,2022,939,Córnea,80.35,falecidos
+PR,2022,225,Medula,19.25,Autologos
+PR,2022,152,Medula,13.01,Alogenicos aparentado
+PR,2022,2,Medula,0.17,Alogenicos desconhecido
+PR,2022,78,Medula,6.67,Alogenicos não aparentado
+PR,2022,0,Medula,0,Sem modalidade
+PR,2022,457,Medula,39.1,vivos
+PR,2023,67,Rim,5.7,vivos
+PR,2023,434,Rim,36.92,falecidos
+PR,2023,12,Fígado,1.02,vivos
+PR,2023,288,Fígado,24.5,falecidos
+PR,2023,0,Coração,0,vivos
+PR,2023,26,Coração,2.21,falecidos
+PR,2023,0,Pulmão,0,vivos
+PR,2023,0,Pulmão,0,falecidos
+PR,2023,0,Pancreas,0,vivos
+PR,2023,7,Pancreas,0.6,falecidos
+PR,2023,0,Córnea,0,vivos
+PR,2023,1298,Córnea,110.43,falecidos
+PR,2023,214,Medula,18.21,Autologos
+PR,2023,163,Medula,13.87,Alogenicos aparentado
+PR,2023,2,Medula,0.17,Alogenicos desconhecido
+PR,2023,86,Medula,7.32,Alogenicos não aparentado
+PR,2023,0,Medula,0,Sem modalidade
+PR,2023,465,Medula,39.56,vivos
+PR,2024,53,Rim,4.48,vivos
+PR,2024,498,Rim,42.11,falecidos
+PR,2024,13,Fígado,1.1,vivos
+PR,2024,291,Fígado,24.61,falecidos
+PR,2024,0,Coração,0,vivos
+PR,2024,43,Coração,3.64,falecidos
+PR,2024,0,Pulmão,0,vivos
+PR,2024,0,Pulmão,0,falecidos
+PR,2024,0,Pancreas,0,vivos
+PR,2024,6,Pancreas,0.51,falecidos
+PR,2024,0,Córnea,0,vivos
+PR,2024,1248,Córnea,105.54,falecidos
+PR,2024,239,Medula,20.21,Autologos
+PR,2024,97,Medula,8.2,Alogenicos aparentado
+PR,2024,119,Medula,10.06,Alogenicos desconhecido
+PR,2024,37,Medula,3.13,Alogenicos não aparentado
+PR,2024,4,Medula,0.34,Sem modalidade
+PR,2024,496,Medula,41.95,vivos
+PR,2025,23,Rim,1.93,vivos
+PR,2025,437,Rim,36.75,falecidos
+PR,2025,15,Fígado,1.26,vivos
+PR,2025,278,Fígado,23.38,falecidos
+PR,2025,0,Coração,0,vivos
+PR,2025,31,Coração,2.61,falecidos
+PR,2025,0,Pulmão,0,vivos
+PR,2025,0,Pulmão,0,falecidos
+PR,2025,0,Pancreas,0,vivos
+PR,2025,8,Pancreas,0.67,falecidos
+PR,2025,0,Córnea,0,vivos
+PR,2025,1066,Córnea,89.65,falecidos
+PR,2025,153,Medula,12.87,Autologos
+PR,2025,120,Medula,10.09,Alogenicos aparentado
+PR,2025,43,Medula,3.62,Alogenicos desconhecido
+PR,2025,53,Medula,4.46,Alogenicos não aparentado
+PR,2025,0,Medula,0,Sem modalidade
+PR,2025,369,Medula,31.03,vivos
+PR,2026,25,Rim,2.09,vivos
+PR,2026,296,Rim,24.76,falecidos
+PR,2026,15,Fígado,1.25,vivos
+PR,2026,232,Fígado,19.41,falecidos
+PR,2026,0,Coração,0,vivos
+PR,2026,28,Coração,2.34,falecidos
+PR,2026,0,Pulmão,0,vivos
+PR,2026,0,Pulmão,0,falecidos
+PR,2026,0,Pancreas,0,vivos
+PR,2026,7,Pancreas,0.59,falecidos
+PR,2026,0,Córnea,0,vivos
+PR,2026,917,Córnea,76.72,falecidos
+PR,2026,39,Medula,3.26,Autologos
+PR,2026,9,Medula,0.75,Alogenicos aparentado
+PR,2026,0,Medula,0,Alogenicos desconhecido
+PR,2026,5,Medula,0.42,Alogenicos não aparentado
+PR,2026,2,Medula,0.17,Sem modalidade
+PR,2026,55,Medula,4.6,vivos
+RJ,2015,2,Rim,0.12,vivos
+RJ,2015,393,Rim,23.16,falecidos
+RJ,2015,16,Fígado,0.94,vivos
+RJ,2015,214,Fígado,12.61,falecidos
+RJ,2015,0,Coração,0,vivos
+RJ,2015,11,Coração,0.65,falecidos
+RJ,2015,0,Pulmão,0,vivos
+RJ,2015,0,Pulmão,0,falecidos
+RJ,2015,0,Pancreas,0,vivos
+RJ,2015,0,Pancreas,0,falecidos
+RJ,2015,0,Córnea,0,vivos
+RJ,2015,402,Córnea,23.69,falecidos
+RJ,2015,126,Medula,7.42,Autologos
+RJ,2015,52,Medula,3.06,Alogenicos aparentado
+RJ,2015,0,Medula,0,Alogenicos desconhecido
+RJ,2015,12,Medula,0.71,Alogenicos não aparentado
+RJ,2015,1,Medula,0.06,Sem modalidade
+RJ,2015,191,Medula,11.25,vivos
+RJ,2016,6,Rim,0.35,vivos
+RJ,2016,281,Rim,16.49,falecidos
+RJ,2016,12,Fígado,0.7,vivos
+RJ,2016,171,Fígado,10.03,falecidos
+RJ,2016,0,Coração,0,vivos
+RJ,2016,9,Coração,0.53,falecidos
+RJ,2016,0,Pulmão,0,vivos
+RJ,2016,0,Pulmão,0,falecidos
+RJ,2016,0,Pancreas,0,vivos
+RJ,2016,0,Pancreas,0,falecidos
+RJ,2016,0,Córnea,0,vivos
+RJ,2016,552,Córnea,32.39,falecidos
+RJ,2016,86,Medula,5.05,Autologos
+RJ,2016,22,Medula,1.29,Alogenicos aparentado
+RJ,2016,0,Medula,0,Alogenicos desconhecido
+RJ,2016,8,Medula,0.47,Alogenicos não aparentado
+RJ,2016,2,Medula,0.12,Sem modalidade
+RJ,2016,118,Medula,6.92,vivos
+RJ,2017,24,Rim,1.4,vivos
+RJ,2017,338,Rim,19.77,falecidos
+RJ,2017,20,Fígado,1.17,vivos
+RJ,2017,227,Fígado,13.27,falecidos
+RJ,2017,0,Coração,0,vivos
+RJ,2017,12,Coração,0.7,falecidos
+RJ,2017,0,Pulmão,0,vivos
+RJ,2017,0,Pulmão,0,falecidos
+RJ,2017,0,Pancreas,0,vivos
+RJ,2017,0,Pancreas,0,falecidos
+RJ,2017,0,Córnea,0,vivos
+RJ,2017,955,Córnea,55.85,falecidos
+RJ,2017,130,Medula,7.6,Autologos
+RJ,2017,42,Medula,2.46,Alogenicos aparentado
+RJ,2017,0,Medula,0,Alogenicos desconhecido
+RJ,2017,33,Medula,1.93,Alogenicos não aparentado
+RJ,2017,0,Medula,0,Sem modalidade
+RJ,2017,205,Medula,11.99,vivos
+RJ,2018,41,Rim,2.39,vivos
+RJ,2018,371,Rim,21.63,falecidos
+RJ,2018,27,Fígado,1.57,vivos
+RJ,2018,237,Fígado,13.82,falecidos
+RJ,2018,0,Coração,0,vivos
+RJ,2018,23,Coração,1.34,falecidos
+RJ,2018,0,Pulmão,0,vivos
+RJ,2018,0,Pulmão,0,falecidos
+RJ,2018,0,Pancreas,0,vivos
+RJ,2018,1,Pancreas,0.06,falecidos
+RJ,2018,0,Córnea,0,vivos
+RJ,2018,923,Córnea,53.82,falecidos
+RJ,2018,156,Medula,9.1,Autologos
+RJ,2018,30,Medula,1.75,Alogenicos aparentado
+RJ,2018,0,Medula,0,Alogenicos desconhecido
+RJ,2018,25,Medula,1.46,Alogenicos não aparentado
+RJ,2018,3,Medula,0.17,Sem modalidade
+RJ,2018,214,Medula,12.48,vivos
+RJ,2019,51,Rim,2.97,vivos
+RJ,2019,439,Rim,25.53,falecidos
+RJ,2019,19,Fígado,1.11,vivos
+RJ,2019,249,Fígado,14.48,falecidos
+RJ,2019,0,Coração,0,vivos
+RJ,2019,23,Coração,1.34,falecidos
+RJ,2019,0,Pulmão,0,vivos
+RJ,2019,0,Pulmão,0,falecidos
+RJ,2019,0,Pancreas,0,vivos
+RJ,2019,8,Pancreas,0.47,falecidos
+RJ,2019,0,Córnea,0,vivos
+RJ,2019,705,Córnea,41,falecidos
+RJ,2019,246,Medula,14.31,Autologos
+RJ,2019,65,Medula,3.78,Alogenicos aparentado
+RJ,2019,0,Medula,0,Alogenicos desconhecido
+RJ,2019,19,Medula,1.11,Alogenicos não aparentado
+RJ,2019,32,Medula,1.86,Sem modalidade
+RJ,2019,362,Medula,21.05,vivos
+RJ,2020,32,Rim,1.86,vivos
+RJ,2020,354,Rim,20.56,falecidos
+RJ,2020,11,Fígado,0.64,vivos
+RJ,2020,269,Fígado,15.62,falecidos
+RJ,2020,0,Coração,0,vivos
+RJ,2020,23,Coração,1.34,falecidos
+RJ,2020,0,Pulmão,0,vivos
+RJ,2020,0,Pulmão,0,falecidos
+RJ,2020,0,Pancreas,0,vivos
+RJ,2020,12,Pancreas,0.7,falecidos
+RJ,2020,0,Córnea,0,vivos
+RJ,2020,368,Córnea,21.37,falecidos
+RJ,2020,209,Medula,12.14,Autologos
+RJ,2020,77,Medula,4.47,Alogenicos aparentado
+RJ,2020,0,Medula,0,Alogenicos desconhecido
+RJ,2020,25,Medula,1.45,Alogenicos não aparentado
+RJ,2020,15,Medula,0.87,Sem modalidade
+RJ,2020,326,Medula,18.93,vivos
+RJ,2021,42,Rim,2.44,vivos
+RJ,2021,403,Rim,23.4,falecidos
+RJ,2021,12,Fígado,0.7,vivos
+RJ,2021,263,Fígado,15.27,falecidos
+RJ,2021,0,Coração,0,vivos
+RJ,2021,36,Coração,2.09,falecidos
+RJ,2021,0,Pulmão,0,vivos
+RJ,2021,1,Pulmão,0.06,falecidos
+RJ,2021,0,Pancreas,0,vivos
+RJ,2021,12,Pancreas,0.7,falecidos
+RJ,2021,0,Córnea,0,vivos
+RJ,2021,576,Córnea,33.45,falecidos
+RJ,2021,157,Medula,9.12,Autologos
+RJ,2021,69,Medula,4.01,Alogenicos aparentado
+RJ,2021,0,Medula,0,Alogenicos desconhecido
+RJ,2021,26,Medula,1.51,Alogenicos não aparentado
+RJ,2021,2,Medula,0.12,Sem modalidade
+RJ,2021,254,Medula,14.75,vivos
+RJ,2022,35,Rim,2.03,vivos
+RJ,2022,437,Rim,25.39,falecidos
+RJ,2022,24,Fígado,1.39,vivos
+RJ,2022,278,Fígado,16.15,falecidos
+RJ,2022,0,Coração,0,vivos
+RJ,2022,35,Coração,2.03,falecidos
+RJ,2022,0,Pulmão,0,vivos
+RJ,2022,3,Pulmão,0.17,falecidos
+RJ,2022,0,Pancreas,0,vivos
+RJ,2022,12,Pancreas,0.7,falecidos
+RJ,2022,0,Córnea,0,vivos
+RJ,2022,552,Córnea,32.07,falecidos
+RJ,2022,187,Medula,10.86,Autologos
+RJ,2022,76,Medula,4.42,Alogenicos aparentado
+RJ,2022,0,Medula,0,Alogenicos desconhecido
+RJ,2022,32,Medula,1.86,Alogenicos não aparentado
+RJ,2022,7,Medula,0.41,Sem modalidade
+RJ,2022,302,Medula,17.55,vivos
+RJ,2023,43,Rim,2.5,vivos
+RJ,2023,477,Rim,27.71,falecidos
+RJ,2023,22,Fígado,1.28,vivos
+RJ,2023,294,Fígado,17.08,falecidos
+RJ,2023,0,Coração,0,vivos
+RJ,2023,36,Coração,2.09,falecidos
+RJ,2023,0,Pulmão,0,vivos
+RJ,2023,11,Pulmão,0.64,falecidos
+RJ,2023,0,Pancreas,0,vivos
+RJ,2023,7,Pancreas,0.41,falecidos
+RJ,2023,0,Córnea,0,vivos
+RJ,2023,610,Córnea,35.44,falecidos
+RJ,2023,205,Medula,11.91,Autologos
+RJ,2023,89,Medula,5.17,Alogenicos aparentado
+RJ,2023,0,Medula,0,Alogenicos desconhecido
+RJ,2023,33,Medula,1.92,Alogenicos não aparentado
+RJ,2023,3,Medula,0.17,Sem modalidade
+RJ,2023,330,Medula,19.17,vivos
+RJ,2024,44,Rim,2.56,vivos
+RJ,2024,547,Rim,31.77,falecidos
+RJ,2024,15,Fígado,0.87,vivos
+RJ,2024,297,Fígado,17.25,falecidos
+RJ,2024,0,Coração,0,vivos
+RJ,2024,29,Coração,1.68,falecidos
+RJ,2024,0,Pulmão,0,vivos
+RJ,2024,9,Pulmão,0.52,falecidos
+RJ,2024,0,Pancreas,0,vivos
+RJ,2024,9,Pancreas,0.52,falecidos
+RJ,2024,0,Córnea,0,vivos
+RJ,2024,620,Córnea,36,falecidos
+RJ,2024,136,Medula,7.9,Autologos
+RJ,2024,19,Medula,1.1,Alogenicos aparentado
+RJ,2024,79,Medula,4.59,Alogenicos desconhecido
+RJ,2024,7,Medula,0.41,Alogenicos não aparentado
+RJ,2024,0,Medula,0,Sem modalidade
+RJ,2024,241,Medula,14,vivos
+RJ,2025,45,Rim,2.61,vivos
+RJ,2025,526,Rim,30.54,falecidos
+RJ,2025,18,Fígado,1.05,vivos
+RJ,2025,273,Fígado,15.85,falecidos
+RJ,2025,0,Coração,0,vivos
+RJ,2025,23,Coração,1.34,falecidos
+RJ,2025,0,Pulmão,0,vivos
+RJ,2025,11,Pulmão,0.64,falecidos
+RJ,2025,0,Pancreas,0,vivos
+RJ,2025,7,Pancreas,0.41,falecidos
+RJ,2025,0,Córnea,0,vivos
+RJ,2025,659,Córnea,38.26,falecidos
+RJ,2025,156,Medula,9.06,Autologos
+RJ,2025,33,Medula,1.92,Alogenicos aparentado
+RJ,2025,49,Medula,2.84,Alogenicos desconhecido
+RJ,2025,26,Medula,1.51,Alogenicos não aparentado
+RJ,2025,0,Medula,0,Sem modalidade
+RJ,2025,264,Medula,15.33,vivos
+RJ,2026,32,Rim,1.86,vivos
+RJ,2026,352,Rim,20.44,falecidos
+RJ,2026,8,Fígado,0.46,vivos
+RJ,2026,187,Fígado,10.86,falecidos
+RJ,2026,0,Coração,0,vivos
+RJ,2026,19,Coração,1.1,falecidos
+RJ,2026,0,Pulmão,0,vivos
+RJ,2026,11,Pulmão,0.64,falecidos
+RJ,2026,0,Pancreas,0,vivos
+RJ,2026,8,Pancreas,0.46,falecidos
+RJ,2026,0,Córnea,0,vivos
+RJ,2026,482,Córnea,27.98,falecidos
+RJ,2026,89,Medula,5.17,Autologos
+RJ,2026,48,Medula,2.79,Alogenicos aparentado
+RJ,2026,0,Medula,0,Alogenicos desconhecido
+RJ,2026,30,Medula,1.74,Alogenicos não aparentado
+RJ,2026,0,Medula,0,Sem modalidade
+RJ,2026,167,Medula,9.7,vivos
+RN,2015,7,Rim,2.11,vivos
+RN,2015,60,Rim,18.06,falecidos
+RN,2015,0,Fígado,0,vivos
+RN,2015,0,Fígado,0,falecidos
+RN,2015,0,Coração,0,vivos
+RN,2015,0,Coração,0,falecidos
+RN,2015,0,Pulmão,0,vivos
+RN,2015,0,Pulmão,0,falecidos
+RN,2015,0,Pancreas,0,vivos
+RN,2015,0,Pancreas,0,falecidos
+RN,2015,0,Córnea,0,vivos
+RN,2015,131,Córnea,39.43,falecidos
+RN,2015,26,Medula,7.83,Autologos
+RN,2015,10,Medula,3.01,Alogenicos aparentado
+RN,2015,0,Medula,0,Alogenicos desconhecido
+RN,2015,10,Medula,3.01,Alogenicos não aparentado
+RN,2015,0,Medula,0,Sem modalidade
+RN,2015,46,Medula,13.85,vivos
+RN,2016,11,Rim,3.29,vivos
+RN,2016,56,Rim,16.76,falecidos
+RN,2016,0,Fígado,0,vivos
+RN,2016,0,Fígado,0,falecidos
+RN,2016,0,Coração,0,vivos
+RN,2016,0,Coração,0,falecidos
+RN,2016,0,Pulmão,0,vivos
+RN,2016,0,Pulmão,0,falecidos
+RN,2016,0,Pancreas,0,vivos
+RN,2016,0,Pancreas,0,falecidos
+RN,2016,0,Córnea,0,vivos
+RN,2016,104,Córnea,31.12,falecidos
+RN,2016,24,Medula,7.18,Autologos
+RN,2016,17,Medula,5.09,Alogenicos aparentado
+RN,2016,0,Medula,0,Alogenicos desconhecido
+RN,2016,16,Medula,4.79,Alogenicos não aparentado
+RN,2016,0,Medula,0,Sem modalidade
+RN,2016,57,Medula,17.06,vivos
+RN,2017,12,Rim,3.57,vivos
+RN,2017,48,Rim,14.29,falecidos
+RN,2017,0,Fígado,0,vivos
+RN,2017,0,Fígado,0,falecidos
+RN,2017,0,Coração,0,vivos
+RN,2017,0,Coração,0,falecidos
+RN,2017,0,Pulmão,0,vivos
+RN,2017,0,Pulmão,0,falecidos
+RN,2017,0,Pancreas,0,vivos
+RN,2017,0,Pancreas,0,falecidos
+RN,2017,0,Córnea,0,vivos
+RN,2017,177,Córnea,52.69,falecidos
+RN,2017,0,Medula,0,Autologos
+RN,2017,0,Medula,0,Alogenicos aparentado
+RN,2017,0,Medula,0,Alogenicos desconhecido
+RN,2017,0,Medula,0,Alogenicos não aparentado
+RN,2017,0,Medula,0,Sem modalidade
+RN,2017,0,Medula,0,vivos
+RN,2018,6,Rim,1.78,vivos
+RN,2018,39,Rim,11.55,falecidos
+RN,2018,0,Fígado,0,vivos
+RN,2018,0,Fígado,0,falecidos
+RN,2018,0,Coração,0,vivos
+RN,2018,0,Coração,0,falecidos
+RN,2018,0,Pulmão,0,vivos
+RN,2018,0,Pulmão,0,falecidos
+RN,2018,0,Pancreas,0,vivos
+RN,2018,0,Pancreas,0,falecidos
+RN,2018,0,Córnea,0,vivos
+RN,2018,166,Córnea,49.17,falecidos
+RN,2018,0,Medula,0,Autologos
+RN,2018,0,Medula,0,Alogenicos aparentado
+RN,2018,0,Medula,0,Alogenicos desconhecido
+RN,2018,0,Medula,0,Alogenicos não aparentado
+RN,2018,0,Medula,0,Sem modalidade
+RN,2018,0,Medula,0,vivos
+RN,2019,9,Rim,2.65,vivos
+RN,2019,67,Rim,19.75,falecidos
+RN,2019,0,Fígado,0,vivos
+RN,2019,0,Fígado,0,falecidos
+RN,2019,0,Coração,0,vivos
+RN,2019,0,Coração,0,falecidos
+RN,2019,0,Pulmão,0,vivos
+RN,2019,0,Pulmão,0,falecidos
+RN,2019,0,Pancreas,0,vivos
+RN,2019,0,Pancreas,0,falecidos
+RN,2019,0,Córnea,0,vivos
+RN,2019,140,Córnea,41.27,falecidos
+RN,2019,69,Medula,20.34,Autologos
+RN,2019,20,Medula,5.9,Alogenicos aparentado
+RN,2019,0,Medula,0,Alogenicos desconhecido
+RN,2019,7,Medula,2.06,Alogenicos não aparentado
+RN,2019,0,Medula,0,Sem modalidade
+RN,2019,96,Medula,28.3,vivos
+RN,2020,7,Rim,2.05,vivos
+RN,2020,41,Rim,12.03,falecidos
+RN,2020,0,Fígado,0,vivos
+RN,2020,0,Fígado,0,falecidos
+RN,2020,0,Coração,0,vivos
+RN,2020,0,Coração,0,falecidos
+RN,2020,0,Pulmão,0,vivos
+RN,2020,0,Pulmão,0,falecidos
+RN,2020,0,Pancreas,0,vivos
+RN,2020,0,Pancreas,0,falecidos
+RN,2020,0,Córnea,0,vivos
+RN,2020,93,Córnea,27.29,falecidos
+RN,2020,61,Medula,17.9,Autologos
+RN,2020,23,Medula,6.75,Alogenicos aparentado
+RN,2020,0,Medula,0,Alogenicos desconhecido
+RN,2020,9,Medula,2.64,Alogenicos não aparentado
+RN,2020,0,Medula,0,Sem modalidade
+RN,2020,93,Medula,27.29,vivos
+RN,2021,3,Rim,0.88,vivos
+RN,2021,15,Rim,4.39,falecidos
+RN,2021,0,Fígado,0,vivos
+RN,2021,0,Fígado,0,falecidos
+RN,2021,0,Coração,0,vivos
+RN,2021,0,Coração,0,falecidos
+RN,2021,0,Pulmão,0,vivos
+RN,2021,0,Pulmão,0,falecidos
+RN,2021,0,Pancreas,0,vivos
+RN,2021,0,Pancreas,0,falecidos
+RN,2021,0,Córnea,0,vivos
+RN,2021,97,Córnea,28.37,falecidos
+RN,2021,92,Medula,26.91,Autologos
+RN,2021,43,Medula,12.58,Alogenicos aparentado
+RN,2021,0,Medula,0,Alogenicos desconhecido
+RN,2021,8,Medula,2.34,Alogenicos não aparentado
+RN,2021,2,Medula,0.58,Sem modalidade
+RN,2021,145,Medula,42.41,vivos
+RN,2022,9,Rim,2.63,vivos
+RN,2022,39,Rim,11.38,falecidos
+RN,2022,0,Fígado,0,vivos
+RN,2022,0,Fígado,0,falecidos
+RN,2022,0,Coração,0,vivos
+RN,2022,2,Coração,0.58,falecidos
+RN,2022,0,Pulmão,0,vivos
+RN,2022,0,Pulmão,0,falecidos
+RN,2022,0,Pancreas,0,vivos
+RN,2022,0,Pancreas,0,falecidos
+RN,2022,0,Córnea,0,vivos
+RN,2022,135,Córnea,39.38,falecidos
+RN,2022,107,Medula,31.21,Autologos
+RN,2022,41,Medula,11.96,Alogenicos aparentado
+RN,2022,0,Medula,0,Alogenicos desconhecido
+RN,2022,10,Medula,2.92,Alogenicos não aparentado
+RN,2022,0,Medula,0,Sem modalidade
+RN,2022,158,Medula,46.09,vivos
+RN,2023,7,Rim,2.04,vivos
+RN,2023,46,Rim,13.39,falecidos
+RN,2023,0,Fígado,0,vivos
+RN,2023,0,Fígado,0,falecidos
+RN,2023,0,Coração,0,vivos
+RN,2023,4,Coração,1.16,falecidos
+RN,2023,0,Pulmão,0,vivos
+RN,2023,0,Pulmão,0,falecidos
+RN,2023,0,Pancreas,0,vivos
+RN,2023,0,Pancreas,0,falecidos
+RN,2023,0,Córnea,0,vivos
+RN,2023,159,Córnea,46.27,falecidos
+RN,2023,60,Medula,17.46,Autologos
+RN,2023,43,Medula,12.51,Alogenicos aparentado
+RN,2023,0,Medula,0,Alogenicos desconhecido
+RN,2023,10,Medula,2.91,Alogenicos não aparentado
+RN,2023,0,Medula,0,Sem modalidade
+RN,2023,113,Medula,32.89,vivos
+RN,2024,7,Rim,2.03,vivos
+RN,2024,53,Rim,15.38,falecidos
+RN,2024,0,Fígado,0,vivos
+RN,2024,0,Fígado,0,falecidos
+RN,2024,0,Coração,0,vivos
+RN,2024,1,Coração,0.29,falecidos
+RN,2024,0,Pulmão,0,vivos
+RN,2024,0,Pulmão,0,falecidos
+RN,2024,0,Pancreas,0,vivos
+RN,2024,0,Pancreas,0,falecidos
+RN,2024,0,Córnea,0,vivos
+RN,2024,217,Córnea,62.97,falecidos
+RN,2024,33,Medula,9.58,Autologos
+RN,2024,14,Medula,4.06,Alogenicos aparentado
+RN,2024,10,Medula,2.9,Alogenicos desconhecido
+RN,2024,5,Medula,1.45,Alogenicos não aparentado
+RN,2024,0,Medula,0,Sem modalidade
+RN,2024,62,Medula,17.99,vivos
+RN,2025,2,Rim,0.58,vivos
+RN,2025,61,Rim,17.66,falecidos
+RN,2025,0,Fígado,0,vivos
+RN,2025,0,Fígado,0,falecidos
+RN,2025,0,Coração,0,vivos
+RN,2025,1,Coração,0.29,falecidos
+RN,2025,0,Pulmão,0,vivos
+RN,2025,0,Pulmão,0,falecidos
+RN,2025,0,Pancreas,0,vivos
+RN,2025,0,Pancreas,0,falecidos
+RN,2025,0,Córnea,0,vivos
+RN,2025,187,Córnea,54.12,falecidos
+RN,2025,103,Medula,29.81,Autologos
+RN,2025,38,Medula,11,Alogenicos aparentado
+RN,2025,0,Medula,0,Alogenicos desconhecido
+RN,2025,17,Medula,4.92,Alogenicos não aparentado
+RN,2025,0,Medula,0,Sem modalidade
+RN,2025,158,Medula,45.73,vivos
+RN,2026,3,Rim,0.87,vivos
+RN,2026,54,Rim,15.59,falecidos
+RN,2026,0,Fígado,0,vivos
+RN,2026,0,Fígado,0,falecidos
+RN,2026,0,Coração,0,vivos
+RN,2026,1,Coração,0.29,falecidos
+RN,2026,0,Pulmão,0,vivos
+RN,2026,0,Pulmão,0,falecidos
+RN,2026,0,Pancreas,0,vivos
+RN,2026,0,Pancreas,0,falecidos
+RN,2026,0,Córnea,0,vivos
+RN,2026,208,Córnea,60.05,falecidos
+RN,2026,17,Medula,4.91,Autologos
+RN,2026,19,Medula,5.48,Alogenicos aparentado
+RN,2026,0,Medula,0,Alogenicos desconhecido
+RN,2026,5,Medula,1.44,Alogenicos não aparentado
+RN,2026,0,Medula,0,Sem modalidade
+RN,2026,41,Medula,11.84,vivos
+RO,2015,5,Rim,3,vivos
+RO,2015,6,Rim,3.6,falecidos
+RO,2015,0,Fígado,0,vivos
+RO,2015,0,Fígado,0,falecidos
+RO,2015,0,Coração,0,vivos
+RO,2015,0,Coração,0,falecidos
+RO,2015,0,Pulmão,0,vivos
+RO,2015,0,Pulmão,0,falecidos
+RO,2015,0,Pancreas,0,vivos
+RO,2015,0,Pancreas,0,falecidos
+RO,2015,0,Córnea,0,vivos
+RO,2015,59,Córnea,35.39,falecidos
+RO,2015,0,Medula,0,Autologos
+RO,2015,0,Medula,0,Alogenicos aparentado
+RO,2015,0,Medula,0,Alogenicos desconhecido
+RO,2015,0,Medula,0,Alogenicos não aparentado
+RO,2015,0,Medula,0,Sem modalidade
+RO,2015,0,Medula,0,vivos
+RO,2016,8,Rim,4.76,vivos
+RO,2016,10,Rim,5.95,falecidos
+RO,2016,0,Fígado,0,vivos
+RO,2016,0,Fígado,0,falecidos
+RO,2016,0,Coração,0,vivos
+RO,2016,0,Coração,0,falecidos
+RO,2016,0,Pulmão,0,vivos
+RO,2016,0,Pulmão,0,falecidos
+RO,2016,0,Pancreas,0,vivos
+RO,2016,0,Pancreas,0,falecidos
+RO,2016,0,Córnea,0,vivos
+RO,2016,83,Córnea,49.4,falecidos
+RO,2016,0,Medula,0,Autologos
+RO,2016,0,Medula,0,Alogenicos aparentado
+RO,2016,0,Medula,0,Alogenicos desconhecido
+RO,2016,0,Medula,0,Alogenicos não aparentado
+RO,2016,0,Medula,0,Sem modalidade
+RO,2016,0,Medula,0,vivos
+RO,2017,6,Rim,3.55,vivos
+RO,2017,18,Rim,10.64,falecidos
+RO,2017,0,Fígado,0,vivos
+RO,2017,0,Fígado,0,falecidos
+RO,2017,0,Coração,0,vivos
+RO,2017,0,Coração,0,falecidos
+RO,2017,0,Pulmão,0,vivos
+RO,2017,0,Pulmão,0,falecidos
+RO,2017,0,Pancreas,0,vivos
+RO,2017,0,Pancreas,0,falecidos
+RO,2017,0,Córnea,0,vivos
+RO,2017,97,Córnea,57.33,falecidos
+RO,2017,0,Medula,0,Autologos
+RO,2017,0,Medula,0,Alogenicos aparentado
+RO,2017,0,Medula,0,Alogenicos desconhecido
+RO,2017,0,Medula,0,Alogenicos não aparentado
+RO,2017,0,Medula,0,Sem modalidade
+RO,2017,0,Medula,0,vivos
+RO,2018,3,Rim,1.76,vivos
+RO,2018,9,Rim,5.29,falecidos
+RO,2018,0,Fígado,0,vivos
+RO,2018,0,Fígado,0,falecidos
+RO,2018,0,Coração,0,vivos
+RO,2018,0,Coração,0,falecidos
+RO,2018,0,Pulmão,0,vivos
+RO,2018,0,Pulmão,0,falecidos
+RO,2018,0,Pancreas,0,vivos
+RO,2018,0,Pancreas,0,falecidos
+RO,2018,0,Córnea,0,vivos
+RO,2018,123,Córnea,72.27,falecidos
+RO,2018,0,Medula,0,Autologos
+RO,2018,0,Medula,0,Alogenicos aparentado
+RO,2018,0,Medula,0,Alogenicos desconhecido
+RO,2018,0,Medula,0,Alogenicos não aparentado
+RO,2018,0,Medula,0,Sem modalidade
+RO,2018,0,Medula,0,vivos
+RO,2019,3,Rim,1.75,vivos
+RO,2019,15,Rim,8.76,falecidos
+RO,2019,0,Fígado,0,vivos
+RO,2019,0,Fígado,0,falecidos
+RO,2019,0,Coração,0,vivos
+RO,2019,0,Coração,0,falecidos
+RO,2019,0,Pulmão,0,vivos
+RO,2019,0,Pulmão,0,falecidos
+RO,2019,0,Pancreas,0,vivos
+RO,2019,0,Pancreas,0,falecidos
+RO,2019,0,Córnea,0,vivos
+RO,2019,90,Córnea,52.54,falecidos
+RO,2019,0,Medula,0,Autologos
+RO,2019,0,Medula,0,Alogenicos aparentado
+RO,2019,0,Medula,0,Alogenicos desconhecido
+RO,2019,0,Medula,0,Alogenicos não aparentado
+RO,2019,0,Medula,0,Sem modalidade
+RO,2019,0,Medula,0,vivos
+RO,2020,1,Rim,0.58,vivos
+RO,2020,0,Rim,0,falecidos
+RO,2020,0,Fígado,0,vivos
+RO,2020,0,Fígado,0,falecidos
+RO,2020,0,Coração,0,vivos
+RO,2020,0,Coração,0,falecidos
+RO,2020,0,Pulmão,0,vivos
+RO,2020,0,Pulmão,0,falecidos
+RO,2020,0,Pancreas,0,vivos
+RO,2020,0,Pancreas,0,falecidos
+RO,2020,0,Córnea,0,vivos
+RO,2020,44,Córnea,25.54,falecidos
+RO,2020,0,Medula,0,Autologos
+RO,2020,0,Medula,0,Alogenicos aparentado
+RO,2020,0,Medula,0,Alogenicos desconhecido
+RO,2020,0,Medula,0,Alogenicos não aparentado
+RO,2020,0,Medula,0,Sem modalidade
+RO,2020,0,Medula,0,vivos
+RO,2021,0,Rim,0,vivos
+RO,2021,0,Rim,0,falecidos
+RO,2021,0,Fígado,0,vivos
+RO,2021,0,Fígado,0,falecidos
+RO,2021,0,Coração,0,vivos
+RO,2021,0,Coração,0,falecidos
+RO,2021,0,Pulmão,0,vivos
+RO,2021,0,Pulmão,0,falecidos
+RO,2021,0,Pancreas,0,vivos
+RO,2021,0,Pancreas,0,falecidos
+RO,2021,0,Córnea,0,vivos
+RO,2021,39,Córnea,22.54,falecidos
+RO,2021,0,Medula,0,Autologos
+RO,2021,0,Medula,0,Alogenicos aparentado
+RO,2021,0,Medula,0,Alogenicos desconhecido
+RO,2021,0,Medula,0,Alogenicos não aparentado
+RO,2021,0,Medula,0,Sem modalidade
+RO,2021,0,Medula,0,vivos
+RO,2022,4,Rim,2.31,vivos
+RO,2022,0,Rim,0,falecidos
+RO,2022,0,Fígado,0,vivos
+RO,2022,0,Fígado,0,falecidos
+RO,2022,0,Coração,0,vivos
+RO,2022,0,Coração,0,falecidos
+RO,2022,0,Pulmão,0,vivos
+RO,2022,0,Pulmão,0,falecidos
+RO,2022,0,Pancreas,0,vivos
+RO,2022,0,Pancreas,0,falecidos
+RO,2022,0,Córnea,0,vivos
+RO,2022,98,Córnea,56.48,falecidos
+RO,2022,0,Medula,0,Autologos
+RO,2022,0,Medula,0,Alogenicos aparentado
+RO,2022,0,Medula,0,Alogenicos desconhecido
+RO,2022,0,Medula,0,Alogenicos não aparentado
+RO,2022,0,Medula,0,Sem modalidade
+RO,2022,0,Medula,0,vivos
+RO,2023,1,Rim,0.57,vivos
+RO,2023,0,Rim,0,falecidos
+RO,2023,0,Fígado,0,vivos
+RO,2023,0,Fígado,0,falecidos
+RO,2023,0,Coração,0,vivos
+RO,2023,0,Coração,0,falecidos
+RO,2023,0,Pulmão,0,vivos
+RO,2023,0,Pulmão,0,falecidos
+RO,2023,0,Pancreas,0,vivos
+RO,2023,0,Pancreas,0,falecidos
+RO,2023,0,Córnea,0,vivos
+RO,2023,91,Córnea,52.3,falecidos
+RO,2023,0,Medula,0,Autologos
+RO,2023,0,Medula,0,Alogenicos aparentado
+RO,2023,0,Medula,0,Alogenicos desconhecido
+RO,2023,0,Medula,0,Alogenicos não aparentado
+RO,2023,0,Medula,0,Sem modalidade
+RO,2023,0,Medula,0,vivos
+RO,2024,0,Rim,0,vivos
+RO,2024,0,Rim,0,falecidos
+RO,2024,0,Fígado,0,vivos
+RO,2024,0,Fígado,0,falecidos
+RO,2024,0,Coração,0,vivos
+RO,2024,0,Coração,0,falecidos
+RO,2024,0,Pulmão,0,vivos
+RO,2024,0,Pulmão,0,falecidos
+RO,2024,0,Pancreas,0,vivos
+RO,2024,0,Pancreas,0,falecidos
+RO,2024,0,Córnea,0,vivos
+RO,2024,196,Córnea,112.26,falecidos
+RO,2024,0,Medula,0,Autologos
+RO,2024,0,Medula,0,Alogenicos aparentado
+RO,2024,0,Medula,0,Alogenicos desconhecido
+RO,2024,0,Medula,0,Alogenicos não aparentado
+RO,2024,0,Medula,0,Sem modalidade
+RO,2024,0,Medula,0,vivos
+RO,2025,0,Rim,0,vivos
+RO,2025,7,Rim,4,falecidos
+RO,2025,0,Fígado,0,vivos
+RO,2025,0,Fígado,0,falecidos
+RO,2025,0,Coração,0,vivos
+RO,2025,0,Coração,0,falecidos
+RO,2025,0,Pulmão,0,vivos
+RO,2025,0,Pulmão,0,falecidos
+RO,2025,0,Pancreas,0,vivos
+RO,2025,0,Pancreas,0,falecidos
+RO,2025,0,Córnea,0,vivos
+RO,2025,93,Córnea,53.08,falecidos
+RO,2025,0,Medula,0,Autologos
+RO,2025,0,Medula,0,Alogenicos aparentado
+RO,2025,0,Medula,0,Alogenicos desconhecido
+RO,2025,0,Medula,0,Alogenicos não aparentado
+RO,2025,0,Medula,0,Sem modalidade
+RO,2025,0,Medula,0,vivos
+RO,2026,0,Rim,0,vivos
+RO,2026,4,Rim,2.28,falecidos
+RO,2026,0,Fígado,0,vivos
+RO,2026,0,Fígado,0,falecidos
+RO,2026,0,Coração,0,vivos
+RO,2026,0,Coração,0,falecidos
+RO,2026,0,Pulmão,0,vivos
+RO,2026,0,Pulmão,0,falecidos
+RO,2026,0,Pancreas,0,vivos
+RO,2026,0,Pancreas,0,falecidos
+RO,2026,0,Córnea,0,vivos
+RO,2026,69,Córnea,39.27,falecidos
+RO,2026,0,Medula,0,Autologos
+RO,2026,0,Medula,0,Alogenicos aparentado
+RO,2026,0,Medula,0,Alogenicos desconhecido
+RO,2026,0,Medula,0,Alogenicos não aparentado
+RO,2026,0,Medula,0,Sem modalidade
+RO,2026,0,Medula,0,vivos
+RR,2015,0,Rim,0,vivos
+RR,2015,0,Rim,0,falecidos
+RR,2015,0,Fígado,0,vivos
+RR,2015,0,Fígado,0,falecidos
+RR,2015,0,Coração,0,vivos
+RR,2015,0,Coração,0,falecidos
+RR,2015,0,Pulmão,0,vivos
+RR,2015,0,Pulmão,0,falecidos
+RR,2015,0,Pancreas,0,vivos
+RR,2015,0,Pancreas,0,falecidos
+RR,2015,0,Córnea,0,vivos
+RR,2015,0,Córnea,0,falecidos
+RR,2015,0,Medula,0,Autologos
+RR,2015,0,Medula,0,Alogenicos aparentado
+RR,2015,0,Medula,0,Alogenicos desconhecido
+RR,2015,0,Medula,0,Alogenicos não aparentado
+RR,2015,0,Medula,0,Sem modalidade
+RR,2015,0,Medula,0,vivos
+RR,2016,0,Rim,0,vivos
+RR,2016,0,Rim,0,falecidos
+RR,2016,0,Fígado,0,vivos
+RR,2016,0,Fígado,0,falecidos
+RR,2016,0,Coração,0,vivos
+RR,2016,0,Coração,0,falecidos
+RR,2016,0,Pulmão,0,vivos
+RR,2016,0,Pulmão,0,falecidos
+RR,2016,0,Pancreas,0,vivos
+RR,2016,0,Pancreas,0,falecidos
+RR,2016,0,Córnea,0,vivos
+RR,2016,0,Córnea,0,falecidos
+RR,2016,0,Medula,0,Autologos
+RR,2016,0,Medula,0,Alogenicos aparentado
+RR,2016,0,Medula,0,Alogenicos desconhecido
+RR,2016,0,Medula,0,Alogenicos não aparentado
+RR,2016,0,Medula,0,Sem modalidade
+RR,2016,0,Medula,0,vivos
+RR,2017,0,Rim,0,vivos
+RR,2017,0,Rim,0,falecidos
+RR,2017,0,Fígado,0,vivos
+RR,2017,0,Fígado,0,falecidos
+RR,2017,0,Coração,0,vivos
+RR,2017,0,Coração,0,falecidos
+RR,2017,0,Pulmão,0,vivos
+RR,2017,0,Pulmão,0,falecidos
+RR,2017,0,Pancreas,0,vivos
+RR,2017,0,Pancreas,0,falecidos
+RR,2017,0,Córnea,0,vivos
+RR,2017,0,Córnea,0,falecidos
+RR,2017,0,Medula,0,Autologos
+RR,2017,0,Medula,0,Alogenicos aparentado
+RR,2017,0,Medula,0,Alogenicos desconhecido
+RR,2017,0,Medula,0,Alogenicos não aparentado
+RR,2017,0,Medula,0,Sem modalidade
+RR,2017,0,Medula,0,vivos
+RR,2018,0,Rim,0,vivos
+RR,2018,0,Rim,0,falecidos
+RR,2018,0,Fígado,0,vivos
+RR,2018,0,Fígado,0,falecidos
+RR,2018,0,Coração,0,vivos
+RR,2018,0,Coração,0,falecidos
+RR,2018,0,Pulmão,0,vivos
+RR,2018,0,Pulmão,0,falecidos
+RR,2018,0,Pancreas,0,vivos
+RR,2018,0,Pancreas,0,falecidos
+RR,2018,0,Córnea,0,vivos
+RR,2018,0,Córnea,0,falecidos
+RR,2018,0,Medula,0,Autologos
+RR,2018,0,Medula,0,Alogenicos aparentado
+RR,2018,0,Medula,0,Alogenicos desconhecido
+RR,2018,0,Medula,0,Alogenicos não aparentado
+RR,2018,0,Medula,0,Sem modalidade
+RR,2018,0,Medula,0,vivos
+RR,2019,0,Rim,0,vivos
+RR,2019,0,Rim,0,falecidos
+RR,2019,0,Fígado,0,vivos
+RR,2019,0,Fígado,0,falecidos
+RR,2019,0,Coração,0,vivos
+RR,2019,0,Coração,0,falecidos
+RR,2019,0,Pulmão,0,vivos
+RR,2019,0,Pulmão,0,falecidos
+RR,2019,0,Pancreas,0,vivos
+RR,2019,0,Pancreas,0,falecidos
+RR,2019,0,Córnea,0,vivos
+RR,2019,0,Córnea,0,falecidos
+RR,2019,0,Medula,0,Autologos
+RR,2019,0,Medula,0,Alogenicos aparentado
+RR,2019,0,Medula,0,Alogenicos desconhecido
+RR,2019,0,Medula,0,Alogenicos não aparentado
+RR,2019,0,Medula,0,Sem modalidade
+RR,2019,0,Medula,0,vivos
+RR,2020,0,Rim,0,vivos
+RR,2020,0,Rim,0,falecidos
+RR,2020,0,Fígado,0,vivos
+RR,2020,0,Fígado,0,falecidos
+RR,2020,0,Coração,0,vivos
+RR,2020,0,Coração,0,falecidos
+RR,2020,0,Pulmão,0,vivos
+RR,2020,0,Pulmão,0,falecidos
+RR,2020,0,Pancreas,0,vivos
+RR,2020,0,Pancreas,0,falecidos
+RR,2020,0,Córnea,0,vivos
+RR,2020,0,Córnea,0,falecidos
+RR,2020,0,Medula,0,Autologos
+RR,2020,0,Medula,0,Alogenicos aparentado
+RR,2020,0,Medula,0,Alogenicos desconhecido
+RR,2020,0,Medula,0,Alogenicos não aparentado
+RR,2020,0,Medula,0,Sem modalidade
+RR,2020,0,Medula,0,vivos
+RR,2021,0,Rim,0,vivos
+RR,2021,0,Rim,0,falecidos
+RR,2021,0,Fígado,0,vivos
+RR,2021,0,Fígado,0,falecidos
+RR,2021,0,Coração,0,vivos
+RR,2021,0,Coração,0,falecidos
+RR,2021,0,Pulmão,0,vivos
+RR,2021,0,Pulmão,0,falecidos
+RR,2021,0,Pancreas,0,vivos
+RR,2021,0,Pancreas,0,falecidos
+RR,2021,0,Córnea,0,vivos
+RR,2021,0,Córnea,0,falecidos
+RR,2021,0,Medula,0,Autologos
+RR,2021,0,Medula,0,Alogenicos aparentado
+RR,2021,0,Medula,0,Alogenicos desconhecido
+RR,2021,0,Medula,0,Alogenicos não aparentado
+RR,2021,0,Medula,0,Sem modalidade
+RR,2021,0,Medula,0,vivos
+RR,2022,0,Rim,0,vivos
+RR,2022,0,Rim,0,falecidos
+RR,2022,0,Fígado,0,vivos
+RR,2022,0,Fígado,0,falecidos
+RR,2022,0,Coração,0,vivos
+RR,2022,0,Coração,0,falecidos
+RR,2022,0,Pulmão,0,vivos
+RR,2022,0,Pulmão,0,falecidos
+RR,2022,0,Pancreas,0,vivos
+RR,2022,0,Pancreas,0,falecidos
+RR,2022,0,Córnea,0,vivos
+RR,2022,0,Córnea,0,falecidos
+RR,2022,0,Medula,0,Autologos
+RR,2022,0,Medula,0,Alogenicos aparentado
+RR,2022,0,Medula,0,Alogenicos desconhecido
+RR,2022,0,Medula,0,Alogenicos não aparentado
+RR,2022,0,Medula,0,Sem modalidade
+RR,2022,0,Medula,0,vivos
+RR,2023,0,Rim,0,vivos
+RR,2023,0,Rim,0,falecidos
+RR,2023,0,Fígado,0,vivos
+RR,2023,0,Fígado,0,falecidos
+RR,2023,0,Coração,0,vivos
+RR,2023,0,Coração,0,falecidos
+RR,2023,0,Pulmão,0,vivos
+RR,2023,0,Pulmão,0,falecidos
+RR,2023,0,Pancreas,0,vivos
+RR,2023,0,Pancreas,0,falecidos
+RR,2023,0,Córnea,0,vivos
+RR,2023,0,Córnea,0,falecidos
+RR,2023,0,Medula,0,Autologos
+RR,2023,0,Medula,0,Alogenicos aparentado
+RR,2023,0,Medula,0,Alogenicos desconhecido
+RR,2023,0,Medula,0,Alogenicos não aparentado
+RR,2023,0,Medula,0,Sem modalidade
+RR,2023,0,Medula,0,vivos
+RR,2024,0,Rim,0,vivos
+RR,2024,0,Rim,0,falecidos
+RR,2024,0,Fígado,0,vivos
+RR,2024,0,Fígado,0,falecidos
+RR,2024,0,Coração,0,vivos
+RR,2024,0,Coração,0,falecidos
+RR,2024,0,Pulmão,0,vivos
+RR,2024,0,Pulmão,0,falecidos
+RR,2024,0,Pancreas,0,vivos
+RR,2024,0,Pancreas,0,falecidos
+RR,2024,0,Córnea,0,vivos
+RR,2024,0,Córnea,0,falecidos
+RR,2024,0,Medula,0,Autologos
+RR,2024,0,Medula,0,Alogenicos aparentado
+RR,2024,0,Medula,0,Alogenicos desconhecido
+RR,2024,0,Medula,0,Alogenicos não aparentado
+RR,2024,0,Medula,0,Sem modalidade
+RR,2024,0,Medula,0,vivos
+RR,2025,0,Rim,0,vivos
+RR,2025,0,Rim,0,falecidos
+RR,2025,0,Fígado,0,vivos
+RR,2025,0,Fígado,0,falecidos
+RR,2025,0,Coração,0,vivos
+RR,2025,0,Coração,0,falecidos
+RR,2025,0,Pulmão,0,vivos
+RR,2025,0,Pulmão,0,falecidos
+RR,2025,0,Pancreas,0,vivos
+RR,2025,0,Pancreas,0,falecidos
+RR,2025,0,Córnea,0,vivos
+RR,2025,0,Córnea,0,falecidos
+RR,2025,0,Medula,0,Autologos
+RR,2025,0,Medula,0,Alogenicos aparentado
+RR,2025,0,Medula,0,Alogenicos desconhecido
+RR,2025,0,Medula,0,Alogenicos não aparentado
+RR,2025,0,Medula,0,Sem modalidade
+RR,2025,0,Medula,0,vivos
+RR,2026,0,Rim,0,vivos
+RR,2026,0,Rim,0,falecidos
+RR,2026,0,Fígado,0,vivos
+RR,2026,0,Fígado,0,falecidos
+RR,2026,0,Coração,0,vivos
+RR,2026,0,Coração,0,falecidos
+RR,2026,0,Pulmão,0,vivos
+RR,2026,0,Pulmão,0,falecidos
+RR,2026,0,Pancreas,0,vivos
+RR,2026,0,Pancreas,0,falecidos
+RR,2026,0,Córnea,0,vivos
+RR,2026,0,Córnea,0,falecidos
+RR,2026,0,Medula,0,Autologos
+RR,2026,0,Medula,0,Alogenicos aparentado
+RR,2026,0,Medula,0,Alogenicos desconhecido
+RR,2026,0,Medula,0,Alogenicos não aparentado
+RR,2026,0,Medula,0,Sem modalidade
+RR,2026,0,Medula,0,vivos
+RS,2015,54,Rim,4.88,vivos
+RS,2015,487,Rim,43.99,falecidos
+RS,2015,8,Fígado,0.72,vivos
+RS,2015,141,Fígado,12.74,falecidos
+RS,2015,0,Coração,0,vivos
+RS,2015,17,Coração,1.54,falecidos
+RS,2015,0,Pulmão,0,vivos
+RS,2015,32,Pulmão,2.89,falecidos
+RS,2015,0,Pancreas,0,vivos
+RS,2015,9,Pancreas,0.81,falecidos
+RS,2015,0,Córnea,0,vivos
+RS,2015,784,Córnea,70.82,falecidos
+RS,2015,148,Medula,13.37,Autologos
+RS,2015,50,Medula,4.52,Alogenicos aparentado
+RS,2015,0,Medula,0,Alogenicos desconhecido
+RS,2015,17,Medula,1.54,Alogenicos não aparentado
+RS,2015,1,Medula,0.09,Sem modalidade
+RS,2015,216,Medula,19.51,vivos
+RS,2016,38,Rim,3.42,vivos
+RS,2016,506,Rim,45.54,falecidos
+RS,2016,8,Fígado,0.72,vivos
+RS,2016,142,Fígado,12.78,falecidos
+RS,2016,0,Coração,0,vivos
+RS,2016,25,Coração,2.25,falecidos
+RS,2016,0,Pulmão,0,vivos
+RS,2016,35,Pulmão,3.15,falecidos
+RS,2016,0,Pancreas,0,vivos
+RS,2016,6,Pancreas,0.54,falecidos
+RS,2016,0,Córnea,0,vivos
+RS,2016,669,Córnea,60.22,falecidos
+RS,2016,140,Medula,12.6,Autologos
+RS,2016,58,Medula,5.22,Alogenicos aparentado
+RS,2016,0,Medula,0,Alogenicos desconhecido
+RS,2016,18,Medula,1.62,Alogenicos não aparentado
+RS,2016,4,Medula,0.36,Sem modalidade
+RS,2016,220,Medula,19.8,vivos
+RS,2017,28,Rim,2.51,vivos
+RS,2017,560,Rim,50.26,falecidos
+RS,2017,7,Fígado,0.63,vivos
+RS,2017,140,Fígado,12.57,falecidos
+RS,2017,0,Coração,0,vivos
+RS,2017,23,Coração,2.06,falecidos
+RS,2017,0,Pulmão,0,vivos
+RS,2017,51,Pulmão,4.58,falecidos
+RS,2017,0,Pancreas,0,vivos
+RS,2017,1,Pancreas,0.09,falecidos
+RS,2017,0,Córnea,0,vivos
+RS,2017,698,Córnea,62.65,falecidos
+RS,2017,170,Medula,15.26,Autologos
+RS,2017,46,Medula,4.13,Alogenicos aparentado
+RS,2017,0,Medula,0,Alogenicos desconhecido
+RS,2017,18,Medula,1.62,Alogenicos não aparentado
+RS,2017,0,Medula,0,Sem modalidade
+RS,2017,234,Medula,21,vivos
+RS,2018,29,Rim,2.6,vivos
+RS,2018,461,Rim,41.28,falecidos
+RS,2018,11,Fígado,0.98,vivos
+RS,2018,113,Fígado,10.12,falecidos
+RS,2018,0,Coração,0,vivos
+RS,2018,26,Coração,2.33,falecidos
+RS,2018,0,Pulmão,0,vivos
+RS,2018,61,Pulmão,5.46,falecidos
+RS,2018,0,Pancreas,0,vivos
+RS,2018,1,Pancreas,0.09,falecidos
+RS,2018,0,Córnea,0,vivos
+RS,2018,617,Córnea,55.25,falecidos
+RS,2018,213,Medula,19.07,Autologos
+RS,2018,47,Medula,4.21,Alogenicos aparentado
+RS,2018,0,Medula,0,Alogenicos desconhecido
+RS,2018,15,Medula,1.34,Alogenicos não aparentado
+RS,2018,0,Medula,0,Sem modalidade
+RS,2018,275,Medula,24.62,vivos
+RS,2019,34,Rim,3.04,vivos
+RS,2019,456,Rim,40.74,falecidos
+RS,2019,9,Fígado,0.8,vivos
+RS,2019,133,Fígado,11.88,falecidos
+RS,2019,0,Coração,0,vivos
+RS,2019,26,Coração,2.32,falecidos
+RS,2019,0,Pulmão,0,vivos
+RS,2019,46,Pulmão,4.11,falecidos
+RS,2019,0,Pancreas,0,vivos
+RS,2019,0,Pancreas,0,falecidos
+RS,2019,0,Córnea,0,vivos
+RS,2019,723,Córnea,64.59,falecidos
+RS,2019,222,Medula,19.83,Autologos
+RS,2019,43,Medula,3.84,Alogenicos aparentado
+RS,2019,0,Medula,0,Alogenicos desconhecido
+RS,2019,14,Medula,1.25,Alogenicos não aparentado
+RS,2019,12,Medula,1.07,Sem modalidade
+RS,2019,291,Medula,26,vivos
+RS,2020,13,Rim,1.16,vivos
+RS,2020,329,Rim,29.32,falecidos
+RS,2020,15,Fígado,1.34,vivos
+RS,2020,117,Fígado,10.43,falecidos
+RS,2020,0,Coração,0,vivos
+RS,2020,13,Coração,1.16,falecidos
+RS,2020,0,Pulmão,0,vivos
+RS,2020,22,Pulmão,1.96,falecidos
+RS,2020,0,Pancreas,0,vivos
+RS,2020,0,Pancreas,0,falecidos
+RS,2020,0,Córnea,0,vivos
+RS,2020,241,Córnea,21.48,falecidos
+RS,2020,183,Medula,16.31,Autologos
+RS,2020,46,Medula,4.1,Alogenicos aparentado
+RS,2020,0,Medula,0,Alogenicos desconhecido
+RS,2020,7,Medula,0.62,Alogenicos não aparentado
+RS,2020,3,Medula,0.27,Sem modalidade
+RS,2020,239,Medula,21.3,vivos
+RS,2021,18,Rim,1.6,vivos
+RS,2021,247,Rim,22,falecidos
+RS,2021,20,Fígado,1.78,vivos
+RS,2021,117,Fígado,10.42,falecidos
+RS,2021,0,Coração,0,vivos
+RS,2021,13,Coração,1.16,falecidos
+RS,2021,0,Pulmão,0,vivos
+RS,2021,23,Pulmão,2.05,falecidos
+RS,2021,0,Pancreas,0,vivos
+RS,2021,0,Pancreas,0,falecidos
+RS,2021,0,Córnea,0,vivos
+RS,2021,437,Córnea,38.92,falecidos
+RS,2021,222,Medula,19.77,Autologos
+RS,2021,55,Medula,4.9,Alogenicos aparentado
+RS,2021,0,Medula,0,Alogenicos desconhecido
+RS,2021,20,Medula,1.78,Alogenicos não aparentado
+RS,2021,4,Medula,0.36,Sem modalidade
+RS,2021,301,Medula,26.81,vivos
+RS,2022,25,Rim,2.23,vivos
+RS,2022,394,Rim,35.11,falecidos
+RS,2022,30,Fígado,2.67,vivos
+RS,2022,102,Fígado,9.09,falecidos
+RS,2022,0,Coração,0,vivos
+RS,2022,16,Coração,1.43,falecidos
+RS,2022,0,Pulmão,0,vivos
+RS,2022,36,Pulmão,3.21,falecidos
+RS,2022,0,Pancreas,0,vivos
+RS,2022,0,Pancreas,0,falecidos
+RS,2022,0,Córnea,0,vivos
+RS,2022,520,Córnea,46.34,falecidos
+RS,2022,241,Medula,21.48,Autologos
+RS,2022,62,Medula,5.53,Alogenicos aparentado
+RS,2022,0,Medula,0,Alogenicos desconhecido
+RS,2022,18,Medula,1.6,Alogenicos não aparentado
+RS,2022,0,Medula,0,Sem modalidade
+RS,2022,321,Medula,28.61,vivos
+RS,2023,27,Rim,2.41,vivos
+RS,2023,509,Rim,45.36,falecidos
+RS,2023,18,Fígado,1.6,vivos
+RS,2023,124,Fígado,11.05,falecidos
+RS,2023,0,Coração,0,vivos
+RS,2023,21,Coração,1.87,falecidos
+RS,2023,0,Pulmão,0,vivos
+RS,2023,34,Pulmão,3.03,falecidos
+RS,2023,0,Pancreas,0,vivos
+RS,2023,0,Pancreas,0,falecidos
+RS,2023,0,Córnea,0,vivos
+RS,2023,813,Córnea,72.45,falecidos
+RS,2023,224,Medula,19.96,Autologos
+RS,2023,69,Medula,6.15,Alogenicos aparentado
+RS,2023,0,Medula,0,Alogenicos desconhecido
+RS,2023,14,Medula,1.25,Alogenicos não aparentado
+RS,2023,0,Medula,0,Sem modalidade
+RS,2023,307,Medula,27.36,vivos
+RS,2024,33,Rim,2.94,vivos
+RS,2024,525,Rim,46.75,falecidos
+RS,2024,21,Fígado,1.87,vivos
+RS,2024,113,Fígado,10.06,falecidos
+RS,2024,0,Coração,0,vivos
+RS,2024,26,Coração,2.32,falecidos
+RS,2024,0,Pulmão,0,vivos
+RS,2024,35,Pulmão,3.12,falecidos
+RS,2024,0,Pancreas,0,vivos
+RS,2024,0,Pancreas,0,falecidos
+RS,2024,0,Córnea,0,vivos
+RS,2024,883,Córnea,78.63,falecidos
+RS,2024,189,Medula,16.83,Autologos
+RS,2024,34,Medula,3.03,Alogenicos aparentado
+RS,2024,34,Medula,3.03,Alogenicos desconhecido
+RS,2024,6,Medula,0.53,Alogenicos não aparentado
+RS,2024,4,Medula,0.36,Sem modalidade
+RS,2024,267,Medula,23.78,vivos
+RS,2025,31,Rim,2.76,vivos
+RS,2025,552,Rim,49.14,falecidos
+RS,2025,14,Fígado,1.25,vivos
+RS,2025,116,Fígado,10.33,falecidos
+RS,2025,0,Coração,0,vivos
+RS,2025,32,Coração,2.85,falecidos
+RS,2025,0,Pulmão,0,vivos
+RS,2025,35,Pulmão,3.12,falecidos
+RS,2025,0,Pancreas,0,vivos
+RS,2025,0,Pancreas,0,falecidos
+RS,2025,0,Córnea,0,vivos
+RS,2025,1036,Córnea,92.23,falecidos
+RS,2025,183,Medula,16.29,Autologos
+RS,2025,43,Medula,3.83,Alogenicos aparentado
+RS,2025,15,Medula,1.34,Alogenicos desconhecido
+RS,2025,25,Medula,2.23,Alogenicos não aparentado
+RS,2025,1,Medula,0.09,Sem modalidade
+RS,2025,267,Medula,23.77,vivos
+RS,2026,20,Rim,1.78,vivos
+RS,2026,408,Rim,36.32,falecidos
+RS,2026,8,Fígado,0.71,vivos
+RS,2026,94,Fígado,8.37,falecidos
+RS,2026,0,Coração,0,vivos
+RS,2026,24,Coração,2.14,falecidos
+RS,2026,0,Pulmão,0,vivos
+RS,2026,19,Pulmão,1.69,falecidos
+RS,2026,0,Pancreas,0,vivos
+RS,2026,0,Pancreas,0,falecidos
+RS,2026,0,Córnea,0,vivos
+RS,2026,728,Córnea,64.81,falecidos
+RS,2026,104,Medula,9.26,Autologos
+RS,2026,44,Medula,3.92,Alogenicos aparentado
+RS,2026,0,Medula,0,Alogenicos desconhecido
+RS,2026,14,Medula,1.25,Alogenicos não aparentado
+RS,2026,0,Medula,0,Sem modalidade
+RS,2026,162,Medula,14.42,vivos
+SC,2015,26,Rim,3.77,vivos
+SC,2015,215,Rim,31.2,falecidos
+SC,2015,0,Fígado,0,vivos
+SC,2015,106,Fígado,15.38,falecidos
+SC,2015,0,Coração,0,vivos
+SC,2015,2,Coração,0.29,falecidos
+SC,2015,0,Pulmão,0,vivos
+SC,2015,0,Pulmão,0,falecidos
+SC,2015,0,Pancreas,0,vivos
+SC,2015,9,Pancreas,1.31,falecidos
+SC,2015,0,Córnea,0,vivos
+SC,2015,694,Córnea,100.73,falecidos
+SC,2015,81,Medula,11.76,Autologos
+SC,2015,0,Medula,0,Alogenicos aparentado
+SC,2015,0,Medula,0,Alogenicos desconhecido
+SC,2015,0,Medula,0,Alogenicos não aparentado
+SC,2015,0,Medula,0,Sem modalidade
+SC,2015,81,Medula,11.76,vivos
+SC,2016,20,Rim,2.85,vivos
+SC,2016,231,Rim,32.95,falecidos
+SC,2016,0,Fígado,0,vivos
+SC,2016,150,Fígado,21.39,falecidos
+SC,2016,0,Coração,0,vivos
+SC,2016,8,Coração,1.14,falecidos
+SC,2016,0,Pulmão,0,vivos
+SC,2016,0,Pulmão,0,falecidos
+SC,2016,0,Pancreas,0,vivos
+SC,2016,4,Pancreas,0.57,falecidos
+SC,2016,0,Córnea,0,vivos
+SC,2016,601,Córnea,85.72,falecidos
+SC,2016,80,Medula,11.41,Autologos
+SC,2016,0,Medula,0,Alogenicos aparentado
+SC,2016,0,Medula,0,Alogenicos desconhecido
+SC,2016,0,Medula,0,Alogenicos não aparentado
+SC,2016,0,Medula,0,Sem modalidade
+SC,2016,80,Medula,11.41,vivos
+SC,2017,13,Rim,1.82,vivos
+SC,2017,255,Rim,35.74,falecidos
+SC,2017,0,Fígado,0,vivos
+SC,2017,127,Fígado,17.8,falecidos
+SC,2017,0,Coração,0,vivos
+SC,2017,4,Coração,0.56,falecidos
+SC,2017,0,Pulmão,0,vivos
+SC,2017,0,Pulmão,0,falecidos
+SC,2017,0,Pancreas,0,vivos
+SC,2017,12,Pancreas,1.68,falecidos
+SC,2017,0,Córnea,0,vivos
+SC,2017,540,Córnea,75.68,falecidos
+SC,2017,70,Medula,9.81,Autologos
+SC,2017,0,Medula,0,Alogenicos aparentado
+SC,2017,0,Medula,0,Alogenicos desconhecido
+SC,2017,0,Medula,0,Alogenicos não aparentado
+SC,2017,0,Medula,0,Sem modalidade
+SC,2017,70,Medula,9.81,vivos
+SC,2018,11,Rim,1.51,vivos
+SC,2018,273,Rim,37.57,falecidos
+SC,2018,0,Fígado,0,vivos
+SC,2018,135,Fígado,18.58,falecidos
+SC,2018,0,Coração,0,vivos
+SC,2018,8,Coração,1.1,falecidos
+SC,2018,0,Pulmão,0,vivos
+SC,2018,0,Pulmão,0,falecidos
+SC,2018,0,Pancreas,0,vivos
+SC,2018,22,Pancreas,3.03,falecidos
+SC,2018,0,Córnea,0,vivos
+SC,2018,464,Córnea,63.86,falecidos
+SC,2018,93,Medula,12.8,Autologos
+SC,2018,3,Medula,0.41,Alogenicos aparentado
+SC,2018,0,Medula,0,Alogenicos desconhecido
+SC,2018,0,Medula,0,Alogenicos não aparentado
+SC,2018,0,Medula,0,Sem modalidade
+SC,2018,96,Medula,13.21,vivos
+SC,2019,7,Rim,0.95,vivos
+SC,2019,302,Rim,40.79,falecidos
+SC,2019,0,Fígado,0,vivos
+SC,2019,137,Fígado,18.5,falecidos
+SC,2019,0,Coração,0,vivos
+SC,2019,8,Coração,1.08,falecidos
+SC,2019,0,Pulmão,0,vivos
+SC,2019,0,Pulmão,0,falecidos
+SC,2019,0,Pancreas,0,vivos
+SC,2019,15,Pancreas,2.03,falecidos
+SC,2019,0,Córnea,0,vivos
+SC,2019,608,Córnea,82.12,falecidos
+SC,2019,114,Medula,15.4,Autologos
+SC,2019,22,Medula,2.97,Alogenicos aparentado
+SC,2019,0,Medula,0,Alogenicos desconhecido
+SC,2019,0,Medula,0,Alogenicos não aparentado
+SC,2019,0,Medula,0,Sem modalidade
+SC,2019,136,Medula,18.37,vivos
+SC,2020,4,Rim,0.53,vivos
+SC,2020,223,Rim,29.57,falecidos
+SC,2020,0,Fígado,0,vivos
+SC,2020,97,Fígado,12.86,falecidos
+SC,2020,0,Coração,0,vivos
+SC,2020,4,Coração,0.53,falecidos
+SC,2020,0,Pulmão,0,vivos
+SC,2020,0,Pulmão,0,falecidos
+SC,2020,0,Pancreas,0,vivos
+SC,2020,4,Pancreas,0.53,falecidos
+SC,2020,0,Córnea,0,vivos
+SC,2020,265,Córnea,35.14,falecidos
+SC,2020,87,Medula,11.54,Autologos
+SC,2020,24,Medula,3.18,Alogenicos aparentado
+SC,2020,0,Medula,0,Alogenicos desconhecido
+SC,2020,0,Medula,0,Alogenicos não aparentado
+SC,2020,3,Medula,0.4,Sem modalidade
+SC,2020,114,Medula,15.12,vivos
+SC,2021,5,Rim,0.65,vivos
+SC,2021,191,Rim,24.9,falecidos
+SC,2021,0,Fígado,0,vivos
+SC,2021,113,Fígado,14.73,falecidos
+SC,2021,0,Coração,0,vivos
+SC,2021,4,Coração,0.52,falecidos
+SC,2021,0,Pulmão,0,vivos
+SC,2021,0,Pulmão,0,falecidos
+SC,2021,0,Pancreas,0,vivos
+SC,2021,12,Pancreas,1.56,falecidos
+SC,2021,0,Córnea,0,vivos
+SC,2021,557,Córnea,72.6,falecidos
+SC,2021,62,Medula,8.08,Autologos
+SC,2021,36,Medula,4.69,Alogenicos aparentado
+SC,2021,0,Medula,0,Alogenicos desconhecido
+SC,2021,0,Medula,0,Alogenicos não aparentado
+SC,2021,0,Medula,0,Sem modalidade
+SC,2021,98,Medula,12.77,vivos
+SC,2022,8,Rim,1.03,vivos
+SC,2022,261,Rim,33.47,falecidos
+SC,2022,0,Fígado,0,vivos
+SC,2022,134,Fígado,17.19,falecidos
+SC,2022,0,Coração,0,vivos
+SC,2022,8,Coração,1.03,falecidos
+SC,2022,0,Pulmão,0,vivos
+SC,2022,0,Pulmão,0,falecidos
+SC,2022,0,Pancreas,0,vivos
+SC,2022,7,Pancreas,0.9,falecidos
+SC,2022,0,Córnea,0,vivos
+SC,2022,641,Córnea,82.21,falecidos
+SC,2022,93,Medula,11.93,Autologos
+SC,2022,24,Medula,3.08,Alogenicos aparentado
+SC,2022,0,Medula,0,Alogenicos desconhecido
+SC,2022,6,Medula,0.77,Alogenicos não aparentado
+SC,2022,0,Medula,0,Sem modalidade
+SC,2022,123,Medula,15.78,vivos
+SC,2023,9,Rim,1.14,vivos
+SC,2023,256,Rim,32.29,falecidos
+SC,2023,0,Fígado,0,vivos
+SC,2023,140,Fígado,17.66,falecidos
+SC,2023,0,Coração,0,vivos
+SC,2023,6,Coração,0.76,falecidos
+SC,2023,0,Pulmão,0,vivos
+SC,2023,0,Pulmão,0,falecidos
+SC,2023,0,Pancreas,0,vivos
+SC,2023,11,Pancreas,1.39,falecidos
+SC,2023,0,Córnea,0,vivos
+SC,2023,811,Córnea,102.31,falecidos
+SC,2023,97,Medula,12.24,Autologos
+SC,2023,32,Medula,4.04,Alogenicos aparentado
+SC,2023,0,Medula,0,Alogenicos desconhecido
+SC,2023,7,Medula,0.88,Alogenicos não aparentado
+SC,2023,0,Medula,0,Sem modalidade
+SC,2023,136,Medula,17.16,vivos
+SC,2024,17,Rim,2.11,vivos
+SC,2024,275,Rim,34.13,falecidos
+SC,2024,0,Fígado,0,vivos
+SC,2024,131,Fígado,16.26,falecidos
+SC,2024,0,Coração,0,vivos
+SC,2024,5,Coração,0.62,falecidos
+SC,2024,0,Pulmão,0,vivos
+SC,2024,0,Pulmão,0,falecidos
+SC,2024,0,Pancreas,0,vivos
+SC,2024,9,Pancreas,1.12,falecidos
+SC,2024,0,Córnea,0,vivos
+SC,2024,626,Córnea,77.69,falecidos
+SC,2024,67,Medula,8.31,Autologos
+SC,2024,9,Medula,1.12,Alogenicos aparentado
+SC,2024,33,Medula,4.1,Alogenicos desconhecido
+SC,2024,2,Medula,0.25,Alogenicos não aparentado
+SC,2024,0,Medula,0,Sem modalidade
+SC,2024,111,Medula,13.78,vivos
+SC,2025,13,Rim,1.59,vivos
+SC,2025,332,Rim,40.55,falecidos
+SC,2025,0,Fígado,0,vivos
+SC,2025,137,Fígado,16.73,falecidos
+SC,2025,0,Coração,0,vivos
+SC,2025,8,Coração,0.98,falecidos
+SC,2025,0,Pulmão,0,vivos
+SC,2025,0,Pulmão,0,falecidos
+SC,2025,0,Pancreas,0,vivos
+SC,2025,22,Pancreas,2.69,falecidos
+SC,2025,0,Córnea,0,vivos
+SC,2025,700,Córnea,85.5,falecidos
+SC,2025,77,Medula,9.41,Autologos
+SC,2025,25,Medula,3.05,Alogenicos aparentado
+SC,2025,10,Medula,1.22,Alogenicos desconhecido
+SC,2025,4,Medula,0.49,Alogenicos não aparentado
+SC,2025,0,Medula,0,Sem modalidade
+SC,2025,116,Medula,14.17,vivos
+SC,2026,9,Rim,1.08,vivos
+SC,2026,214,Rim,25.74,falecidos
+SC,2026,0,Fígado,0,vivos
+SC,2026,99,Fígado,11.91,falecidos
+SC,2026,0,Coração,0,vivos
+SC,2026,8,Coração,0.96,falecidos
+SC,2026,0,Pulmão,0,vivos
+SC,2026,0,Pulmão,0,falecidos
+SC,2026,0,Pancreas,0,vivos
+SC,2026,9,Pancreas,1.08,falecidos
+SC,2026,0,Córnea,0,vivos
+SC,2026,603,Córnea,72.54,falecidos
+SC,2026,77,Medula,9.26,Autologos
+SC,2026,23,Medula,2.77,Alogenicos aparentado
+SC,2026,0,Medula,0,Alogenicos desconhecido
+SC,2026,5,Medula,0.6,Alogenicos não aparentado
+SC,2026,0,Medula,0,Sem modalidade
+SC,2026,105,Medula,12.63,vivos
+SE,2015,0,Rim,0,vivos
+SE,2015,0,Rim,0,falecidos
+SE,2015,0,Fígado,0,vivos
+SE,2015,0,Fígado,0,falecidos
+SE,2015,0,Coração,0,vivos
+SE,2015,0,Coração,0,falecidos
+SE,2015,0,Pulmão,0,vivos
+SE,2015,0,Pulmão,0,falecidos
+SE,2015,0,Pancreas,0,vivos
+SE,2015,0,Pancreas,0,falecidos
+SE,2015,0,Córnea,0,vivos
+SE,2015,137,Córnea,62.79,falecidos
+SE,2015,0,Medula,0,Autologos
+SE,2015,0,Medula,0,Alogenicos aparentado
+SE,2015,0,Medula,0,Alogenicos desconhecido
+SE,2015,0,Medula,0,Alogenicos não aparentado
+SE,2015,0,Medula,0,Sem modalidade
+SE,2015,0,Medula,0,vivos
+SE,2016,0,Rim,0,vivos
+SE,2016,0,Rim,0,falecidos
+SE,2016,0,Fígado,0,vivos
+SE,2016,0,Fígado,0,falecidos
+SE,2016,0,Coração,0,vivos
+SE,2016,0,Coração,0,falecidos
+SE,2016,0,Pulmão,0,vivos
+SE,2016,0,Pulmão,0,falecidos
+SE,2016,0,Pancreas,0,vivos
+SE,2016,0,Pancreas,0,falecidos
+SE,2016,0,Córnea,0,vivos
+SE,2016,142,Córnea,64.6,falecidos
+SE,2016,0,Medula,0,Autologos
+SE,2016,0,Medula,0,Alogenicos aparentado
+SE,2016,0,Medula,0,Alogenicos desconhecido
+SE,2016,0,Medula,0,Alogenicos não aparentado
+SE,2016,0,Medula,0,Sem modalidade
+SE,2016,0,Medula,0,vivos
+SE,2017,0,Rim,0,vivos
+SE,2017,0,Rim,0,falecidos
+SE,2017,0,Fígado,0,vivos
+SE,2017,0,Fígado,0,falecidos
+SE,2017,0,Coração,0,vivos
+SE,2017,1,Coração,0.45,falecidos
+SE,2017,0,Pulmão,0,vivos
+SE,2017,0,Pulmão,0,falecidos
+SE,2017,0,Pancreas,0,vivos
+SE,2017,0,Pancreas,0,falecidos
+SE,2017,0,Córnea,0,vivos
+SE,2017,165,Córnea,74.56,falecidos
+SE,2017,0,Medula,0,Autologos
+SE,2017,0,Medula,0,Alogenicos aparentado
+SE,2017,0,Medula,0,Alogenicos desconhecido
+SE,2017,0,Medula,0,Alogenicos não aparentado
+SE,2017,0,Medula,0,Sem modalidade
+SE,2017,0,Medula,0,vivos
+SE,2018,0,Rim,0,vivos
+SE,2018,0,Rim,0,falecidos
+SE,2018,0,Fígado,0,vivos
+SE,2018,0,Fígado,0,falecidos
+SE,2018,0,Coração,0,vivos
+SE,2018,0,Coração,0,falecidos
+SE,2018,0,Pulmão,0,vivos
+SE,2018,0,Pulmão,0,falecidos
+SE,2018,0,Pancreas,0,vivos
+SE,2018,0,Pancreas,0,falecidos
+SE,2018,0,Córnea,0,vivos
+SE,2018,212,Córnea,95.2,falecidos
+SE,2018,0,Medula,0,Autologos
+SE,2018,0,Medula,0,Alogenicos aparentado
+SE,2018,0,Medula,0,Alogenicos desconhecido
+SE,2018,0,Medula,0,Alogenicos não aparentado
+SE,2018,0,Medula,0,Sem modalidade
+SE,2018,0,Medula,0,vivos
+SE,2019,0,Rim,0,vivos
+SE,2019,0,Rim,0,falecidos
+SE,2019,0,Fígado,0,vivos
+SE,2019,0,Fígado,0,falecidos
+SE,2019,0,Coração,0,vivos
+SE,2019,0,Coração,0,falecidos
+SE,2019,0,Pulmão,0,vivos
+SE,2019,0,Pulmão,0,falecidos
+SE,2019,0,Pancreas,0,vivos
+SE,2019,0,Pancreas,0,falecidos
+SE,2019,0,Córnea,0,vivos
+SE,2019,205,Córnea,91.48,falecidos
+SE,2019,0,Medula,0,Autologos
+SE,2019,0,Medula,0,Alogenicos aparentado
+SE,2019,0,Medula,0,Alogenicos desconhecido
+SE,2019,0,Medula,0,Alogenicos não aparentado
+SE,2019,0,Medula,0,Sem modalidade
+SE,2019,0,Medula,0,vivos
+SE,2020,0,Rim,0,vivos
+SE,2020,0,Rim,0,falecidos
+SE,2020,0,Fígado,0,vivos
+SE,2020,0,Fígado,0,falecidos
+SE,2020,0,Coração,0,vivos
+SE,2020,0,Coração,0,falecidos
+SE,2020,0,Pulmão,0,vivos
+SE,2020,0,Pulmão,0,falecidos
+SE,2020,0,Pancreas,0,vivos
+SE,2020,0,Pancreas,0,falecidos
+SE,2020,0,Córnea,0,vivos
+SE,2020,67,Córnea,29.72,falecidos
+SE,2020,4,Medula,1.77,Autologos
+SE,2020,0,Medula,0,Alogenicos aparentado
+SE,2020,0,Medula,0,Alogenicos desconhecido
+SE,2020,0,Medula,0,Alogenicos não aparentado
+SE,2020,0,Medula,0,Sem modalidade
+SE,2020,4,Medula,1.77,vivos
+SE,2021,0,Rim,0,vivos
+SE,2021,0,Rim,0,falecidos
+SE,2021,0,Fígado,0,vivos
+SE,2021,0,Fígado,0,falecidos
+SE,2021,0,Coração,0,vivos
+SE,2021,0,Coração,0,falecidos
+SE,2021,0,Pulmão,0,vivos
+SE,2021,0,Pulmão,0,falecidos
+SE,2021,0,Pancreas,0,vivos
+SE,2021,0,Pancreas,0,falecidos
+SE,2021,0,Córnea,0,vivos
+SE,2021,99,Córnea,43.71,falecidos
+SE,2021,12,Medula,5.3,Autologos
+SE,2021,0,Medula,0,Alogenicos aparentado
+SE,2021,0,Medula,0,Alogenicos desconhecido
+SE,2021,0,Medula,0,Alogenicos não aparentado
+SE,2021,0,Medula,0,Sem modalidade
+SE,2021,12,Medula,5.3,vivos
+SE,2022,4,Rim,1.76,vivos
+SE,2022,0,Rim,0,falecidos
+SE,2022,0,Fígado,0,vivos
+SE,2022,0,Fígado,0,falecidos
+SE,2022,0,Coração,0,vivos
+SE,2022,0,Coração,0,falecidos
+SE,2022,0,Pulmão,0,vivos
+SE,2022,0,Pulmão,0,falecidos
+SE,2022,0,Pancreas,0,vivos
+SE,2022,0,Pancreas,0,falecidos
+SE,2022,0,Córnea,0,vivos
+SE,2022,173,Córnea,76.08,falecidos
+SE,2022,11,Medula,4.84,Autologos
+SE,2022,0,Medula,0,Alogenicos aparentado
+SE,2022,0,Medula,0,Alogenicos desconhecido
+SE,2022,0,Medula,0,Alogenicos não aparentado
+SE,2022,0,Medula,0,Sem modalidade
+SE,2022,11,Medula,4.84,vivos
+SE,2023,0,Rim,0,vivos
+SE,2023,0,Rim,0,falecidos
+SE,2023,0,Fígado,0,vivos
+SE,2023,0,Fígado,0,falecidos
+SE,2023,0,Coração,0,vivos
+SE,2023,0,Coração,0,falecidos
+SE,2023,0,Pulmão,0,vivos
+SE,2023,0,Pulmão,0,falecidos
+SE,2023,0,Pancreas,0,vivos
+SE,2023,0,Pancreas,0,falecidos
+SE,2023,0,Córnea,0,vivos
+SE,2023,167,Córnea,73.18,falecidos
+SE,2023,0,Medula,0,Autologos
+SE,2023,0,Medula,0,Alogenicos aparentado
+SE,2023,0,Medula,0,Alogenicos desconhecido
+SE,2023,0,Medula,0,Alogenicos não aparentado
+SE,2023,0,Medula,0,Sem modalidade
+SE,2023,0,Medula,0,vivos
+SE,2024,2,Rim,0.87,vivos
+SE,2024,0,Rim,0,falecidos
+SE,2024,0,Fígado,0,vivos
+SE,2024,0,Fígado,0,falecidos
+SE,2024,0,Coração,0,vivos
+SE,2024,0,Coração,0,falecidos
+SE,2024,0,Pulmão,0,vivos
+SE,2024,0,Pulmão,0,falecidos
+SE,2024,0,Pancreas,0,vivos
+SE,2024,0,Pancreas,0,falecidos
+SE,2024,0,Córnea,0,vivos
+SE,2024,227,Córnea,99.08,falecidos
+SE,2024,0,Medula,0,Autologos
+SE,2024,0,Medula,0,Alogenicos aparentado
+SE,2024,0,Medula,0,Alogenicos desconhecido
+SE,2024,0,Medula,0,Alogenicos não aparentado
+SE,2024,0,Medula,0,Sem modalidade
+SE,2024,0,Medula,0,vivos
+SE,2025,3,Rim,1.3,vivos
+SE,2025,1,Rim,0.43,falecidos
+SE,2025,0,Fígado,0,vivos
+SE,2025,0,Fígado,0,falecidos
+SE,2025,0,Coração,0,vivos
+SE,2025,0,Coração,0,falecidos
+SE,2025,0,Pulmão,0,vivos
+SE,2025,0,Pulmão,0,falecidos
+SE,2025,0,Pancreas,0,vivos
+SE,2025,0,Pancreas,0,falecidos
+SE,2025,0,Córnea,0,vivos
+SE,2025,244,Córnea,106.13,falecidos
+SE,2025,0,Medula,0,Autologos
+SE,2025,0,Medula,0,Alogenicos aparentado
+SE,2025,0,Medula,0,Alogenicos desconhecido
+SE,2025,0,Medula,0,Alogenicos não aparentado
+SE,2025,0,Medula,0,Sem modalidade
+SE,2025,0,Medula,0,vivos
+SE,2026,4,Rim,1.73,vivos
+SE,2026,34,Rim,14.74,falecidos
+SE,2026,0,Fígado,0,vivos
+SE,2026,3,Fígado,1.3,falecidos
+SE,2026,0,Coração,0,vivos
+SE,2026,0,Coração,0,falecidos
+SE,2026,0,Pulmão,0,vivos
+SE,2026,0,Pulmão,0,falecidos
+SE,2026,0,Pancreas,0,vivos
+SE,2026,0,Pancreas,0,falecidos
+SE,2026,0,Córnea,0,vivos
+SE,2026,128,Córnea,55.48,falecidos
+SE,2026,0,Medula,0,Autologos
+SE,2026,0,Medula,0,Alogenicos aparentado
+SE,2026,0,Medula,0,Alogenicos desconhecido
+SE,2026,0,Medula,0,Alogenicos não aparentado
+SE,2026,0,Medula,0,Sem modalidade
+SE,2026,0,Medula,0,vivos
+SP,2015,369,Rim,8.35,vivos
+SP,2015,1492,Rim,33.74,falecidos
+SP,2015,116,Fígado,2.62,vivos
+SP,2015,537,Fígado,12.14,falecidos
+SP,2015,0,Coração,0,vivos
+SP,2015,141,Coração,3.19,falecidos
+SP,2015,0,Pulmão,0,vivos
+SP,2015,33,Pulmão,0.75,falecidos
+SP,2015,0,Pancreas,0,vivos
+SP,2015,54,Pancreas,1.22,falecidos
+SP,2015,0,Córnea,0,vivos
+SP,2015,4745,Córnea,107.31,falecidos
+SP,2015,877,Medula,19.83,Autologos
+SP,2015,392,Medula,8.87,Alogenicos aparentado
+SP,2015,0,Medula,0,Alogenicos desconhecido
+SP,2015,166,Medula,3.75,Alogenicos não aparentado
+SP,2015,128,Medula,2.89,Sem modalidade
+SP,2015,1563,Medula,35.35,vivos
+SP,2016,417,Rim,9.36,vivos
+SP,2016,1481,Rim,33.26,falecidos
+SP,2016,126,Fígado,2.83,vivos
+SP,2016,492,Fígado,11.05,falecidos
+SP,2016,0,Coração,0,vivos
+SP,2016,126,Coração,2.83,falecidos
+SP,2016,0,Pulmão,0,vivos
+SP,2016,51,Pulmão,1.15,falecidos
+SP,2016,0,Pancreas,0,vivos
+SP,2016,64,Pancreas,1.44,falecidos
+SP,2016,0,Córnea,0,vivos
+SP,2016,4886,Córnea,109.72,falecidos
+SP,2016,937,Medula,21.04,Autologos
+SP,2016,384,Medula,8.62,Alogenicos aparentado
+SP,2016,1,Medula,0.02,Alogenicos desconhecido
+SP,2016,205,Medula,4.6,Alogenicos não aparentado
+SP,2016,105,Medula,2.36,Sem modalidade
+SP,2016,1632,Medula,36.65,vivos
+SP,2017,536,Rim,11.96,vivos
+SP,2017,1572,Rim,35.08,falecidos
+SP,2017,159,Fígado,3.55,vivos
+SP,2017,536,Fígado,11.96,falecidos
+SP,2017,0,Coração,0,vivos
+SP,2017,130,Coração,2.9,falecidos
+SP,2017,0,Pulmão,0,vivos
+SP,2017,56,Pulmão,1.25,falecidos
+SP,2017,0,Pancreas,0,vivos
+SP,2017,54,Pancreas,1.21,falecidos
+SP,2017,0,Córnea,0,vivos
+SP,2017,5702,Córnea,127.25,falecidos
+SP,2017,1077,Medula,24.04,Autologos
+SP,2017,512,Medula,11.43,Alogenicos aparentado
+SP,2017,2,Medula,0.04,Alogenicos desconhecido
+SP,2017,195,Medula,4.35,Alogenicos não aparentado
+SP,2017,112,Medula,2.5,Sem modalidade
+SP,2017,1898,Medula,42.36,vivos
+SP,2018,520,Rim,11.54,vivos
+SP,2018,1608,Rim,35.68,falecidos
+SP,2018,135,Fígado,3,vivos
+SP,2018,590,Fígado,13.09,falecidos
+SP,2018,0,Coração,0,vivos
+SP,2018,109,Coração,2.42,falecidos
+SP,2018,0,Pulmão,0,vivos
+SP,2018,55,Pulmão,1.22,falecidos
+SP,2018,0,Pancreas,0,vivos
+SP,2018,84,Pancreas,1.86,falecidos
+SP,2018,0,Córnea,0,vivos
+SP,2018,5089,Córnea,112.93,falecidos
+SP,2018,999,Medula,22.17,Autologos
+SP,2018,600,Medula,13.31,Alogenicos aparentado
+SP,2018,0,Medula,0,Alogenicos desconhecido
+SP,2018,176,Medula,3.91,Alogenicos não aparentado
+SP,2018,94,Medula,2.09,Sem modalidade
+SP,2018,1869,Medula,41.48,vivos
+SP,2019,474,Rim,10.46,vivos
+SP,2019,1598,Rim,35.27,falecidos
+SP,2019,128,Fígado,2.83,vivos
+SP,2019,577,Fígado,12.74,falecidos
+SP,2019,0,Coração,0,vivos
+SP,2019,122,Coração,2.69,falecidos
+SP,2019,0,Pulmão,0,vivos
+SP,2019,54,Pulmão,1.19,falecidos
+SP,2019,0,Pancreas,0,vivos
+SP,2019,101,Pancreas,2.23,falecidos
+SP,2019,0,Córnea,0,vivos
+SP,2019,5400,Córnea,119.19,falecidos
+SP,2019,1163,Medula,25.67,Autologos
+SP,2019,579,Medula,12.78,Alogenicos aparentado
+SP,2019,0,Medula,0,Alogenicos desconhecido
+SP,2019,224,Medula,4.94,Alogenicos não aparentado
+SP,2019,197,Medula,4.35,Sem modalidade
+SP,2019,2163,Medula,47.74,vivos
+SP,2020,239,Rim,5.25,vivos
+SP,2020,1550,Rim,34.05,falecidos
+SP,2020,102,Fígado,2.24,vivos
+SP,2020,643,Fígado,14.12,falecidos
+SP,2020,0,Coração,0,vivos
+SP,2020,129,Coração,2.83,falecidos
+SP,2020,0,Pulmão,0,vivos
+SP,2020,41,Pulmão,0.9,falecidos
+SP,2020,0,Pancreas,0,vivos
+SP,2020,103,Pancreas,2.26,falecidos
+SP,2020,0,Córnea,0,vivos
+SP,2020,2582,Córnea,56.72,falecidos
+SP,2020,977,Medula,21.46,Autologos
+SP,2020,604,Medula,13.27,Alogenicos aparentado
+SP,2020,0,Medula,0,Alogenicos desconhecido
+SP,2020,175,Medula,3.84,Alogenicos não aparentado
+SP,2020,82,Medula,1.8,Sem modalidade
+SP,2020,1838,Medula,40.38,vivos
+SP,2021,272,Rim,5.96,vivos
+SP,2021,1500,Rim,32.86,falecidos
+SP,2021,113,Fígado,2.48,vivos
+SP,2021,537,Fígado,11.76,falecidos
+SP,2021,0,Coração,0,vivos
+SP,2021,134,Coração,2.94,falecidos
+SP,2021,0,Pulmão,0,vivos
+SP,2021,59,Pulmão,1.29,falecidos
+SP,2021,0,Pancreas,0,vivos
+SP,2021,110,Pancreas,2.41,falecidos
+SP,2021,0,Córnea,0,vivos
+SP,2021,4986,Córnea,109.22,falecidos
+SP,2021,1180,Medula,25.85,Autologos
+SP,2021,743,Medula,16.28,Alogenicos aparentado
+SP,2021,0,Medula,0,Alogenicos desconhecido
+SP,2021,152,Medula,3.33,Alogenicos não aparentado
+SP,2021,66,Medula,1.45,Sem modalidade
+SP,2021,2141,Medula,46.9,vivos
+SP,2022,340,Rim,7.43,vivos
+SP,2022,1477,Rim,32.29,falecidos
+SP,2022,110,Fígado,2.41,vivos
+SP,2022,518,Fígado,11.33,falecidos
+SP,2022,0,Coração,0,vivos
+SP,2022,131,Coração,2.86,falecidos
+SP,2022,0,Pulmão,0,vivos
+SP,2022,64,Pulmão,1.4,falecidos
+SP,2022,0,Pancreas,0,vivos
+SP,2022,83,Pancreas,1.81,falecidos
+SP,2022,0,Córnea,0,vivos
+SP,2022,5496,Córnea,120.17,falecidos
+SP,2022,1225,Medula,26.78,Autologos
+SP,2022,710,Medula,15.52,Alogenicos aparentado
+SP,2022,0,Medula,0,Alogenicos desconhecido
+SP,2022,149,Medula,3.26,Alogenicos não aparentado
+SP,2022,37,Medula,0.81,Sem modalidade
+SP,2022,2121,Medula,46.37,vivos
+SP,2023,391,Rim,8.53,vivos
+SP,2023,1588,Rim,34.63,falecidos
+SP,2023,132,Fígado,2.88,vivos
+SP,2023,600,Fígado,13.09,falecidos
+SP,2023,0,Coração,0,vivos
+SP,2023,146,Coração,3.18,falecidos
+SP,2023,0,Pulmão,0,vivos
+SP,2023,34,Pulmão,0.74,falecidos
+SP,2023,0,Pancreas,0,vivos
+SP,2023,64,Pancreas,1.4,falecidos
+SP,2023,0,Córnea,0,vivos
+SP,2023,5665,Córnea,123.55,falecidos
+SP,2023,1046,Medula,22.81,Autologos
+SP,2023,705,Medula,15.38,Alogenicos aparentado
+SP,2023,2,Medula,0.04,Alogenicos desconhecido
+SP,2023,152,Medula,3.32,Alogenicos não aparentado
+SP,2023,33,Medula,0.72,Sem modalidade
+SP,2023,1938,Medula,42.27,vivos
+SP,2024,397,Rim,8.64,vivos
+SP,2024,1477,Rim,32.13,falecidos
+SP,2024,108,Fígado,2.35,vivos
+SP,2024,541,Fígado,11.77,falecidos
+SP,2024,0,Coração,0,vivos
+SP,2024,130,Coração,2.83,falecidos
+SP,2024,0,Pulmão,0,vivos
+SP,2024,46,Pulmão,1,falecidos
+SP,2024,0,Pancreas,0,vivos
+SP,2024,73,Pancreas,1.59,falecidos
+SP,2024,0,Córnea,0,vivos
+SP,2024,5584,Córnea,121.46,falecidos
+SP,2024,980,Medula,21.32,Autologos
+SP,2024,315,Medula,6.85,Alogenicos aparentado
+SP,2024,285,Medula,6.2,Alogenicos desconhecido
+SP,2024,107,Medula,2.33,Alogenicos não aparentado
+SP,2024,15,Medula,0.33,Sem modalidade
+SP,2024,1702,Medula,37.02,vivos
+SP,2025,410,Rim,8.9,vivos
+SP,2025,1637,Rim,35.52,falecidos
+SP,2025,95,Fígado,2.06,vivos
+SP,2025,601,Fígado,13.04,falecidos
+SP,2025,0,Coração,0,vivos
+SP,2025,150,Coração,3.26,falecidos
+SP,2025,0,Pulmão,0,vivos
+SP,2025,46,Pulmão,1,falecidos
+SP,2025,0,Pancreas,0,vivos
+SP,2025,78,Pancreas,1.69,falecidos
+SP,2025,0,Córnea,0,vivos
+SP,2025,5908,Córnea,128.21,falecidos
+SP,2025,881,Medula,19.12,Autologos
+SP,2025,440,Medula,9.55,Alogenicos aparentado
+SP,2025,195,Medula,4.23,Alogenicos desconhecido
+SP,2025,149,Medula,3.23,Alogenicos não aparentado
+SP,2025,0,Medula,0,Sem modalidade
+SP,2025,1665,Medula,36.13,vivos
+SP,2026,311,Rim,6.73,vivos
+SP,2026,1155,Rim,25.01,falecidos
+SP,2026,108,Fígado,2.34,vivos
+SP,2026,460,Fígado,9.96,falecidos
+SP,2026,0,Coração,0,vivos
+SP,2026,110,Coração,2.38,falecidos
+SP,2026,0,Pulmão,0,vivos
+SP,2026,41,Pulmão,0.89,falecidos
+SP,2026,0,Pancreas,0,vivos
+SP,2026,61,Pancreas,1.32,falecidos
+SP,2026,0,Córnea,0,vivos
+SP,2026,4505,Córnea,97.56,falecidos
+SP,2026,363,Medula,7.86,Autologos
+SP,2026,267,Medula,5.78,Alogenicos aparentado
+SP,2026,2,Medula,0.04,Alogenicos desconhecido
+SP,2026,92,Medula,1.99,Alogenicos não aparentado
+SP,2026,0,Medula,0,Sem modalidade
+SP,2026,724,Medula,15.68,vivos
+TO,2015,0,Rim,0,vivos
+TO,2015,0,Rim,0,falecidos
+TO,2015,0,Fígado,0,vivos
+TO,2015,0,Fígado,0,falecidos
+TO,2015,0,Coração,0,vivos
+TO,2015,0,Coração,0,falecidos
+TO,2015,0,Pulmão,0,vivos
+TO,2015,0,Pulmão,0,falecidos
+TO,2015,0,Pancreas,0,vivos
+TO,2015,0,Pancreas,0,falecidos
+TO,2015,0,Córnea,0,vivos
+TO,2015,0,Córnea,0,falecidos
+TO,2015,0,Medula,0,Autologos
+TO,2015,0,Medula,0,Alogenicos aparentado
+TO,2015,0,Medula,0,Alogenicos desconhecido
+TO,2015,0,Medula,0,Alogenicos não aparentado
+TO,2015,0,Medula,0,Sem modalidade
+TO,2015,0,Medula,0,vivos
+TO,2016,0,Rim,0,vivos
+TO,2016,0,Rim,0,falecidos
+TO,2016,0,Fígado,0,vivos
+TO,2016,0,Fígado,0,falecidos
+TO,2016,0,Coração,0,vivos
+TO,2016,0,Coração,0,falecidos
+TO,2016,0,Pulmão,0,vivos
+TO,2016,0,Pulmão,0,falecidos
+TO,2016,0,Pancreas,0,vivos
+TO,2016,0,Pancreas,0,falecidos
+TO,2016,0,Córnea,0,vivos
+TO,2016,9,Córnea,6.06,falecidos
+TO,2016,0,Medula,0,Autologos
+TO,2016,0,Medula,0,Alogenicos aparentado
+TO,2016,0,Medula,0,Alogenicos desconhecido
+TO,2016,0,Medula,0,Alogenicos não aparentado
+TO,2016,0,Medula,0,Sem modalidade
+TO,2016,0,Medula,0,vivos
+TO,2017,0,Rim,0,vivos
+TO,2017,0,Rim,0,falecidos
+TO,2017,0,Fígado,0,vivos
+TO,2017,0,Fígado,0,falecidos
+TO,2017,0,Coração,0,vivos
+TO,2017,0,Coração,0,falecidos
+TO,2017,0,Pulmão,0,vivos
+TO,2017,0,Pulmão,0,falecidos
+TO,2017,0,Pancreas,0,vivos
+TO,2017,0,Pancreas,0,falecidos
+TO,2017,0,Córnea,0,vivos
+TO,2017,64,Córnea,42.7,falecidos
+TO,2017,0,Medula,0,Autologos
+TO,2017,0,Medula,0,Alogenicos aparentado
+TO,2017,0,Medula,0,Alogenicos desconhecido
+TO,2017,0,Medula,0,Alogenicos não aparentado
+TO,2017,0,Medula,0,Sem modalidade
+TO,2017,0,Medula,0,vivos
+TO,2018,0,Rim,0,vivos
+TO,2018,0,Rim,0,falecidos
+TO,2018,0,Fígado,0,vivos
+TO,2018,0,Fígado,0,falecidos
+TO,2018,0,Coração,0,vivos
+TO,2018,0,Coração,0,falecidos
+TO,2018,0,Pulmão,0,vivos
+TO,2018,0,Pulmão,0,falecidos
+TO,2018,0,Pancreas,0,vivos
+TO,2018,0,Pancreas,0,falecidos
+TO,2018,0,Córnea,0,vivos
+TO,2018,47,Córnea,31.08,falecidos
+TO,2018,0,Medula,0,Autologos
+TO,2018,0,Medula,0,Alogenicos aparentado
+TO,2018,0,Medula,0,Alogenicos desconhecido
+TO,2018,0,Medula,0,Alogenicos não aparentado
+TO,2018,0,Medula,0,Sem modalidade
+TO,2018,0,Medula,0,vivos
+TO,2019,0,Rim,0,vivos
+TO,2019,0,Rim,0,falecidos
+TO,2019,0,Fígado,0,vivos
+TO,2019,0,Fígado,0,falecidos
+TO,2019,0,Coração,0,vivos
+TO,2019,0,Coração,0,falecidos
+TO,2019,0,Pulmão,0,vivos
+TO,2019,0,Pulmão,0,falecidos
+TO,2019,0,Pancreas,0,vivos
+TO,2019,0,Pancreas,0,falecidos
+TO,2019,0,Córnea,0,vivos
+TO,2019,47,Córnea,30.82,falecidos
+TO,2019,0,Medula,0,Autologos
+TO,2019,0,Medula,0,Alogenicos aparentado
+TO,2019,0,Medula,0,Alogenicos desconhecido
+TO,2019,0,Medula,0,Alogenicos não aparentado
+TO,2019,0,Medula,0,Sem modalidade
+TO,2019,0,Medula,0,vivos
+TO,2020,0,Rim,0,vivos
+TO,2020,0,Rim,0,falecidos
+TO,2020,0,Fígado,0,vivos
+TO,2020,0,Fígado,0,falecidos
+TO,2020,0,Coração,0,vivos
+TO,2020,0,Coração,0,falecidos
+TO,2020,0,Pulmão,0,vivos
+TO,2020,0,Pulmão,0,falecidos
+TO,2020,0,Pancreas,0,vivos
+TO,2020,0,Pancreas,0,falecidos
+TO,2020,0,Córnea,0,vivos
+TO,2020,11,Córnea,7.15,falecidos
+TO,2020,0,Medula,0,Autologos
+TO,2020,0,Medula,0,Alogenicos aparentado
+TO,2020,0,Medula,0,Alogenicos desconhecido
+TO,2020,0,Medula,0,Alogenicos não aparentado
+TO,2020,0,Medula,0,Sem modalidade
+TO,2020,0,Medula,0,vivos
+TO,2021,0,Rim,0,vivos
+TO,2021,0,Rim,0,falecidos
+TO,2021,0,Fígado,0,vivos
+TO,2021,0,Fígado,0,falecidos
+TO,2021,0,Coração,0,vivos
+TO,2021,0,Coração,0,falecidos
+TO,2021,0,Pulmão,0,vivos
+TO,2021,0,Pulmão,0,falecidos
+TO,2021,0,Pancreas,0,vivos
+TO,2021,0,Pancreas,0,falecidos
+TO,2021,0,Córnea,0,vivos
+TO,2021,24,Córnea,15.49,falecidos
+TO,2021,0,Medula,0,Autologos
+TO,2021,0,Medula,0,Alogenicos aparentado
+TO,2021,0,Medula,0,Alogenicos desconhecido
+TO,2021,0,Medula,0,Alogenicos não aparentado
+TO,2021,0,Medula,0,Sem modalidade
+TO,2021,0,Medula,0,vivos
+TO,2022,0,Rim,0,vivos
+TO,2022,0,Rim,0,falecidos
+TO,2022,0,Fígado,0,vivos
+TO,2022,0,Fígado,0,falecidos
+TO,2022,0,Coração,0,vivos
+TO,2022,0,Coração,0,falecidos
+TO,2022,0,Pulmão,0,vivos
+TO,2022,0,Pulmão,0,falecidos
+TO,2022,0,Pancreas,0,vivos
+TO,2022,0,Pancreas,0,falecidos
+TO,2022,0,Córnea,0,vivos
+TO,2022,71,Córnea,45.57,falecidos
+TO,2022,0,Medula,0,Autologos
+TO,2022,0,Medula,0,Alogenicos aparentado
+TO,2022,0,Medula,0,Alogenicos desconhecido
+TO,2022,0,Medula,0,Alogenicos não aparentado
+TO,2022,0,Medula,0,Sem modalidade
+TO,2022,0,Medula,0,vivos
+TO,2023,0,Rim,0,vivos
+TO,2023,0,Rim,0,falecidos
+TO,2023,0,Fígado,0,vivos
+TO,2023,0,Fígado,0,falecidos
+TO,2023,0,Coração,0,vivos
+TO,2023,0,Coração,0,falecidos
+TO,2023,0,Pulmão,0,vivos
+TO,2023,0,Pulmão,0,falecidos
+TO,2023,0,Pancreas,0,vivos
+TO,2023,0,Pancreas,0,falecidos
+TO,2023,0,Córnea,0,vivos
+TO,2023,67,Córnea,42.76,falecidos
+TO,2023,0,Medula,0,Autologos
+TO,2023,0,Medula,0,Alogenicos aparentado
+TO,2023,0,Medula,0,Alogenicos desconhecido
+TO,2023,0,Medula,0,Alogenicos não aparentado
+TO,2023,0,Medula,0,Sem modalidade
+TO,2023,0,Medula,0,vivos
+TO,2024,0,Rim,0,vivos
+TO,2024,0,Rim,0,falecidos
+TO,2024,0,Fígado,0,vivos
+TO,2024,0,Fígado,0,falecidos
+TO,2024,0,Coração,0,vivos
+TO,2024,0,Coração,0,falecidos
+TO,2024,0,Pulmão,0,vivos
+TO,2024,0,Pulmão,0,falecidos
+TO,2024,0,Pancreas,0,vivos
+TO,2024,0,Pancreas,0,falecidos
+TO,2024,0,Córnea,0,vivos
+TO,2024,74,Córnea,46.92,falecidos
+TO,2024,0,Medula,0,Autologos
+TO,2024,0,Medula,0,Alogenicos aparentado
+TO,2024,0,Medula,0,Alogenicos desconhecido
+TO,2024,0,Medula,0,Alogenicos não aparentado
+TO,2024,0,Medula,0,Sem modalidade
+TO,2024,0,Medula,0,vivos
+TO,2025,0,Rim,0,vivos
+TO,2025,0,Rim,0,falecidos
+TO,2025,0,Fígado,0,vivos
+TO,2025,0,Fígado,0,falecidos
+TO,2025,0,Coração,0,vivos
+TO,2025,0,Coração,0,falecidos
+TO,2025,0,Pulmão,0,vivos
+TO,2025,0,Pulmão,0,falecidos
+TO,2025,0,Pancreas,0,vivos
+TO,2025,0,Pancreas,0,falecidos
+TO,2025,0,Córnea,0,vivos
+TO,2025,87,Córnea,54.82,falecidos
+TO,2025,0,Medula,0,Autologos
+TO,2025,0,Medula,0,Alogenicos aparentado
+TO,2025,0,Medula,0,Alogenicos desconhecido
+TO,2025,0,Medula,0,Alogenicos não aparentado
+TO,2025,0,Medula,0,Sem modalidade
+TO,2025,0,Medula,0,vivos
+TO,2026,0,Rim,0,vivos
+TO,2026,0,Rim,0,falecidos
+TO,2026,0,Fígado,0,vivos
+TO,2026,0,Fígado,0,falecidos
+TO,2026,0,Coração,0,vivos
+TO,2026,0,Coração,0,falecidos
+TO,2026,0,Pulmão,0,vivos
+TO,2026,0,Pulmão,0,falecidos
+TO,2026,0,Pancreas,0,vivos
+TO,2026,0,Pancreas,0,falecidos
+TO,2026,0,Córnea,0,vivos
+TO,2026,55,Córnea,34.46,falecidos
+TO,2026,0,Medula,0,Autologos
+TO,2026,0,Medula,0,Alogenicos aparentado
+TO,2026,0,Medula,0,Alogenicos desconhecido
+TO,2026,0,Medula,0,Alogenicos não aparentado
+TO,2026,0,Medula,0,Sem modalidade
+TO,2026,0,Medula,0,vivos
